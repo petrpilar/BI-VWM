@@ -3,7 +3,7 @@
 <section class="main-container">
     <div class="main-wrapper">
         <h2>Extended boolean model</h2>
-        <form  method="get" action="includes/find.inc.php">
+        <form>
             <ul class="form-style-1">
                 <li>
                     <label>Query <span class="required">*</span></label>
