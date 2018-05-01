@@ -12,10 +12,10 @@
 
 using namespace std;
 
-const string DOC_DIR = "data";
+const string DOC_DIR = "../data";
 const string DOC_COUNT_FILE = DOC_DIR + "/docsCount.txt";
-const string WORDS_FILE = "words/words.txt";
-const string INVERTED_INDEX_FILE = "inverted_index/inverted_index.txt";
+const string WORDS_FILE = "../words/words.txt";
+const string INVERTED_INDEX_FILE = "../inverted_index/inverted_index.txt";
 
 //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
