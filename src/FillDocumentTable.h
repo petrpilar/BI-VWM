@@ -128,6 +128,7 @@ class Lemma {
 		mutable list<LemmaElem> m_Docs;
 		
 		//constructor
+                Lemma(){}
 		Lemma(string name, int docId):m_LemmaName(name) { m_Docs.push_back(LemmaElem(docId)); }
 		
 		bool operator== (const Lemma & lemma) const { 
