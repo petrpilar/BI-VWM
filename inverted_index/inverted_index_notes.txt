@@ -1,0 +1,5 @@
+format:
+term-space-docId-|-weight-space-...
+
+for example:
+"cat 3|0.345 15|0.12 45|0.7662"

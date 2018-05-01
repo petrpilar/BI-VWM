@@ -22,8 +22,8 @@ int main() {
 	WordPairContainer wordPairContainer;
 	
 	string word, lemma;
-	int fileCount = docCount();
-	for(int i = 1; i <= fileCount; i++) { //first doc is "doc1.txt"
+	int documentCount = docCount();
+	for(int i = 1; i <= documentCount; i++) { //first doc is "doc1.txt"
 		ifstream is;	
 		is.open(DOC_DIR + "/doc" + to_string(i) + ".txt");
 		if(is.is_open()) {
@@ -41,9 +41,9 @@ int main() {
 		}
 	}
 	
+	lemmaContainer.ComputeWeights(documentCount);
+	lemmaContainer.WriteToFile();
 	lemmaContainer.PrintContainer();
-	
-	//to the file
 	
 	//system("pause");
 }

@@ -1,0 +1,31 @@
+a 3|2
+adorable 1|1
+and 2|1
+be 1|0.36907 2|0.36907
+cat 1|0.36907 2|0.36907
+crocodile 3|2
+dog 2|1
+each 2|1
+everyone 3|1
+hamster 2|1
+happy 3|1
+inside 2|1
+is 1|0 2|0 3|0
+it 1|1
+just 3|1
+lie 3|1
+like 3|1
+little 3|1
+on 3|1
+other 2|1
+outside 1|0.36907 2|0.36907
+pen 3|1
+play 2|1
+rabbit 2|1
+sing 1|1
+table 3|1
+that 3|1
+the 1|0 2|0 3|0
+there 3|1
+too 3|1
+with 2|1
