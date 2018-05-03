@@ -16,6 +16,8 @@
 #include <stack>
 using namespace std;
 
+#include "FillDocumentTable.h"
+
 static int getPriority(string term) {
     if (term == "AND") return 0;
     if (term == "OR") return 0;
@@ -126,7 +128,18 @@ static string evaluate(string in_postfix) {
 }
 
 int main(int argc, char** argv) {
-    string infix = "kocka AND pes AND ( NOT opice OR krava )";
+	
+	if (argc != 2) {
+		cerr << "Argument count != 2." << endl;
+		return -1;
+	}
+	
+    //string infix = "kocka AND pes AND ( NOT opice OR krava )";
+	string infix(argv[1]);
+	
+	//init inverted index structure
+	
+	
     cout << "INFIX:   " << infix << endl;
     string postfix = InfixToPostfix(infix); //kocka pes AND opice NOT krava OR AND
     cout << "POSTFIX: " << postfix << endl;

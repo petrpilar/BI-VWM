@@ -220,6 +220,18 @@ class LemmaContainer {
 				os.close();
 			}
 		}
+			
+		//extract container from file
+		void InitContainer() {
+			m_Container.clear(); //clear everything
+			
+			ifstream is;
+			is.open(INVERTED_INDEX_FILE);
+			if (is.is_open()) {
+				
+				is.close();
+			}
+		}
 		
 		void PrintContainer() const { //just for debugging
 			for(auto x : m_Container) {
