@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
 	//init inverted index structure
 	LemmaContainer lemmaContainer; //container of inverted indexes
 	lemmaContainer.InitContainer(); //get structure from file
-	lemmaContainer.PrintContainer(); //debugging
+	lemmaContainer.PrintContainer(); //for debugging
 	
     cout << "INFIX:   " << infix << endl;
     string postfix = InfixToPostfix(infix); //kocka pes AND opice NOT krava OR AND

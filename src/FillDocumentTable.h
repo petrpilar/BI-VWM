@@ -205,6 +205,10 @@ class LemmaContainer {
 			}
 		}
 		
+		void RemoveStopWords() {
+			
+		}
+		
 		//iterate through whole container and compute lemma's weight
 		void ComputeWeights(int docCount) {
 			SetMaxInverseDocumentFrequency(docCount);
