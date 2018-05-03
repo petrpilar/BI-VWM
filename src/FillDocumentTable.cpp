@@ -41,6 +41,7 @@ int main() {
 		}
 	}
 	
+	lemmaContainer.RemoveStopWords();
 	lemmaContainer.ComputeWeights(documentCount);
 	lemmaContainer.WriteToFile();
 	lemmaContainer.PrintContainer();

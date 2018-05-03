@@ -128,7 +128,8 @@ class Lemma {
 		mutable list<LemmaElem> m_Docs;
 		
 		//constructor
-                Lemma(){}
+		Lemma() { }
+		Lemma(string name):m_LemmaName(name) { }
 		Lemma(string name, int docId):m_LemmaName(name) { m_Docs.push_back(LemmaElem(docId)); }
 		
 		bool operator== (const Lemma & lemma) const { 
@@ -158,6 +159,11 @@ class Lemma {
 			else {
 				(m_Docs.back()).IncrementDocCount(); //else just inc doc count - number of terms in single document
 			}
+		}
+		
+		//for constructing container from file
+		void PushBackDoc(int docId, double weight) const {
+			m_Docs.push_back(LemmaElem(docId, weight));
 		}
 		
 		friend ostream & operator<< (ostream & os, const Lemma & lemma) {
@@ -228,6 +234,22 @@ class LemmaContainer {
 			ifstream is;
 			is.open(INVERTED_INDEX_FILE);
 			if (is.is_open()) {
+				string line, lemma;
+				int docId;
+				double weight;
+				char delimiter;
+				while(getline(is, line)) { //cat 2|0.56 3|0.333 ...
+					istringstream iss(line);
+					
+					iss >> lemma;
+					auto it = m_Container.insert(Lemma(lemma));
+					while(iss) {
+						iss >> docId;
+						iss >> delimiter;
+						iss >> weight;
+						if (iss) (it.first)->PushBackDoc(docId, weight);
+					}
+				}
 				
 				is.close();
 			}
