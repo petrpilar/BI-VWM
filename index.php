@@ -3,7 +3,7 @@
 <section class="main-container">
     <div class="main-wrapper">
         <h2>Extended boolean model</h2>
-        <form method="get" action="/find.php">
+        <form method="get" action="find.php">
             <ul class="form-style-1">
                 <li>
                     <label>Query <span class="required">*</span></label>
@@ -11,7 +11,7 @@
                 </li>
                 <li>
                     <label>Number of results <span class="required">*</span></label>
-                    <input type="number" name="n_of_res" class="field-long" />
+                    <input type="number" name="number" class="field-long" />
                 </li>
                 <li>
                     <input type="submit" value="Find" />
