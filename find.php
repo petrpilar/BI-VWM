@@ -19,24 +19,27 @@
                 <h1>Results</h1>
                 <?php
                 if (isset($_GET["query"]) && isset($_GET["number"])) {
-                    $file = 'src\\test.exe';
+                    $file = 'src\\infix_to_postfix_and_evaluate.exe';
                     $input = $_GET["number"] . " " . $_GET["query"];
+
                     if (file_exists($file)) {
                         echo "<p>file " . $file . " exists</p>";
                     } else {
                         echo "<p>file " . $file . " does not exists</p>";
                     }
-                    //echo '<p> INPUT:' . $input . '</p>';
+
                     $return = -1;
-                    exec($file . " " . $input, $out, $return);
-                    //var_dump($out);
-                    //var_dump($return);
+                    $toexec = $file . " " . $input;
+                    exec($toexec, $out, $return);
+
+                    var_dump($out);
+                    var_dump($return);
 
                     foreach ($out as $item) {
-                        echo '<a href="./data/doc' . $item . '.txt">' . 'doc' . $item . '.txt' . "</a>";
+                        echo '<a href="./data/doc' . $item . '.txt">' . 'doc' . $item . '.txt' . "</a><br>";
                     }
                 } else {
-                    echo "<p>its working but not now </p>";
+                    echo "<p>its working but sadly not now (=_=)</p>";
                 }
                 ?>
             </div>
