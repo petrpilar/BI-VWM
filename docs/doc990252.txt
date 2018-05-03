@@ -1,0 +1,10 @@
+ng wall ablation , or in extreme cases , cracking or even explosion of the lamp . However , because 
+very short pulses often call for very high voltage and low capacitance , keeping the current density
+ from rising too high , some microsecond flashtubes are triggered by simply over-volting , that is ,
+ by applying a voltage to the electrodes which is much higher than the lamp 's self-flash threshold 
+, using a spark gap . Often , a combination of simmer voltage and over-volting is used .Prepulse tec
+hniquesVery rapid rise-times are often achieved using a prepulse technique . This method is performe
+d by delivering a small flash through the lamp just before the main flash . This flash is of much lo
+wer energy than the main flash ( typically less than 10% ) and , depending on the pulse duration , i
+s delivered just a few thousandths to a few millionths of a second before the main flash . The prepu
+lse heats the gas , leaving a good quantity of ionized particles to be used by the main flash . This

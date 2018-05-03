@@ -1,0 +1,10 @@
+am in A with the following probability distributions : the instantaneous cost distribution scriptsty
+le P(ctst) , the observation distribution scriptstyle P(xtst) and the transition scriptstyle P ( st+
+1st , at ) , while a policy is defined as conditional the two then define a Markov chain ( MC ) . Th
+e aim is to discover the policy that minimizes the cost i.e. , the MC for which the cost is minimal 
+. ANNs are frequently used in reinforcement learning as part of the overall algorithm . Dynamic prog
+ramming has been coupled with ANNs ( Neuro dynamic programming ) by Bertsekas and Tsitsiklis and app
+lied to multi-dimensional nonlinear problems such as those involved in vehicle routing , natural res
+ources management or medicine because of the ability of ANNs to mitigate losses of accuracy even whe
+n reducing the discretization grid density for numerically approximating the solution of the origina
+l control problems . Tasks that fall within the paradigm of reinforcement learning are control probl

@@ -1,0 +1,10 @@
+ures , communications servers have the following attributes : open , flexible , carrier-grade , and 
+communications-focused.Attributes OpenBased on industry-managed open standards Broad , multi-vendor 
+ecosystem Industry certified interoperability Availability of tools interfaces Multiple competitive 
+options for standards-based modulesFlexibleDesigned to easily incorporate application-specific added
+ value at all levels of the solution Can be rapidly repurposed as needs change to protect customer i
+nvestment Multi-level , scalable , bladed architecture Meets needs of multiple industries beyond tel
+ecommunications , such as medical imaging , defense and aerospaceCarrier gradeDesigned for Longevity
+ of supply Extended lifecycle ( 10 years ) support High availability ( 5NINES ) Non-disruptively upg
+radeable and updateable Hard real time capability to ensure quality of service for critical traffic 
+Meets network building regulationsIndustry-managed standardsSeveral industry-managed standards are c

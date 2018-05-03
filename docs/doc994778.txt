@@ -1,0 +1,10 @@
+inium , the titration is particularly precise , and a coefficient of variance ( CV ) of 0.03 has bee
+n achieved in the analysis of alum . When aluminium ion ( say as aluminium nitrate ) is employed as 
+the titrant , fluoride can be determined using the same chemistry . This titration is useful in the 
+determination of fluoride in complex acid mixtures used as etchants in the semi-conductor industry .
+Titration of total orthophosphateOrthophosphate ion can be conveniently thermometrically titrated wi
+th magnesium ions in the presence of ammonium ion . An aliquot of sample is buffered to approximatel
+y pH10 with an NH 3 /NH 4 Cl solution . The 4  + + PO 4  3- MgNH 4 PO 4 Is exothermic . CVs of under
+ 0.1 have been achieved in test applications . The procedure is suitable for the determination of or
+thophosphate in fertilizers and other products .Titration of nickelNickel can be titrated thermometr
+ically using di-sodium dimethylglyoximate as titrant . The chemistry is analogous to the classic gra

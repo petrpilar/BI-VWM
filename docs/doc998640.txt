@@ -1,0 +1,10 @@
+ple JSON-WSP description with attachments could look like : 262413source type : jsonwsp/description 
+, version : 1.0 , url : http : 362441TOOLONG , servicename : TransferService , types : File : data :
+ attachment , name : string , methods : upload : retinfo : doclines : , type : number , doclines : ,
+ params : incoming : deforder : 1 , doclines : , type : File , optional : false Attachment service r
+equest exampleA request to the method upload described above could look like this : 262479source Con
+tent-Type : multipart/related boundary= 322507TOOLONG 342541TOOLONG Content-Type : application/json 
+, charset=UTF-8 Content-ID : body type : jsonwsp/request , version : 1.0 , methodname : upload , arg
+s : incoming : data : cid:img2354.png , name : face.png , data : cid:cv.pdf , name : cv.pdf 342577TO
+OLONG Content-Type : application/octet-stream Content-ID : img2354.png 232613png-image 342638TOOLONG
+ Content-Type : application/octet-stream Content-ID : cv.pdf 232674pdf-image 362699TOOLONG Server Im

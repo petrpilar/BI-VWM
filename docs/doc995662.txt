@@ -1,0 +1,10 @@
+ames played AB = At bats H = Hits Avg. = Batting average HR = Home runs RBI = Runs batted inborder= 
+1 cellpadding= 2 cellspacing= 0 class= wikitable sortable ! bgcolor= DDDDFF width= 16% Player ! bgco
+lor= DDDDFF width= 9% G ! bgcolor= DDDDFF width= 9% AB ! bgcolor= DDDDFF width= 9% H ! bgcolor= DDDD
+FF width= 9% Avg. ! bgcolor= DDDDFF width= 9% HR ! bgcolor= DDDDFF width= 9% RBIPitchingStarting pit
+chersNote : G = Games pitched IP = Innings pitched W = Wins L = Losses ERA = Earned run average SO =
+ Strikeoutsborder= 1 cellpadding= 2 cellspacing= 0 class= wikitable sortable ! bgcolor= DDDDFF width
+= 16% Player ! bgcolor= DDDDFF width= 9% G ! bgcolor= DDDDFF width= 9% IP ! bgcolor= DDDDFF width= 9
+% W ! bgcolor= DDDDFF width= 9% L ! bgcolor= DDDDFF width= 9% ERA ! bgcolor= DDDDFF width= 9% SO Oth
+er pitchers IP = Innings pitched W = Wins L = Losses ERA = Earned run average SO = Strikeoutsborder=
+ 1 cellpadding= 2 cellspacing= 0 class= wikitable sortable ! bgcolor= DDDDFF width= 16% Player ! bgc

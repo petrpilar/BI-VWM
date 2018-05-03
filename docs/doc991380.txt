@@ -1,0 +1,10 @@
+l types that comprise embryoid bodies include embryonic stem cells ( ESCs ) derived from the blastoc
+yst stage of embryos from mouse ( mESC ) , primate , and human ( hESC ) sources . Additionally , EBs
+ can be formed from embryonic stem cells derived through alternative techniques , including somatic 
+cell nuclear transfer or the reprogramming of somatic cells to yield induced pluripotent stem cells 
+( iPS ) . Similar to ESCs cultured in monolayer formats , ESCs within embryoid bodies undergo differ
+entiation and cell specification along the three germ lineages endoderm , ectoderm , and mesoderm wh
+ich comprise all somatic cell types . In contrast to monolayer cultures , however , the spheroid str
+uctures that are formed when ESCs aggregate enables the non-adherent culture of EBs in suspension , 
+making EB cultures inherently scalable , which is useful for bioprocessing approaches , whereby larg
+e yields of cells can be produced for potential clinical applications . Additionally , although EBs 

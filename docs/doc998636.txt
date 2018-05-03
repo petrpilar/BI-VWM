@@ -1,0 +1,10 @@
+ed server reflection of the request object 's mirror value . It is marked as optional because it is 
+the client that controls via the request whether it is there or not . 262126source type : jsonwsp/re
+sponse , version : 1.0 , servicename : , methodname : , result : ( ,Additional building-blocks 19215
+4source = ( incompatible client server ) =  =  =  Specification 262175source type : jsonwsp/fault , 
+version : 1.0 , fault : code : , string : , ( detail : ( , ) , ) ? ( filename : , ) ? ( lineno : , )
+ ? ( , reflection : ) ? Descriptions : The meanings of the possible fault-codes : incompatible : Cli
+ent version of JSON-WSP is incompatible with the server version of JSON-WSP . Typically one will enc
+ounter this type of fault-code if there is a version major in difference between the client and the 
+server . server : An error occurred on the server side after the client request has been successfull
+y consumed . client : The clients request could not be consumed by the server due to incorrect forma

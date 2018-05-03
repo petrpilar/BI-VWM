@@ -1,0 +1,10 @@
+ the titrant , anda= the corresponding number of moles reacting : B = the analyte , andb= the corres
+ponding number of moles reacting : P = the product , andp= the corresponding number of moles produce
+d At completion , the reaction produces a molar heat of reactionH r which is shown as a measurable t
+emperature changeT. In an ideal system , where no losses or gains of heat due to environmental influ
+ences are involved , the progress of the reaction is observed as whetherH r is negative ( indicating
+ an exothermic reaction ) or positive ( indicating an endothermic reaction ) . In this context , env
+ironmental influences may include : Heat losses or gains from outside the system via the vessel wall
+s and cover Differences in the temperature between the titrant and the titrand Evaporative losses fr
+om the surface of the rapidly mixed fluid Heats of solution when the titrant solvent is mixed with t
+he analyte solvent Heat introduced by the mechanical action of stirring ( minor influence ) and Heat

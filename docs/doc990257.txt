@@ -1,0 +1,10 @@
+ype of the lamp and , to a lesser extent , by fill pressure . The resistance in flashtubes is not co
+nstant , but quickly drops as current density increases . In 1965 , Goncz showed that square root of
+ current density . As the arc develops , the lamp experiences a period of negative resistance , caus
+ing the resistance to decrease as the current increases . This occurs until the plasma comes into co
+ntact with the inner wall . When this happens , the voltage becomes proportional to the square root 
+of current , and the resistance in the plasma becomes stable for the remainder of the flash . It is 
+this value which is defined as K o . However , as the arc develops the gas expands , and calculation
+s for K o do not take into account the dead volume , which leads to a lower pressure increase . Ther
+efore , any calculation of K o is merely an approximation of lamp impedance.Output spectrum XenonA x
+enon flash lamp is a gas-discharge lamp that contains xenon gas . These lamps have three leads : an 

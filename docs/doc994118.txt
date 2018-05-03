@@ -1,0 +1,10 @@
+wpoint is a subdivision of the specification of a complete system , established to bring together th
+ose particular pieces of information relevant to some particular area of concern during the analysis
+ or design of the system . Although separately specified , the viewpoints are not completely indepen
+dent key items in each are identified as related to items in the other viewpoints . Moreover , each 
+viewpoint substantially uses the same foundational concepts ( defined in Part 2 of RM-ODP ) . Howeve
+r , the viewpoints are sufficiently independent to simplify reasoning about the complete specificati
+on . The mutual consistency among the viewpoints is ensured by the architecture defined by RM-ODP , 
+and the use of a common object model provides the glue that binds them all together . More specifica
+lly , the RM-ODP framework provides five generic and complementary viewpoints on the system and its 
+environment : The, scope and policies for the system . It describes the business requirements and ho

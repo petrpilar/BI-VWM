@@ -1,0 +1,10 @@
+823 bar:1824 bar:1825 bar:1826 bar:1827 bar:1828 bar:1829 bar:1830 bar:1831 bar:1832 bar:1833 bar:18
+34 bar:1835 bar:1836 bar:1837 bar:1838 bar:1839 bar:1840 text:1840 bar:1841 bar:1842 bar:1843 bar:18
+44 bar:1845 bar:1846 bar:1847 bar:1848 bar:1849 bar:1850 bar:1851 bar:1852 bar:1853 bar:1854 bar:185
+5 bar:1856 bar:1857 bar:1858 bar:1859 bar:1860 text:1860 bar:1861 bar:1862 bar:1863 bar:1864 bar:186
+5 bar:1866 bar:1867 bar:1868 bar:1869 bar:1870 bar:1871 bar:1872 bar:1873 bar:1874 bar:1875 bar:1876
+ bar:1877 bar:1878 bar:1879 bar:1880 text:1880 bar:1881 bar:1882 bar:1883 bar:1884 bar:1885 bar:1886
+ bar:1887 bar:1888 bar:1889 bar:1890 bar:1891 bar:1892 bar:1893 bar:1894 bar:1895 bar:1896 bar:1897 
+bar:1898 bar:1899 bar:1900 text:1900 bar:1901 bar:1902 bar:1903 bar:1904 bar:1905 bar:1906 bar:1907 
+bar:1908 bar:1909 bar:1910 bar:1911 bar:1912 bar:1913 bar:1914 bar:1915 bar:1916 bar:1917 bar:1918 b
+ar:1919 bar:1920 text:1920 bar:1921 bar:1922 bar:1923 bar:1924 bar:1925 bar:1926 bar:1927 bar:1928 b

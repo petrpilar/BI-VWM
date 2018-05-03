@@ -1,0 +1,10 @@
+on a specific server . doclines : Each doc-string contained in a doclines list reflects a single lin
+e of documentation that relates to the parent object of the doclines ..Request objectThe request obj
+ect contains information about which method to invoke and what arguments to invoke the method with .
+ It also The optional mirror value can be used to send information from the client which will then b
+e reflected by the server and returned unchanged in the response object 's reflection value . This f
+eature allows clients to send multiple requests to a method and send request identification values t
+hat can be intercepted by the client 's response handler . This is often necessary from javascript i
+f more than one request is being processed simultaneously by the server and the response order is un
+known by the client . Specification 262098source type : jsonwsp/request , version : 1.0 , methodname
+ : , args : ( : , ) ( , mirror : ) ? Response objectSpecification The reflection value is an unchang

@@ -1,0 +1,10 @@
+s the maximum achievable channel capacity for a given bandwidth and signal-to-noise ratio . Harold (
+ Hal ) R. Walker VMSK , for very minimum shift keying modulation , is one of several ultra narrow-ba
+nd modulation ( UNBM ) methods claimed to send high-speed digital data through very low bandwidth ( 
+or narrowband ) channels . VMSK is a variant of phase-shift keying , not related to minimum shift ke
+ying.Claims versus analysisWalker claims that with VMSK , Efficiencies up to 15 bits/sec/Hz are now 
+being achieved in usable hardware with C/N ratios better than that obtainable using FM , BPSK or QPS
+K . Analysis by third parties have concluded that no ultra narrow band modulation ( UNBM ) method , 
+which , can have substantially greater efficiency than conventional methods . On a spectrum analyzer
+ , a VMSK signal looks narrow . However , the actual bandwidth required to avoid interference is muc
+h wider . One analyst says the spectral efficiency claims being made for VMSK are hogwash.Personalit

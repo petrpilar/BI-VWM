@@ -1,0 +1,10 @@
+zed as Eyntn , Antn , and ntn ) is a village in Qaedrahmat Rural District , Zagheh District , Khorra
+mabad County , Lorestan Province , Iran . At the 2006 census , its population was 40 , in 8 families
+ .Referencessubdivisiontype1 =Province Seyl Reza ( , also Romanized as Seyl Re ) is a village in Qae
+drahmat Rural District , Zagheh District , Khorramabad County , Lorestan Province , Iran . At the 20
+06 census , its population was 105 , in 18 families .ReferencesIn the field of computer vision , vel
+ocity moments are weighted averages of the intensities of pixels in a sequence of images , similar t
+o image moments but in addition to describing an object 's shape also describe its motion through th
+e sequence of images . Velocity moments can be used to aid automated identification of a shape in an
+ image when information about the motion is significant in its description . There are currently two
+ established versions of velocity moments : CartesianJ . D. Shutler , M. S. Nixon , C. J. Harris , S

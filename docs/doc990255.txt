@@ -1,0 +1,10 @@
+ of very expensive gases like krypton or xenon . The most common gas used in an ablative flashtube i
+s air , although sometimes cheap argon is also used . The heat from transferring to the glass , but 
+the flashes can often be shorter than a normal lamp of comparative size . The flash from a single ab
+lative flashtube can also be more intense than multiple lamps . For these reasons , the most common 
+use for the lamps is for the pumping of dye lasers .Variable pulse width controlIn addition , an ins
+ulated-gate bipolar transistor ( IGBT ) can be connected in series with both the trigger transformer
+ and the lamp , making adjustable flash durations possible . An IGBT used for this purpose must be r
+ated for a high pulsed current , so as to avoid over-current damage to the semiconductor junction . 
+This type of system is used frequently in high average power laser systems , and can produce pulses 
+ranging from 500 microseconds to over 20 milliseconds . It can be used with any of the triggering te

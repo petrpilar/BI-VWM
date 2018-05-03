@@ -1,0 +1,10 @@
+t , there is no widely agreed approach to the structuring of such specifications . This adds to the 
+cost of adopting the use of UML for system specification , hampers communication between system deve
+lopers and makes it difficult to relate or merge system specifications where there is a need to inte
+grate IT systems . Although the ODP reference model provides abstract languages for the relevant con
+cepts , it does not prescribe particular notations to be used in the individual viewpoints . The vie
+wpoint languages defined in the reference model are abstract languages in the sense that they define
+ what concepts should be used , not how they should be represented . This lack of precise notations 
+for expressing the different models involved in a multi-viewpoint specification of a system is a com
+mon feature for most enterprise architectural approaches , including the Zachman Framework , the 4+1
+ model , or the RM-ODP . These approaches were consciously defined in a notation- and representation

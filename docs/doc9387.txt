@@ -1,0 +1,10 @@
+ht isotopes of element 115 using the reaction 241 Am + 48 Ca . A team of researchers at Lund Univers
+ity announced they had corroborated the 2004 findings in August 2013 by shooting calcium ions into a
+ thin film of americium . Researchers at the GSI Helmholtz in Darmstadt , Germany reported the succe
+ssful synthesis of ununpentium using the same reaction just two weeks later Target-projectile combin
+ationsThe table below contains various combinations of targets and projectiles which could be used t
+o form compound nuclei with Z=115 . Each entry is a combination for which calculations have provided
+ estimates for cross section yields from various neutron evaporation channels . The channel with the
+ highest expected yield is given . class= wikitable style= text-align:center ! Target ! ! Projectile
+ ! ! CN ! ! Attempt result ! 208 Pb - ! 232 Th - ! 238 U - ! 237 Np - ! 244 Pu - ! 243 Am - ! 241 Am
+ - ! 248 Cm - ! 249 Bk - ! 249 CfHot fusionHot fusion reactions are processes that create compound n

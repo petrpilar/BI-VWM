@@ -1,0 +1,10 @@
+, second pentad ( ) and last pentad ( ) . Pentads in Chunfen include : China First pentad : , ' The 
+dark birds arrive ' . ' Dark bird ' in this case refers to swallows , which are also making their no
+rthward migration . Second pentad : , ' Thunder sounds ' , referring to the ' Lightning begins ' . T
+his refers to thunderstorms as well , but also to the gradual lengthening of daytime , and the preva
+lence of sunlight . Japan First pentad : Second pentad : Last pentad : 2668810br 3468838div In compu
+tational complexity theory , generalized geography is a well-known PSPACE-complete problem .Introduc
+tionGeography is a children 's game , which is good for a long car trip , where players take turns n
+aming cities from anywhere in the world . Each city chosen must begin with the same letter that ende
+d the previous city name . Repetition is not allowed . The game begins with an arbitrary starting ci
+ty and ends when a player loses because he or she is unable to continue .Graph modelTo visualize the

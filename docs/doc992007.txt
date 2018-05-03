@@ -1,0 +1,10 @@
+962 bar:1866 from:0 till : 11570 bar:1872 from:0 till : 12437 bar:1876 from:0 till : 13725 bar:1881 
+from:0 till : 15763 bar:1886 from:0 till : 17327 bar:1891 from:0 till : 18461 bar:1896 from:0 till :
+ 20285 bar:1901 from:0 till : 18219 bar:1906 from:0 till : 19025 bar:1911 from:0 till : 20802 bar:19
+21 from:0 till:19152 bar:1926 from:0 till:20468 bar:1931 from:0 till:20592 bar:1936 from:0 till:2116
+0 bar:1946 from:0 till : 23441 bar:1954 from:0 till:23768 bar:1962 from:0 till:25717 bar:1968 from:0
+ till:26507 bar:1975 from:0 till:26891 bar:1982 from:0 till:25471 bar:1990 from:0 till:25874 bar:199
+9 from:0 till:25595 bar:2007 from:0 till:26401 TextData= fontsize:S pos : ( 50,10 ) text:source Cass
+ini and INSEE SightsThe Arch of Germanicus , a triumphal arch , was built at the entrance to a bridg
+e , where the main Roman road crossed the Charente River was saved by Prosper Mrime and rebuilt at i
+ts present location on the bank of the river . Ruins of the Roman amphitheatre can be found on the l

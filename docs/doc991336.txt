@@ -1,0 +1,10 @@
+HT ) is an image compression algorithm that exploits the inherent similarities across the subbands i
+n a wavelet decomposition of an image .General descriptionThe algorithm codes the most important wav
+elet transform coefficients first , and transmits the bits so that an increasingly refined copy of t
+he original image can be obtained progressively . Putiidhem was a large native village of the Acjach
+emen people , today the Mission Indians tribe goes by the nameJuaneo. It is situated in San Juan Cap
+istrano , California just off Interstate 5 , about a mile north of the mission .HistoryThe site of t
+he village , used from approximately 1200 CE until 1776 when the Acjachemen were moved to Mission Sa
+n Juan Capistrano , is variously described as an ancient/pre-historic village and as a gravesite . T
+he site , when an open field , was used until recently as a sacred site by the Juaneos . For many ye
+ars , rodeos and circuses were held at that location .Present dayThe property is currently occupied 

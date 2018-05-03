@@ -1,0 +1,10 @@
+e maximum absolute difference between the polynomial and the function . In this case , the form of t
+he solution is precised by the equioscillation theorem .ProcedureThe Remez algorithm starts with the
+ functionfto be approximated and a setXof n + 2 sample points x1 , x2 , ... , xn+2 linearly mapped t
+o the interval . The steps are :Solve the linear system of equations : b0 + b1 xi+ .. +bn xi n + ( -
+1 ) i E = f(xi) ( where i=1 , 2 , .. n+2 ) , : for the unknowns b0 , b1 ... bn andE.Use the bi as co
+efficients to form a polynomial Pn .Find the setMof points of local maximum error Pn(x) - f(x) .If t
+he errors at every m in M are of equal magnitude and alternate in sign , then Pn is the minimax appr
+oximation polynomial . If not , replaceXwithMand repeat the steps above . The result is called the p
+olynomial of best approximation , the Chebyshev approximation , or the minimax approximation . A rev
+iew of technicalities in implementing the Remez algorithm is given by W. Fraser .On the choice for t

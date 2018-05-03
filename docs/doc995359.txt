@@ -1,0 +1,10 @@
+icities . The hard-soft acid-base principle is utilized to predict molecular interactions and reacti
+on direction . In general , interactions between molecules of the same type are preferred . That is 
+, hard acids will associate with hard bases , and soft acids with soft bases . The concept of hard a
+cids and bases is often exploited in the synthesis of inorganic coordination complexes .KineticsPhys
+ical organic chemists use the mathematical foundation of chemical kinetics to study the rates of rea
+ctions and reaction mechanisms . Unlike thermodynamics , which is concerned with the relative stabil
+ities of the products and reactants ( G ) and their equilibrium concentrations , the study of kineti
+cs focuses on the free energy of activation ( G  ) -- the difference in free energy between the reac
+tant structure and the transition state structureof a reaction , and therefore allows a chemist to s
+tudy the process of equilibration . Mathematically derived formalisms such as the Hammond Postulate 

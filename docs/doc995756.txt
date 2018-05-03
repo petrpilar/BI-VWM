@@ -1,0 +1,10 @@
+ructions exist , while there are no such instructions for SATD . However , SATD can still be optimiz
+ed considerably with SIMD instructions on most modern CPUs . The benefit of SATD is that it more acc
+urately predicts quality from both the standpoint of objective and subjective metrics . As such , it
+ is to drive and estimate distortion explicitly , such as in the Theora ( since 1.1 alpha2 ) encoder
+ , as an optional metric used in wide motion searches , such as in the Microsoft VC-1 encoder , or a
+s a metric used in sub-pixel refinement , such as in x264. Michael Davison may refer to : Michael S.
+ Davison ( born 1916 ) , American general Mike Davison ( born 1950 ) , Canadian politician birthplac
+e = Birmingham , England Bernard Patrick Bunny Larkin ( born 11 January 1936 ) is an English former 
+professional footballer who played at inside forward or wing half . He played in the First Division 
+of the Football League and in European competition for Birmingham City , and in the Football League 

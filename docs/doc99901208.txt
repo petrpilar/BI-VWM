@@ -1,0 +1,10 @@
+nsors on the skin detect electromyography ( EMG ) signals from the muscles of the wearers leg(s) . E
+MG signals can be measured from just one muscle or many , depending on the type of the exoskeleton a
+nd how many joints are actuated . Each signal measured is then sent to a controller , which is eithe
+r an onboard microcontroller ( mounted to the exoskeleton ) or to a nearby computer . Onboard microc
+ontrollers are used for long-term assistive devices since the wearer must be able to walk in differe
+nt locations while wearing the exoskeleton , whereas computers not carried by the exoskeleton can be
+ not have to walk very far in a clinical or lab environment . The controller filters out noise from 
+the EMG signals and then normalizes them so as to better analyze the muscle activation pattern . The
+ normalized EMG value of a muscle represents its activation percentage , since the EMG signal is nor
+malized by dividing it by the maximum possible EMG reading for the muscle it came from . The maximum

@@ -1,0 +1,10 @@
+with predictions of the synaptotropic hypothesis of dendritic branching .Dissenting EvidenceEvidence
+ against the synaptotropic hypothesis comes from experiments with munc 18 knock-out mice , mice engi
+neered to be missing the Munc 18-1 protein , without which the mice never release neurotransmitters 
+from synaptic vesicles . Despite this , the mice develop normal brains before dying immediately afte
+r birth .Imaging Techniques Dynamic MorphometricsDynamic morphometrics technology involves new metho
+ds of labeling , imaging , and quantifying dendritogenesis . The transparent , externally developing
+ vertebrate embryos ofXenopus laevisand zebrafish allow direct imaging of the organism in the critic
+al stages of development while keeping the embryos intact . Individual brain neurons can be fluoresc
+ently labeled using single cell electroporation while leaving the rest of the brain unaltered . Also
+ , two-photon microscopy allows in vivo time-lapse imaging to create high-resolution , 3D images of 

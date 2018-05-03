@@ -1,0 +1,10 @@
+metric or nearly so .Thermometric titration determinations may be recommended where The analyst wish
+es to simplify the conduct of a variety of titrations by using one sensor for all . For example , a 
+laboratory might conduct routinely acid/base , redox , complexometric , sulfate and chloride titrati
+ons . A single thermometric sensor in conjunction with an autosampler will enable all titrations to 
+be titration sensors . After preparation of the samples and placing in the carousel , the analyst as
+signs the appropriate thermometric method to the beaker position in the carousel . The titration env
+ironment is considered unsuitable for conventional titration sensors . For example , glass membrane 
+pH electrodes must be kept adequately hydrated for proper operation . The use of such electrodes in 
+substantially non-aqueous media as in the determination of trace acids in lipids and lubricating oil
+s can lead to loss of performance as the membrane fouls and dehydrates , and/or if the reference jun

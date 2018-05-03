@@ -1,0 +1,10 @@
+switching to shikigami mode , all on-screen items are automatically retrieved . Special attack : Pre
+ss Special attack button . Player is invulnerable when the attack is in effect . Player gets weapon 
+level is at 1 , 2 , 3 , 4 respectively when destroying an enemy .Tension Bonus System ( TBS )When pl
+ayer is close to enemy bullet , player gains multiplier based on distance of bullet from player 's c
+entre , with closer distance receiving higher multiplier . The multiplier ranges from 2x to 8x . Sco
+re multiplier is applied when destroying enemy or retrieving item . When destroying enemy in shikiga
+mi mode , the multiplier also applies to the number of items dropped by enemy . When an enemy is des
+troyed in shikigami mode , all item dropped by the enemy is automatically retrieved .Characters  ? ?
+ ? ? ( Tagami , from Elemental Gearbolt )Bosses ( Stage 1 ) ( Stage 2 ) ( Stage 3 ) ( Stage 4 ) ( St
+age 5 ) ( Stage 5-3 )Additions in ConversionsThe Xbox release adds Practice mode , Gallery , and Rep

@@ -1,0 +1,10 @@
+ic day/night fair weather version which adds imaging infrared ( IIR ) guidance that matches the targ
+et area with a target model stored in its memory for a 1 m CEP. A third version uses semi-active las
+er homing instead of IIR allowing it to hit moving targets with more precision . It was qualified in
+ April 2013 . On October 2010 , these versions were given alphanumeric designations with the INS/GPS
+ version becoming the SBU-38 ( SBU=Smart Bomb Unit ) , the INS/GPS/IIR version becoming the SBU-54 a
+nd the INS/GPS/SALH version becoming the SBU-64 the system as a whole was renamed Hammer to make it 
+more appealing to export customers was placed by the DGA in 2000 for a total of 744 units deliveries
+ started in 2007 after a two-year delay in development . In 2009 a second order for 680 units was pl
+aced , by the end of that year deliveries had reached 334.AfghanistanAASM made its combat debut on A
+pril 20 , 2008 , during the War in Afghanistan when a Rafale fighter fired two in support of ground 

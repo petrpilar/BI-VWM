@@ -1,0 +1,10 @@
+ a foreign gene requires restructuring the gene to include sequences that are required for producing
+ an mRNA molecule that can be used by the host 's translational apparatus ( e.g. promoter , translat
+ional initiation signal , and transcriptional terminator ) . Specific changes to the host organism m
+ay be made to improve expression of the ectopic gene . In addition , changes may be needed to the co
+ding sequences as well , to optimize translation , make the protein soluble , direct the recombinant
+ protein to the proper cellular or extracellular Properties of organisms containing recombinant DNAI
+n most cases , organisms containing recombinant DNA have apparently normal phenotypes . That is , th
+eir appearance , behavior and metabolism are usually unchanged , and the only way to demonstrate the
+ presence of recombinant sequences is to examine the DNA itself , typically using a polymerase chain
+ reaction ( PCR ) test . Significant exceptions exist , and are discussed below . If the rDNA sequen

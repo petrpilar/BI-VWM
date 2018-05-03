@@ -1,0 +1,10 @@
+ or severe mechanical stress is anticipated . The thermistor is supported by suitable electronic cir
+cuitry to maximize sensitivity to minute changes in solution temperature . The circuitry in the Metr
+ohm 859 Titrotherm thermometric titration interface moldule is capable of resolving temperature chan
+ges as low as 10 5 K. A critical element in modern automated thermometric titrimetry is the ability 
+to locate the endpoint with a high degree of reproducibility . It is clearly impractical and insuffi
+cient for modern demands of accuracy and precision to estimate the inflection by intersection of tan
+gents . This is done conveniently by derivatization of the temperature curve . The second derivative
+ essentially locates the intersection of tangents to the temperature curve immediately pre- and post
+- the breakpoint . Thermistors respond quickly to small changes in temperature such as temperature g
+radients in the mixed titration solution , and thus the signal can exhibit a small amount of noise .

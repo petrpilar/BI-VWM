@@ -1,0 +1,10 @@
+ machine to 2007 ) wrote an article regarding local vs non-local learning , as well as shallow vs de
+ep architecture . Some other criticisms came from believers of hybrid models ( combining neural netw
+orks and symbolic approaches ) . They advocate the intermix of these two approaches and believe that
+ hybrid models can better capture the mechanisms of the human mind ( Sun and Bookman , 1990 ) . 2270
+143gallery 2570167TOOLONG single-layer feedforward artificial neural network . Arrows originating fr
+om scriptstyle x2 are omitted for clarity . There are p inputs to this network and q outputs . In th
+is system , the value of the qth output , scriptstyle yq would be calculated as scriptstyle yq = sum
+(xiwiq) Image:Twolayerann.svgA two-layer feedforward artificial neural network . 3370194TOOLONG 3070
+229TOOLONG Obelix ( Oblix in French ) is a cartoon character from the French comic book series Aster
+ix . He works as a menhir sculptor and deliveryman , and is Asterix 's best friend . Obelix is noted

@@ -1,0 +1,10 @@
+tblue 4 ! bgcolor= lightblue Crculo Deportivo ! bgcolor= lightblue 2 ! bgcolor= lightblue 6 ! bgcolo
+r= lightblue 1 ! bgcolor= lightblue 0 ! bgcolor= lightblue 5 ! bgcolor= lightblue 6 ! bgcolor= borde
+r= 2 cellpadding= 2 cellspacing= 0 style= margin : 0 background : f9f9f9 border : 1px aaa solid bord
+er-collapse : collapse font-size : 85% ! Position ! Team ! Points ! Played ! Won ! Drawn ! Lost ! Fo
+r ! Against ! Difference ! bgcolor= lightgreen 1 ! bgcolor= lightgreen Argentinos Juniors ! bgcolor=
+ lightgreen 9 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 3 ! bgcolor= lightgreen 3 ! bgcolor= lig
+htgreen 0 ! bgcolor= lightgreen 16 ! bgcolor= lightgreen 5 ! bgcolor= lightgreen 11 ! bgcolor= light
+green 2 ! bgcolor= lightgreen Chacarita Juniors ! bgcolor= lightgreen 7 ! bgcolor= lightgreen 6 ! bg
+color= lightgreen 3 ! bgcolor= lightgreen 1 ! bgcolor= lightgreen 2 ! bgcolor= lightgreen 11 ! bgcol
+or= lightgreen 6 ! bgcolor= lightgreen 5 ! bgcolor= lightblue 3 ! bgcolor= lightblue Central Norte !

@@ -1,0 +1,10 @@
+e lamp . The processes affecting these are sputter and ablation of the inner wall . Sputter occurs w
+hen the energy level is very low , below 15% of the explosion energy , or when the pulse duration is
+ very long . Sputter is the vaporization of metal from the cathode , which is redeposited on the wal
+ls of the lamp , blocking the light output . Since the cathode is more emissive than the anode , the
+ flashtube is polarized , and connecting the lamp to the power source incorrectly will quickly ruin 
+it . However , even if connected properly , the degree of sputter may vary considerably from lamp to
+ lamp . Therefore , it is impossible to predict the lifetime accurately at low energy levels . At hi
+gher energy levels , wall ablation becomes the main process of wear . The electrical arc slowly erod
+es the inner wall of the tube , forming microscopic cracks that give the glass glass , increasing th
+e pressure beyond an operable level . This causes triggering problems , known as jitter . However , 

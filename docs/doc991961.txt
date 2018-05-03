@@ -1,0 +1,10 @@
+at if one imagined breaking each shell would collapse only subsequent to the shells interior to it ,
+ and no shells cross during collapse . As a result , the free-fall time of a massless particle at R 
+can be expressed solely in terms of the total mass M interior to it . In terms of the average densit
+y interior to R , : tff = frac14sqrt frac3 pi2 G rhosimeq 0.5427 frac1 sqrt G rhosimeq 66430 , rm s 
+frac1 sqrt rho where the latter is in SI units . This result is exactly the same as from the previou
+s section when : M gg m .ApplicationsThe free-fall time is a very useful estimate of the relevant ti
+mescale for a number of astrophysical processes . To get a sense of its application , we may write :
+ tff simeq frac35 , mboxminsqrtrho cdot sqrtfracmboxgmboxcm3 . Here we have estimated the numerical 
+value for the free-fall time as roughly 35 minutes for a body of mean density 1 g/cm 3 .ComparisonFo
+r an object falling takes from a given position to fall to the central point mass is the same as the

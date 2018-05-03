@@ -1,0 +1,10 @@
+parable American JDAM , although the latter has been manufactured in much larger quantities ( 250,00
+0 kits ) and would be reasonable to expect a drastic reduction of the price of the French munition i
+f larger contracts are signed and economies of scale are achieved . The 2012 defence budget presente
+d to the Senate reported the project had cost 592.2m ( US$800m ) with a unit cost of 164,000 , or 25
+2,000 including development costs .VariantsAASM comes in several variants according to its size and 
+the type of guidance used . The current model features a 250 kg bomb matched to , containing a rocke
+t booster and enlarged fins . There is also a 125 kg , first tested in 2009 , and a proposed 1000 kg
+ version . As for guidance , the basic version combines data from a Global Positioning System ( GPS 
+) receiver and an inertial navigation system ( INS ) unit through Kalman filtering , achieving a 10 
+m circular error probability ( CEP ) . This decametric all-weather variant is complemented by a metr

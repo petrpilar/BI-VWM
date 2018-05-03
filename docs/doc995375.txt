@@ -1,0 +1,10 @@
+paratus and is less commonly performed . However , as Raman spectroscopy relies on light scattering 
+it can be performed on microscopic samples such as the surface of a heterogeneous catalyst , a phase
+ boundary , or on a one microliter ( L ) subsample within a larger liquid volume . The applications 
+of vibrational spectroscopy are often used by astronomers to study the composition of molecular gas 
+clouds , extrasolar planetary atmospheres , and spectroscopy , or ultraviolet-visible ( UV-vis ) spe
+ctroscopy , is performed in the visible and ultraviolet regions of the electromagnetic spectrum and 
+is useful for probing the difference in energy between the highest energy occupied ( HOMO ) and lowe
+st energy unoccupied ( LUMO ) molecular orbitals . This information is useful to physical organic ch
+emists in the design of organic photochemical systems and dyes , as absorption of different waveleng
+ths of visible light give organic molecules color . A detailed understanding of an electronic struct

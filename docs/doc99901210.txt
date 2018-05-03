@@ -1,0 +1,10 @@
+footswitch . Proportional myoelectric control of robotic lower limb exoskeletons has advantages over
+ other control methods , such as : Its physiological nature allows for an effective way to scale the
+ magnitude of mechanical assistance from the exoskeleton It results in reduced biological muscle rec
+ruitment versus kinematic based control methods It allows easy adaptation of the exoskeleton control
+ for new motor tasks However , proportional myoelectric control also has disadvantages compared to o
+ther control methods , including : The surface electrode interface can often cause difficulties in o
+btaining a reliable EMG signal The system requires tuning to determine the appropriate thresholds an
+d gains The musculoskeletal system has many synergistic muscles that are not easily accessible via s
+urface EMG electrodes Since neurological disorders result in decreased neuromuscular control , some 
+to use an exoskeleton with myoelectric controlProportional Myoelectric Control with Flexor Inhibitio

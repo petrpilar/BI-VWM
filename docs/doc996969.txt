@@ -1,0 +1,10 @@
+erpentina may refer to : Serpentina ( comics ) , an X-Men character Ulmus hollandica ' Serpentina ' 
+, an elm cultivar Serpentina ( music band ) , a Spanish indie pop music band companyname = Wolf Fram
+eworks companytype = Privately held company foundation = 2006 location = Bangalore , Karnataka , Ind
+ia industry = Cloud computing , platform as a service products = SaaS Business Applications homepage
+ = Wolf Frameworks is a web application designing &amp development platform as a service based in In
+dia and United States and represented via partners worldwide . Founded in 2006 , the cloud computing
+ Infrastructure offered by the company enables users to design &amp deliver cross platform SaaS appl
+ications without writing technical code .ProductWOLF is 100% AJAX , XML and . NET based and enables 
+building of mashable and interoperable web applications by using a browser , an internet connection 
+and the knowledge of modelling business .Features A technical code free designing environment for cr

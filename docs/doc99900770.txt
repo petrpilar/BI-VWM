@@ -1,0 +1,10 @@
+n .DetailsAnant Bhardwaj , started working on this project at Stanford University , for the Designin
+g Liberation Technology class , taught by Joshua Cohen , and Terry Winograd . He later moved to MIT 
+Computer Science and Artificial Intelligence Laboratory , where this project is currently hosted . T
+he project is released under MIT License , and is currently being tested in Nairobi , over a toll fr
+ee number ( 2122 ) . It was first demonstrated in the workshop Politics &amp Tools for Creatives hel
+d at Pawa254 Hub , Nairobi , on Jan. 9 2013.Examples Register/UnregisterRegister Syntax : register U
+n-Register Syntax : unregister New PostSyntax : post Reply to a PostSyntax : reply Search Follow Syn
+tax : follow Unfollow Syntax : unfollow NotificationsNotification when somebody replies to a post No
+tification to followers of an organization ( e.g. @stanford ) Notification to followers of a hash-ta
+g ( e.g. dlt )References Nakuul Mehta ( born in Mumbai , India ) is an Indian actor and model , best

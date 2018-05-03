@@ -1,0 +1,10 @@
+ted using molecular fragments with known heats of formation . This type of analysis is often referre
+d to as Benson group increment theory , after chemist Sidney Benson who spent a career developing th
+e concept . The thermochemistry of reactive intermediates - carbocations , carbanions , and radicals
+ is data are available for radical systems . Carbocation and carbanion stabilities can be assessed u
+sing hydride ion affinities and pK a values , respectively .Conformational analysisOne of the primar
+y methods for evaluating chemical stability and energetics is conformational analysis . Physical org
+anic chemists use conformational analysis to evaluate the various types of strain present in a molec
+ule to predict reaction products . Strain can be found in both acyclic and cyclic molecules , manife
+sting itself in diverse systems as torsional strain , allylic strain , ring strain , andsyn-pentane 
+strain . A-values provide a quantitative basis for predicting the conformation of a substituted cycl

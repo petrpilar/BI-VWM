@@ -1,0 +1,10 @@
+oduction scheduling , customer information management , energy management , and accounting . It is t
+ypically hosted on servers and provides simultaneous services to a large number of users , typically
+ over a computer network . executed on a user 's personal computer and serves only one user at a tim
+e .TypesEnterprise software can be categorized by business function . Each type of enterprise applic
+ation can be considered a system due to the integration with a firm 's business processes . Categori
+es of enterprise software may overlap due to this systemic interpretation . For example , IBM 's Bus
+iness Intelligence platform ( Cognos ) , integrates with a predictive analytics platform ( SPSS ) an
+d can obtain records from its database packages ( Infosphere , DB2 ) . Blurred lines between package
+ functions make delimitation difficult , and in many ways larger software companies define these som
+ewhat arbitrary categories . Nevertheless , certain industry standard product categories have emerge

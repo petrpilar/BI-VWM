@@ -1,0 +1,10 @@
+in difficult to reach environments ( high pressure , high temperature , gas phase , phase boundaries
+ ) . Molecular vibrations are quantized in an analogous manner to electronic wavefunctions , with in
+teger increases in energy between vibrational states is nearly constant , often falling in the energ
+y range corresponding to infrared photons , because at normal temperatures molecular vibrations clos
+ely resemble harmonic oscillators . It allows for the crude identification of functional groups in o
+rganic molecules , but spectra are complicated by vibrational coupling between nearby functional gro
+ups in complex molecules . Therefore , its utility in structure determination is usually limited to 
+simple molecules . Further complicating matters is that some vibrations do not induce a change in th
+e molecular dipole moment and will not be observable with standard IR absorption spectroscopy . Thes
+e can instead be probed through Raman spectroscopy , but this technique requires a more elaborate ap

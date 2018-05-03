@@ -1,0 +1,10 @@
+green. Thus , thisEis a lower bound for the minimum error which can be achieved with 2 changes the n
+otation from b0 + b1x + .. + bnxn to p(x) . Step 3 improves upon the input nodes x0 , ... , xn+1 and
+ their errors pm E as follows . In each P-region , the current node xi is replaced with the local ma
+ximizer barxi and in each N-region xi is replaced with the local minimizer . ( Expect barx0 atA, the
+ bar xi near xi , and barxn+1 atB. ) No high precision is required here , the standardline searchwit
+h a couple ofquadratic fitsshould suffice . ( See ) Let zi : = p(barxi) - f(barxi) . Each amplitude 
+zi is greater than or equal toE. The Theorem ofde La Valle Poussinand its proof also apply to z0 , .
+. , zn+1 lower bound for the best error possible with polynomials of degreen. Moreover , maxzi comes
+ in handy as an obvious upper bound for that best possible error . Step 4 : With min , zi and max , 
+zi as lower and upper bound for the best possible approximation error , one has a reliable stopping 

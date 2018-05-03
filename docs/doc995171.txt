@@ -1,0 +1,10 @@
+ as a web switch , content switch , or multilayer switch , the purpose of which is to distribute tra
+ffic among a number of servers or geographically dislocated sites based on application specific crit
+eria . In the branch office portion of an ADN is the WAN optimization controller , which uses object
+less caching techniques The ADC , one component of an ADN , evolved from layer 4-7 switches in the l
+ate 1990s when it became apparent that traditional load balancing techniques were not robust enough 
+to handle the increasingly complex mix of application traffic being delivered over a wider variety o
+f network connectivity options .Application delivery principle . This principle keeps the core netwo
+rk relatively simple and moves the intelligence as much as possible to the network end-points : the 
+hosts and clients . An Application Delivery Network ( ADN ) enhances the delivery of applications ac
+ross the Internet by employing a number of optimization techniques . Many of these techniques are ba

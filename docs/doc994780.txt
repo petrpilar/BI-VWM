@@ -1,0 +1,10 @@
+tions of fluoride ( including hydrofluoric acid ) can be determined by a simple thermometric titrati
+on with boric acid . : B(OH) 3 + 3F  + 3H + BF 3 + 3H 2 O The titration plot illustrated in Figure 1
+9 shows that the endpoint is quite rounded , suggesting that the reaction might not proceed to stoic
+hiometric equilibrium . However , since the regions of the temperature curve immediately before and 
+after the endpoint are quite linear , the second derivative of this curve ( representing the interse
+ction of tangents ) will accurately locate the endpoint . Indeed , excellent precision can be obtain
+ed with this titration , with a CV of less than 0.1.Determination of formaldehydeFormaldehyde can be
+ determined in electroless copper plating solutions and titrating the liberated hydroxyl ion with st
+andard acid . : H 2 C=O + HSO 3  + H 2 O HO-CH 2 -SO 3  + OH ReferencesJ . M. Bell and C. F. Cowell 
+.J. Am . Chem . Soc.35 , 49-54 ( 1913 ) E . VanDalen and L. G. Ward . Thermometric titration determi

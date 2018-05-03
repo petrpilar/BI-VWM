@@ -1,0 +1,10 @@
+traffic to a pool , also known as a cluster or farm , of servers . The application delivery controll
+er ( ADC ) is assigned a single virtual IP address ( VIP ) that represents the pool of servers . Tra
+ffic arriving at the ADC is then directed to one of the servers in the pool ( cluster , farm ) based
+ on a number of factors including application specific data values , application transport protocol 
+, availability of servers , current performance metrics , and client-specific parameters . An ADN pr
+ovides the advantages of load distribution , increase in capacity of servers , improved scalability 
+, security , and increased reliability through application specific health checks . Increasingly the
+ ADN comprises a redundant pair of ADC on which is integrated a number of different feature sets des
+igned to provide security , availability , reliability , and acceleration functions . In some cases 
+these devices are still separate entities , deployed together delivered , each providing specific fu

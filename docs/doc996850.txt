@@ -1,0 +1,10 @@
+ font-size:95% ! rowspan= 2 Place ! colspan= 3 Men ! colspan= 3 Women ! Name ! ! Nation ! ! Timeclas
+s=wikitable style= font-size:95% ! rowspan= 2 Place ! colspan= 3 Men ! colspan= 3 Women ! Name ! ! N
+ation ! ! Time ! Name ! ! Nation ! ! TimeLisbonclass=wikitable style= font-size:95% ! rowspan= 2 Pla
+ce ! colspan= 3 Men ! colspan= 3 Women ! Name ! ! Nation ! ! Time ! Name ! ! Nation ! ! TimeRichards
+ Bayclass=wikitable style= font-size:95% ! rowspan= 2 Place ! colspan= 3 Men ! colspan= 3 Women ! Na
+me ! ! Nation ! ! Time ! Name ! ! Nation ! ! TimeMadridclass=wikitable style= font-size:95% ! rowspa
+n= 2 Place ! colspan= 3 Men ! colspan= 3 Women ! Name ! ! Nation ! ! Time ! Name ! ! Nation ! ! Time
+Vancouverclass=wikitable style= font-size:95% ! rowspan= 2 Place ! colspan= 3 Men ! colspan= 3 Women
+ ! Name ! ! Nation ! ! Time ! Name ! ! Nation ! ! TimeDes Moinesclass=wikitable style= font-size:95%
+ ! rowspan= 2 Place ! colspan= 3 Men ! colspan= 3 Women ! Name ! ! ! TimeEdmontonclass=wikitable sty

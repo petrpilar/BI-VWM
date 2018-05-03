@@ -1,0 +1,10 @@
+ users to the platform by virtue of the art having been 100% Linux-generated . The style of the imag
+es produced by Poag were unusual in terms of their geometric qualities . Appearing to repeat seamles
+sly along all four edges , PROPAGANDA images became attractive for use in 3D modeling , and particul
+arly for use as desktop wallpaper , in that limitations in graphics hardware at the time often preve
+nted users from using full screen 24-bit images . Using smaller , tileable images for desktop backgr
+ounds helped keep memory utilization to a minimum , while still allowing early Linux desktops to be 
+visually appealing . After ten months , Poag turned control of the project over to Naru of Technolog
+y . Although Sundar would subsequently release two additional volumes , Poag terminated the project 
+in April 2000 citing a lack of activity by Sundar , and a falling out with Chris DiBona , a manager 
+of community projects at VA Linux Systems , who provided hosting space for his project . As a side s

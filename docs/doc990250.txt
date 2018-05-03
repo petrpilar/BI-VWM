@@ -1,0 +1,10 @@
+ionized gas , heating the xenon to a high enough temperature for the emission light .Series triggeri
+ngSeries triggering is more common in high powered , water-cooled flashtubes , such as those found i
+n lasers . The high voltage leads of the trigger-transformer are connected to the flashtube in serie
+s , ( one lead to an electrode and the other to the capacitor ) . The trigger pulse forms a spark in
+side the lamp , without exposing the trigger voltage to the outside of the lamp . The advantages are
+ better insulation , more reliable triggering , and an arc that tends to develop well away from the 
+glass , but at a much higher cost . The series triggering transformer also acts as an inductor . Thi
+s helps to control the flash duration , but prevents the circuit from being used in very fast discha
+rge applications . The triggering can generally take place with a lower voltage at , the trigger-tra
+nsfromer becomes part of the flash circuit , and couples the triggering circuit to the flash energy 

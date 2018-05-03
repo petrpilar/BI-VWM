@@ -1,0 +1,10 @@
+) of closely spaced carrier frequencies , each modulated at 6 baud , encoding 0 , 2 , 4 or 6 bits pe
+r interval . Under favorable conditions , the devices could reach data rates of 6 baud x 6 bits-per-
+baud x 512 carriers = 18432 bits per second . If a particular carrier was distorted , attenuated or 
+interfered with , it could be turned off , allowing the data rate to degrade gracefully with decreas
+ing line quality . Most modems of the era were set up with both channels with equal speed ( full dup
+lex ) , or , in the case where data was primarily sent in one direction , with a single high speed c
+hannel ( half duplex ) . The TrailBlazer instead allowed any one of its 512 channels to be assigned 
+to transfer data . The modem was designed to use most of the bandwidth in a single direction , with 
+a relatively low speed reverse channel . The modems at the two ends of the connection would negotiat
+e line turnarounds , reversing the directions of the high-speed and low-speed channels , based on th

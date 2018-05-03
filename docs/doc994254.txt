@@ -1,0 +1,10 @@
+r:1861 from : 0 till:2890 bar:1871 from : 0 till:2973 bar:1881 from : 0 till:3354 bar:1901 from : 0 
+till:3010 bar:1931 from : 0 till:2501 bar:1936 from : 0 till:2426 bar:1951 from : 0 till:2267 bar:19
+61 from : 0 till:1998 bar:1971 from : 0 till:1684 bar:1981 from : 0 till:1571 bar:1991 from : 0 till
+:1393 bar:2001 from : 0 till:1406 bar:2011 from : 0 till:1395 PlotData= bar:1861 at:2890 fontsize:XS
+ text : 2890 shift : ( -8,5 ) bar:1871 at:2973 fontsize:XS text : 2973 shift : ( -8,5 ) bar:1881 at:
+3354 fontsize:XS text : 3354 shift : ( -8,5 ) bar:1901 at:3370 fontsize:XS text : 3370 shift : ( -8,
+5 ) bar:1911 at:3009 fontsize:XS text : 3009 shift : ( -8,5 ) bar:1921 at:3010 fontsize:XS text : 30
+10 shift : ( -8,5 ) bar:1931 at:2501 fontsize:XS text : 2501 shift : ( -8,5 ) bar:1936 at:2426 fonts
+ize:XS text : 2426 shift : ( -8,5 ) bar:1951 at:2267 fontsize:XS text : 2267 shift : ( -8,5 ) bar:19
+61 at:1998 fontsize:XS text : 1998 shift : ( -8,5 ) bar:1971 at:1684 fontsize:XS text : 1684 shift :

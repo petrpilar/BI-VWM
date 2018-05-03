@@ -1,0 +1,10 @@
+anode , a cathode , and a trigger-voltage lead . When a certain voltage is applied to the trigger le
+ad , xenon gas ionizes and displays a bright voltage is applied across the anode and cathode leads ,
+ xenon gas will not ionize . The use of a xenon flash lamp may be suitable for photographing or ligh
+tning projects . As with all ionized gases , xenon flashtubes emit light in various spectral lines .
+ This is the same phenomenon that gives neon signs their characteristic color . However , neon signs
+ emit red light because of extremely low current densities when compared to those seen in flashtubes
+ , which favors spectral lines of longer wavelengths . Higher current densities tend to favor shorte
+r wavelengths . The light from xenon , in a neon sign , likewise is rather violet . The spectrum emi
+tted by flashtubes is far more dependent on current density than on the fill pressure or gas type . 
+Low current densities produce spectral line emission , against a faint background of continuous radi

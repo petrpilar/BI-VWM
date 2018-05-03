@@ -1,0 +1,10 @@
+nctionality that enhances the delivery of the application .ADN optimization techniques TCP multiplex
+ingTCP Multiplexing is loosely based on established connection pooling techniques utilized by applic
+ation server platforms to optimize the execution of database queries from within applications . An A
+DC establishes a number of connections to the servers in its pool and keeps the connections open . W
+hen a request is received by the ADC from the client , the request is evaluated and then directed to
+ a server over an existing connection . This has the effect of reducing the overhead imposed by esta
+blishing and tearing down the TCP connection with the server , improving the responsiveness of the a
+pplication . Some ADN implementations take this technique one step further and also multiplex HTTP a
+nd application requests . This has the benefit of executing requests in parallel , which enhances th
+e performance of the application .TCP optimizationThere are a number of RFCs which describe mechanis

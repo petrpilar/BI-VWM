@@ -1,0 +1,10 @@
+also true . The solutions of the simultaneous linear equations : Sp , 3624252TOOLONG = beginpmatrix0
+0endpmatrix where x is a vector of size n and y has size m , comprise the coefficient vectors of tho
+se and only those pairs x , y of polynomials ( of degrees n-1 and m-1 , respectively ) which fulfill
+ : x cdot p + y cdot q = 0 ( where polynomial multiplication and addition is used in this last line 
+) . This means the kernel of the transposed Sylvester matrix gives all and deg y 1524307 . Consequen
+tly the rank of the Sylvester matrix determines the degree of the greatest common divisor ofpandq: :
+ deg ( gcd ( p , q ) = m+n-mathrmrankSp , q Moreover , the coefficients of this greatest common divi
+sor may be expressed as determinants of submatrices of the Sylvester matrix ( see Subresultant ) . C
+osmic mass may mean : mass of the cosmos , see Mass of the observable universe Cosmic mass distribut
+ion, see Cosmic microwave background radiation and Large-scale structure of the cosmos Cosmic mass d

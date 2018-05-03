@@ -1,0 +1,10 @@
+istance R , which is the infall time from R along an eccentric orbit , is the Kepler time for a circ
+ular orbit of R/2 ( not R ) , which is ( 1/32 ) 1/2 times For example , the time for an object in th
+e orbit of the Earth around the Sun , to fall into the Sun if it were suddenly stopped in orbit , wo
+uld be P/sqrt32 , where P is one year . This is about 64.6 days .Infall of a spherically-symmetric d
+istribution of massNow , consider a case where the mass M is not a point mass , but is distributed i
+n a spherically-symmetric distribution about the center , with an average mass density of rho , : rh
+o = frac3 M4 pi R3 , where the volume of a sphere is : ( 4/3 ) pi R3 . Let us assume that the only f
+orce acting is gravity . Then , as first demonstrated by Newton , and can easily be demonstrated usi
+ng the divergence theorem , the acceleration of gravity at any given distance R from the center of t
+he sphere depends only upon the total mass contained within R . The consequence of this result is th

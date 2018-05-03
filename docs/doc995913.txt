@@ -1,0 +1,10 @@
+lor= lightgreen 3 ! bgcolor= lightgreen 1 ! bgcolor= lightgreen 11 ! bgcolor= lightgreen 6 ! bgcolor
+= lightgreen 5 ! bgcolor= lightblue 3 ! bgcolor= lightblue Argentino de Firmat ! bgcolor= lightblue 
+5 ! bgcolor= lightblue 6 ! bgcolor= lightblue 2 ! bgcolor= lightblue 1 ! bgcolor= lightblue 3 ! bgco
+lor= lightblue 5 ! bgcolor= lightblue 10 ! bgcolor= lightblue -5 bgcolor= lightblue 3 ! bgcolor= lig
+htblue 6 ! bgcolor= lightblue 1 ! bgcolor= lightblue 1 ! bgcolor= lightblue 4 ! bgcolor= lightblue 4
+ ! bgcolor= lightblue 12 ! bgcolor= lightblue -8Group Hborder= 2 cellpadding= 2 cellspacing= 0 style
+= margin : 0 background : f9f9f9 border : 1px aaa solid border-collapse : collapse font-size : 85% !
+ Position ! Team ! Points ! Played ! Won ! Drawn ! Lost ! For ! Against ! Difference ! bgcolor= ligh
+tgreen 1 ! bgcolor= lightgreen Ferro Carril Oeste ! bgcolor= lightgreen 9 ! bgcolor= lightgreen 6 ! 
+bgcolor= lightgreen 4 ! bgcolor= lightgreen 1 ! bgcolor= lightgreen 1 ! bgcolor= lightgreen 8 ! bgco

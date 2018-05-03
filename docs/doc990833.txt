@@ -1,0 +1,10 @@
+Padding=7 cellSpacing=0 border=1 ! BGCOLOR= DBDBDB Preterite ofhablar! BGCOLOR= DBDBDB Singular ! BG
+COLOR= DBDBDB Plural ! BGCOLOR= DBDBDB First person(yo) habl(nosotros/-as) hablamos ! BGCOLOR= DBDBD
+B Second person familiar ( t , vos ) hablaste(vosotros/-as) hablasteis ! BGCOLOR= DBDBDB Second pers
+on formal(usted) habl(ustedes) hablaron ! BGCOLOR= DBDBDB Third person ( l , ella ) habl ( ellos , e
+llas ) hablaron Preterite forms of the regular-erverbcomer( ' to eat ' ) : cellPadding=7 cellSpacing
+=0 border=1 ! BGCOLOR= DBDBDB Preterite ofcomer! BGCOLOR= DBDBDB Singular ! BGCOLOR= DBDBDB Plural !
+ BGCOLOR= DBDBDB First person(yo) com(nosotros/-as) comimos ! BGCOLOR= DBDBDB Second person familiar
+ ( t , vos ) comiste(vosotros/-as) comisteis ! BGCOLOR= DBDBDB Second person formal(usted) comi(uste
+des) comieron ! BGCOLOR= DBDBDB Third person ( l , ella ) comi (-irverbvivir( ' to live ' ) : cellPa
+dding=7 cellSpacing=0 border=1 ! BGCOLOR= DBDBDB Preterite ofvivir! BGCOLOR= DBDBDB Singular ! BGCOL

@@ -1,0 +1,10 @@
+imilarities between embryogenesis and ESC differentiation , differentiation approaches .Challenges t
+o directing differentiation in EBsIn contrast to the differentiation of ESCs in monolayer cultures ,
+ whereby the addition of soluble morphogens and the extracellular microenvironment can be precisely 
+and homogeneously controlled , the three-dimensional structure of EBs poses challenges to directed d
+ifferentiation . For example , the visceral endoderm population which forms the exterior of EBs , cr
+eates an exterior shell consisting of tightly connected epithelial-like cells , as well as a dense E
+CM . Due to such physical restrictions , in combination with EB size , transport limitations occur w
+ithin EBs , creating gradients of morphogens , metabolites , and nutrients . It has been estimated t
+hat oxygen transport is limited in cell aggregates larger than approximately 300 m in diameter howev
+er , the development of such gradients are also impacted by molecule size and cell uptake rates . Th

@@ -1,0 +1,10 @@
+the scale changes within the sequence of images ) . imagesA Zernike moment of a single image is calc
+ulated by : Amn = frac m + 1pi sumx sumy Vmn ( r , theta ) Pxy where  denotes the complex conjugate 
+, m is an integer between 0 and infty , and n is an integer such that m - n is even and n 10257747 .
+ For calculating Zernike moments , the image , or section of the image which is of interest is mappe
+d to the unit disc , then Pxy is the intensity of the pixel at the point ( x , y ) on the disc and x
+2 + y2 le 1 is a restriction on values of x and y . The coordinates are then mapped to polar coordin
+ates , and r and theta are the polar coordinates of the point ( x , y ) on the unit disc map . Vmn (
+ r , theta ) is Vmn ( r , theta ) = Rmn(r)ejntheta : Rmn(r) = sums=0frac m-n2 ( -1 ) s F ( m , n , s
+ , r ) : F ( m , n , s , r ) = frac ( m-s ) ! s ! ( frac m+n2-s ) ! ( frac m-n2-s ) ! rm-2s Zernike 
+velocity moments for sequences of imagesZernike velocity moments are based on these Zernike moments 

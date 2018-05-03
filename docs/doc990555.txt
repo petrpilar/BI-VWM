@@ -1,0 +1,10 @@
+ing a proprietary replacement protocol operating on top of the MNP error-correcting protocols to tal
+k to the remote modem . In general , spoofing worked well with any protocol that used small packets 
+, and thus generated lots of ACK messages initially UUCP , and support for XModem and Kermit followe
+d . Support for these features did not come easily the TrailBlazer Plus , for instance , used a Moto
+rola 68000 to drive its electronics . This meant that the TrailBlazers were generally very expensive
+ . However , its spoofing ability made the TrailBlazer modems extremely popular in the Unix world , 
+as it could dramatically improve UUCP throughput , even at low connection speeds on very noisy lines
+ . Improvements of over 7 times faster than a 2400 bit/s modem were not uncommon . Sites that requir
+ed long-distance telephone calls to exchange UUCP mail could fairly quickly . The Trailblazers also 
+introduced an extensive set of commands for setting up its various options . While most of the simpl

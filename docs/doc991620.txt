@@ -1,0 +1,10 @@
+ces encode a gene that is expressed , then the presence of RNA and/or protein products of the recomb
+inant gene can be detected , typically using RT-PCR or western hybridization methods . Gross phenoty
+pic changes are not the norm , unless the recombinant gene has been chosen and modified so as to gen
+erate biological activity in the host organism . Additional phenotypes that are encountered include 
+toxicity to the host organism induced by the recombinant gene product , especially if it is over-exp
+ressed or expressed within inappropriate cells or tissues . In some cases , recombinant DNA can have
+ deleterious effects even if it is not expressed . One mechanism by which this happens is insertiona
+l inactivation cell 's gene . In some cases , researchers use this phenomenon to knock out genes to 
+determine their biological function and importance . Another mechanism by which rDNA insertion into 
+chromosomal DNA can affect gene expression is by inappropriate activation of previously unexpressed 

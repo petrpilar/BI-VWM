@@ -1,0 +1,10 @@
+e sides of the equally spaced grooves are involute , as with an involute gear , but not as tall . Th
+e curves increase strength by decreasing stress concentrations . Crowned splines : where the sides o
+f male teeth are modified to allow for misalignment . Serrations : where the sides of the equally sp
+aced grooves form a V . These are used on small-diameter shafts . Helical splines : where the equall
+y spaced grooves form a helix about the shaft . The sides may be parallel or involute . This can eit
+her minimize stress concentrations for a stationary joint under high load , or allow for rotary and 
+linear motion between the parts . Ball splines : where the ' teeth ' of the outer part are implement
+ed with a ball bearing to allow for free linear motion even under high torque .UsesDrive shafts on v
+ehicles and power take-offs use splines to transmit torque and rotation and allow for changes in len
+gth . Splines are used in several places on bicycles . The crank arm to BB shaft interfaces that are

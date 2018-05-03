@@ -1,0 +1,10 @@
+ q ) is taken from Central moments , added so the equation is translation invariant , defined as : C
+ ( i , p , q ) = ( x-overlinexi ) p ( y-overlineyi ) q where overlinexi is for image i , and similar
+ly for y . U ( i , mu , gamma ) introduces velocity into the equation as : U ( i , mu , gamma ) = ( 
+overlinexi-overlinexi-1 ) mu ( overlineyi-overlineyi-1 ) gamma where overlinexi-1 is the x coordinat
+e of the centre of mass for the previous image , i-1 , and again similarly for y . After the Cartesi
+an velocity moment is calculated , it can be normalised by : overlinevmpqmugamma = frac vmpqmugammaA
+ I where A is the average area of the object , in pixels , and I is the number of images . Now the v
+alue is not affected by the number of images in the sequence or the size of the object . As Cartesia
+n moments are non-orthogonal , so are Cartesian velocity moments , so different moments can be close
+ly correlated . These velocity moments do however provide translation and scale invariance ( unless 

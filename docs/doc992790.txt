@@ -1,0 +1,10 @@
+ts of a quantified Boolean formula =x 1 x 2 x ( ) whereQis either or . The game is played by two pla
+yers ,P a andP e , who alternate choosing values for successivex i .P e wins the game if the formula
+ ends uptrue, andP a wins if ends upfalse. In this proof , we assume that the quantifier list starts
+ and ends with the existential qualifier , , for simplicity . Note that any expression can be conver
+ted to this form by adding dummy variables that do not appear in . : By constructing a graphGlike th
+e one shown above , we will show any instance of FORMULA-GAME can be reduced to an instance of Gener
+alized Geography , where the optimal strategy forP 1 is equivalent to that ofstrategy forP 2 is equi
+valent to that ofP a . The left vertical chain of nodes is designed to mimic the procedure of choosi
+ng values for variables in FORMULA-GAME . Each diamond structure corresponds to a quantified variabl
+e . Players take turns deciding paths at each branching node . Because we assumed the first quantifi

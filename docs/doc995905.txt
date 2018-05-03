@@ -1,0 +1,10 @@
+tournament made it the most complicated championship in the history of the Argentine first division 
+. The eventual champions were Argentinos Juniors who beat Vlez Srsfield in a 2nd final .Group Stages
+ ( 1st step ) The top two teams go through to the winners knockout , the bottom two go to the losers
+ knockout. Group Aborder= 2 cellpadding= 2 cellspacing= 0 style= margin : 0 background : f9f9f9 bord
+er : 1px aaa solid border-collapse : collapse font-size : 85% ! Position ! Team ! Points ! Played ! 
+Won ! Drawn ! Lost ! For ! Against ! Difference ! bgcolor= lightgreen 1 ! bgcolor= lightgreen Estudi
+antes La Plata ! bgcolor= lightgreen 9 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 4 ! bgcolor= li
+ghtgreen 1 ! bgcolor= ! bgcolor= lightgreen 8 ! bgcolor= lightgreen 2 ! bgcolor= lightgreen Ramn San
+tamarina ! bgcolor= lightgreen 5 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 2 ! bgcolor= lightgre
+en 1 ! bgcolor= lightgreen 3 ! bgcolor= lightgreen 5 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen -

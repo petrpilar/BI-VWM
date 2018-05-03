@@ -1,0 +1,10 @@
+ent , simple-harmonically vibrating bond there can never be any overtone observed in the vibrational
+ spectrum . But , real molecules do not vibrate simple-harmonically . The potential function vibrati
+on is not parabolic , simple-harmonic potential , but is better approximated by the Morse potential 
+. When Schrdinger equation is solved for the molecule under consideration with Morse potential as th
+e potential function , one gets the functional forms of the vibrational energy eigenstates with corr
+esponding to transitions from various energy levels to various other energy levels , the transition 
+dipole moment does not become zero for the transitions where v=2 , 3 , 4 , etc . Thus , for real mol
+ecules , the allowed transitions are those for which v=1 , 2 , 3 , 4 , etc . The overtone band obser
+ved in the IR spectrum is one such transition with v=2 , from v=0 to v=2 energy state . However it h
+as been experimentally found that the intensity of the overtone band is very low compared to the fun

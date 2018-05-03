@@ -1,0 +1,10 @@
+ It was sensible to suggest these variations were due to the interference of two waves but an extra 
+step to show that the second wave causing the interference ( the first being the ground wave ) was c
+oming down from the ionosphere . The experiment he designed had two methods to show ionospheric infl
+uence and both allowed the height of the lower boundary of reflection ( thus the lower The first met
+hod was called frequency modulation and the second was to calculate the angle of arrival of the refl
+ected signal at the receiving aerial . The frequency modulation method exploits the fact that there 
+is a path difference between the ground wave and the reflected wave , meaning they travel different 
+distances from sender to receiver . Let the distance AC travelled by the ground wave be h and the di
+stance ABC travelled by the reflected wave h . The path difference is : h ' -h=D The wavelength of t
+he transmitted signal is . The number of wavelengths difference between the paths h and h is : frach

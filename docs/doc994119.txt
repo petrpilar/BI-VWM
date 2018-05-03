@@ -1,0 +1,10 @@
+w to meet them . Theinformation viewpoint, which focuses on the semantics of the information and the
+ information processing performed . It describes the information managed by the system and the struc
+ture and content type of the supporting data . Thecomputational viewpoint, which enables distributio
+n through functional decomposition on the system into objects which interact at interfaces . It desc
+ribes the functionality provided by the system and its functional decomposition . Theengineering vie
+wpoint, which focuses on the mechanisms and functions required to support distributed interactions b
+etween objects in the system . It describes the distribution of processing performed by the system t
+o manage the information and provide the functionality . Thetechnology viewpoint, which focuses on t
+he choice of technology of the system . It describes the technologies chosen to provide the processi
+ng , functionality and presentation of information .RM-ODP and UMLCurrently there is growing interes

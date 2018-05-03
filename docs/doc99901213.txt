@@ -1,0 +1,10 @@
+driceps muscle ) and low EMG signals in the biceps femoris ( a hamstring muscle ) would indicate tha
+t the user is extending his/her leg , therefore straighten the leg .Study of human locomotionProport
+ional myoelectric control and robotic exoskeletons have been used in upper limb devices for decades 
+, but engineers have only recently begun utilizing them for lower limb devices to better understand 
+human biomechanics and neural control of locomotion . By using an exoskeleton with a proportional my
+oelectric controller , scientists can use a non-invasive means of studying the neural plasticity ass
+ociated with modifying a muscle 's force ( biological +/- artificial force ) , as well as how motor 
+memories for locomotor control are formed . which can require up to three physical therapists to hel
+p partially support the body weight of the individual . Robotic lower limb exoskeletons could help i
+n both of these areas .Physiological ResponseThe neuromuscular system has targeted joint torques it 

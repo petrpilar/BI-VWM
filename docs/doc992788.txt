@@ -1,0 +1,10 @@
+ices .P 1 choosesN 2 ( ifP 1 choosesN 3 , thenP 2 will chooseN 9 as that is the only option andP 1 w
+ill lose ) . NextP 2 choosesN 4 because it is the only remaining choice .P 1 now choosesN 5 andP 2 s
+ubsequently choosesN 3 orN 7 . Regardless ofP 2  ' s choice ,P 1 chooses 2 has no remaining choices 
+and loses the game .Problem statementThe problem of determining which player has a winning strategy 
+in a generalized geography game is PSPACE-complete . Let GG = 1473288''G'',P 1 has a winning strateg
+y for the generalized geography game played on graphGstarting at nodeb.Proof Generalized geography i
+s in PSPACETo show that GG PSPACE , we present a polynomial-space recursive algorithm determining wh
+ich player has a winning strategy . Given an instance of GG , 1873304''G'', start whereGis a directe
+d graph andn start is the designated start node , the algorithmMproceeds as follows : OnM( 1873324''
+G'', start ) :Measure the out-degree of noden start . If this degree is 0 , then return reject , bec

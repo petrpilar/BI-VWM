@@ -1,0 +1,10 @@
+o into which packages called package cohesion and how these packages should relate with one another 
+called package coupling . Package principles also includes software package metrics , which help us 
+quantify the dependency structure we design , thereby giving us different or more precise insights i
+nto the overall structure of our classes and packages .Overview Principles of package cohesion1 . Re
+use-release equivalence principle ( REP ) : REP essentially means that the package must be created w
+ith reusable classes Either all of the classes inside the package are reusable , or none of them are
+ . The classes must also be of the same family . We do nt want to include classes that are unrelated
+ to the purpose of the package . If we construct a package as a family of reusable classes , we can 
+more closely guarantee a focused , reusable package . 2 . Common-reuse principle ( to be reused toge
+ther belong in the same package together . It is a way of helping us decide which classes belong in 

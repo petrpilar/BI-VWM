@@ -1,0 +1,10 @@
+ responsible for accepting , scheduling , dispatching , and managing the remote execution of standal
+one , parallel , or interactive user jobs . It also manages the allocation of resources such as proc
+essors , memory , disk space , software licenses , and custom objects to jobs that require them . NC
+ uses a unique event-driven scheduler that results in very low overhead per job , usually in the mil
+lisecond range .Features Web interface for administrators and users Native command execution and scr
+ipting support Job throttling based upon resource availability ( CPU , RAM , licenses , etc . ) NC r
+uns on multiple platforms , including : Linux Solaris HP-UX Mac OS X Microsoft Windows Traditional C
+ambodian musical instruments are the musical instruments used in the traditional and classical music
+s of Cambodia . They comprise a wide range of wind , string , and percussion instruments , used by b
+oth the Khmer majority as well as the nation 's ethnic minorities .Wind FlutesKhloy - vertical duct 

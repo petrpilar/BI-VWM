@@ -1,0 +1,10 @@
+encies still remain active when only one runway is active , both ATIS services will have a recorded 
+message saying single runway operations after it gives the runway in use when this is the case .Tech
+nical backgroundATIS systems can be classified into solid-state and PC-based . Solid-state ATIS syst
+ems are microcontroller-powered devices that incorporate speech synthesis and data processing in a s
+ingle piece of proprietary equipment , while PC-ATIS systems are based on COTS-hardware , like norma
+l rack-mounted PCs with multiple high-performance soundcards ( D-ATIS ) . D-ATIS is a text-based , d
+igitally transmitted version of the ATIS audio broadcast . It is accessed via a data link service su
+ch as the ACARS and displayed on an electronic display in the aircraft . D-ATIS is incorporated on t
+he aircraft as part of its electronic system , such as an EFB or an FMS . D-ATIS may be incorporated
+ into the core ATIS system , or be realized as a separate system with a data interface between voice

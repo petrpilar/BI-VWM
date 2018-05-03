@@ -1,0 +1,10 @@
+n for expressing their ODP specifications in a standard graphical way to allow UML modelers to use t
+he RM-ODP concepts and mechanisms to structure their large UML system specifications according to a 
+mature and standard proposal and to allow UML tools to be used to process viewpoint specifications ,
+ thus facilitating large software systems . In addition , ITU-T Rec . X.906 ISO/IEC 19793 enables th
+e seamless integration of the RM-ODP enterprise architecture framework with the Model-Driven Archite
+cture ( MDA ) initiative from the OMG , and with the service-oriented architecture ( SOA ) .Applicat
+ionsIn addition , there are several projects that have used or currently use RM-ODP for effectively 
+structuring their systems specifications : The COMBINE project The Reference Architecture for Space 
+Data Systems ( RASDS ) From the Consultative Committee for Space Data Systems . Interoperability Tec
+hnology Association for Information Processing ( INTAP ) , Japan . The Synapses European project .Se

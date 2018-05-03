@@ -1,0 +1,10 @@
+ganic chemistry is NMR spectroscopy . An external magnetic field applied to a paramagnetic nucleus g
+enerates two discrete states , with positive and negative spin values diverging in energy the differ
+ence in energy can then be probed by determining the frequency of light needed to excite a change in
+ spin state for a given magnetic field . Nuclei that are not indistinguishable in a given molecule a
+bsorb at different frequencies , and the integrated peak area in an NMR spectrum is proportional to 
+the number of nuclei responding to that frequency . It is possible to quantify the relative concentr
+ation of different organic molecules simply by integration peaks in the spectrum , and many kinetic 
+experiments can be easily and quickly performed by following the progress of a reaction within one N
+MR sample . Proton NMR is often used by the synthetic organic chemist because protons associated wit
+h certain functional groups give characteristic absorption energies , but NMR spectroscopy , fluorin

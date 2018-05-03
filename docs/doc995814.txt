@@ -1,0 +1,10 @@
+kenA token is composed of various fields , including but not limited to : an identifier . the identi
+fier of the associated logon session . The session is maintained by the authentication service , and
+ is populated by the authentication packages with a collection of all the information ( credentials 
+) the user provided when logging in . Credentials are used to access remote systems without the need
+ for the user to re-authenticate ( single sign-on ) , provided that all the systems involved share a
+n authentication authority ( e.g. a Kerberos ticket server ) important and it 's strictly read-only.
+ the identifiers of groups the user ( or , more precisely , the subject ) is part of . Group identif
+iers can not be deleted , but they can be disabled . At most one of the groups is designated as thes
+ession id, a volatile group representing the logon session , allowing access to volatile objects ass
+ociated to the session , such as the display . the restricting group identifiers ( optional ) . This

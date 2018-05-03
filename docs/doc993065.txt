@@ -1,0 +1,10 @@
+13B-REW engine ) , and the 1994-2005 JDM Subaru Legacy GT , GT-B &amp B4 RSK ( EJ20TT engine ) .Stag
+ed turbochargingA sequential turbo can also refer to a system where the output pressure must be grea
+ter than can be provided by a single turbo , commonly called a staged twin turbo system . In this ca
+se , multiple similarly sized turbochargers are used in sequence , but both operate constantly . The
+ first turbo boosts pressure as much as possible ( for example to three times the intake pressure ) 
+. Subsequent turbos take the charge from the previous stage and compresses it further ( for example 
+to an additional three times intake pressure , for a total boost of nine times atmospheric pressure 
+) . This configuration is commonly found on piston engine lower engine speed ( and thus where turbo 
+lag is not a primary design consideration ) , and where the intake pressure is quite low due to low 
+atmospheric pressure at altitude , requiring a very high pressure ratio . High-performance diesel en

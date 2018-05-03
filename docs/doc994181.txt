@@ -1,0 +1,10 @@
+e were 455 people who were single and never married in the municipality . There were 423 married ind
+ividuals , 36 widows or widowers and 69 individuals who are divorced . , there were 384 private hous
+eholds in the municipality , and an average of 2.3 persons per household . There were 125 households
+ that consist of only one person and 23 households with five or more people . , a total of 375 apart
+ments ( 86.0% of the total ) were permanently occupied , while 50 apartments ( ) were empty . , the 
+construction rate of new housing units was 14.6 new units per 1000 residents . The historical popula
+tion is given in the following chart : Colors= id:lightgrey value:gray(0.9) id:darkgrey value:gray(0
+.8) ImageSize = width:1080 height:210 PlotArea = height:150 left:100 bottom:50 right:100 AlignBars =
+ justify DateFormat = x.y Period = from:0 till:990 TimeAxis = orientation:vertical AlignBars = justi
+fy ScaleMajor = gridcolor:darkgrey increment:200 start:0 ScaleMinor = gridcolor:lightgrey increment:

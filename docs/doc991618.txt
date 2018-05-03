@@ -1,0 +1,10 @@
+ be expressed . The DNA segments can be combined by using a variety of methods , such as restriction
+ enzyme/ligase cloning or Gibson assembly . In standard cloning protocols , the cloning of any DNA f
+ragment essentially involves seven steps : ( 1 ) Choice of host organism and cloning vector , ( 2 ) 
+Preparation of vector DNA , ( 3 ) Preparation of DNA to be cloned , ( 4 ) Creation of recombinant DN
+A , ( 5 ) Introduction of recombinant DNA into containing recombinant DNA , and ( 7 ) Screening for 
+clones with desired DNA inserts and biological properties .These steps are described in some detail 
+in a related article ( molecular cloning ) . Expression of recombinant DNAFollowing transplantation 
+into the host organism , the foreign DNA contained within the recombinant DNA construct may or may n
+ot be expressed . That is , the DNA may simply be replicated without expression , or it may be trans
+cribed and translated so that a recombinant protein is produced . Generally speaking , expression of

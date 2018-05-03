@@ -1,0 +1,10 @@
+manner has been criticized on the grounds that the theoretical framework used to derive the noise vi
+olates Lorentz-invariance . Lorentz-invariance violation is however very strongly constrained alread
+y , an issue that has been very unsatisfactorily addressed in the mathematical treatment .Experiment
+al descriptionThe Holometer will consist of two power-recycled Michelson interferometers , similar t
+o the LIGO instruments . The interferometers will be able to be operated in two spatial configuratio
+ns , termed nested and back-to-back . According to Hogan 's hypothesis , in the nested configuration
+ the interferometers ' beamsplitters should appear to wander in step with each other ( that is , the
+ wandering should becorrelated ' wandering of the beamsplitters should be uncorrelated . The presenc
+e or absence of the correlated wandering effect in each configuration can be determined by cross-cor
+relating the interferometers ' outputs . Vinten-Johansen Ridge ( ) is a high , bare rock ridge in th

@@ -1,0 +1,10 @@
+he specifications for any large-scale systems including software systems .HistoryMuch of the prepara
+tory work that led into the adoption of RM-ODP as an ISO standard was carried out by the Advanced Ne
+tworked Systems Architecture ( ANSA ) project . This ran from 1984 until 1998 under the leadership o
+f Andrew Herbert ( now MD of Microsoft Research in Cambridge ) , and involved a number of major comp
+uting and telecommunication companies . Parts 2 and 3 1996 . Parts 1 and 4 were adopted in 1998.RM-O
+DP Topics RM-ODP standardsRM-ODP consists of four basic ITU-T Recommendations and ISO/IEC Internatio
+nal Standards :Overview : Contains a motivational overview of ODP , giving scoping , justification a
+nd explanation of key concepts , and an outline of the ODP architecture . It contains explanatory ma
+terial on how the RM-ODP is to be interpreted and applied by its users , who may include standard wr
+iters and architects of ODP systems .Foundations : Contains the definition of the concepts and analy

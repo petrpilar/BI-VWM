@@ -1,0 +1,10 @@
+osition of the system .Non-holonomic constraintsA mechanical system can involve constraints on both 
+the generalized coordinates and their derivatives . Constraints of this type are known as non-holono
+mic . First-order non-holonomic constraints have the form : gj ( q1 , .. , qn , dotq1 , .. , dotqn ,
+ t ) = 0 , j=1 , ... , k . An example of such a constraint is a rolling wheel or knife-edge that con
+strains the direction of the velocity vector . Non-holonomic constraints can also involve next-order
+ derivatives such as generalized accelerations.Example : Simple pendulumThe relationship between the
+ use of generalized coordinates and Cartesian coordinates to characterize the movement of a mechanic
+al system can be illustrated by considering the constrained dynamics of a simple a mass M hanging fr
+om a pivot point so that it is constrained to move on a circle of radius L. The position of the mass
+ is defined by the coordinate vector r = ( x , y ) measured in the plane of the circle such that y i

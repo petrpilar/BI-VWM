@@ -1,0 +1,10 @@
+) ! cdot ! E = f(xi) - ( -1 ) i E , i =0 , ldots , n . This is the same as the equation above for i 
+= 0 , .. , n and for any choice ofE. The same equation fori=n+1 is : p(xn+1) = p1(xn+1) - p2(xn+1) !
+ cdot ! E = f(xn+1) - ( -1 ) n+1 E and needs special reasoning : solved for the variableE, it is the
+definitionofE: : E : = fracp1(xn+1) - f(xn+1)p2(xn+1) + ( -1 ) n . As mentioned above , the two term
+s in the and thus p(x) equiv b0 + b1x + ldots + bnxn are always well-defined . The error at the give
+nn+2 ordered nodes is positive and negative in turn because : p(xi) - f(xi) = -(-1)i E , i = 0 , .. 
+, n ! + ! 1 . The Theorem ofde La Valle Poussinstates that under this condition no polynomial of deg
+reenexists with error less thanE. Indeed , if such a polynomial existed , call it tilde p(x) , then 
+the difference p(x)-tilde p(x) = ( p(x) - f(x) - ( tilde p(x) - f(x) would still be positive/negativ
+e at then+2 nodes xi and therefore have at leastn+1 zeros which is impossible for a polynomial of de

@@ -1,0 +1,10 @@
+lsed-power level increases as the flash duration decreases , the explosion energy must then be decre
+ased in direct proportion to the square root of discharge time . Failure from heat is usually caused
+ by excessively long pulse durations or high average power levels . When the inner wall of the tube 
+gets too hot while the outer wall is still cold , this temperature gradient can cause the lamp to cr
+ack . Similarly , if the electrodes heat much faster than the glass , the lamp may crack or even sha
+tter at the ends .Gradual failureThe closer a flashtube operates to its explosion energy , the great
+er the risk becomes for catastrophic failure . At 50% of the explosion energy , the lamp may produce
+ several thousand flashes before exploding . At 60% of the explosion energy , the lamp will usually 
+fail in less than a hundred . energy the risk of catastrophic failure becomes very low . The methods
+ of failure then become those that reduce the output efficiency and affect the ability to trigger th

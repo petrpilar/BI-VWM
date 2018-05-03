@@ -1,0 +1,10 @@
+ , the procedure has been applied to the determination of sulfate in brine ( including electrolysis 
+brines ) , in nickel refining solutions and particularly for sulfate in wet process phosphoric acid 
+, where it has proven to be quite popular . The procedure can also be used to assist in the analysis
+ of complex acid mixtures containing sulfuric acid where resorting to titration in non-aqueous media
+ is not feasible . The reaction enthalpy for the formation of barium sulfate is a modest 18.8 kJ/mol
+ . This can place a restriction on the lower limit of sulfate in a sample which can be analyzed.Titr
+ation of aluminium with fluorideThermometric titrimetry offers a rapid solution . A solution of alum
+inium is conditioned with acetate buffer and an excess of sodium and potassium ions . Titration with
+ sodium or potassium fluoride yields the exothermic precipitation of an insoluble alumino-fluoride s
+alt . : Al 3+ + Na + + 2K + + 6F  K 2 NaAlF 6 Because 6 mole of fluoride react with one mole of alum

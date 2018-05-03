@@ -1,0 +1,10 @@
+ within single drops ( 10-20 L ) suspended from the lid of a Petri dish , known as hanging drops . W
+hile this method enables control of EB size by altering the number of cells per drop , the formation
+ of hanging drops is labor-intensive and not easily amenable to scalable cultures . Additionally , t
+he media can not be easily exchanged within the traditional hanging drop format , necessitating the 
+transfer of hanging drops into individual EBs tend to agglomerate . Recently , new technologies have
+ been developed to enable media exchange within a modified hanging drop format . In addition , techn
+ologies have also been developed to physically separate cells by forced aggregation of ESCs within i
+ndividual wells or confined on adhesive substrates , which enables increased throughput , controlled
+ formation of EBs . Ultimately , the methods used for EB formation may impact the heterogeneity of E
+B populations , in terms of aggregation kinetics , EB size and yield , as well as differentiation tr

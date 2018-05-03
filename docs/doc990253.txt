@@ -1,0 +1,10 @@
+ wave and makes less noise during operation , vastly increasing the lifetime of the lamp . It is esp
+ecially effective on very fast discharge applications , allowing the arc to expand faster and better
+ fill the tube . It is very often used with simmer voltage and sometimes with series triggering , bu
+t rarely used with external triggering . Prepulse techniques are most commonly used in the pumping o
+f dye lasers , greatly increasing the conversion efficiency . However , it has also been shown to in
+crease the efficiency of other lasers with longer fluorescence lifetimes ( allowing longer pulses ) 
+, such as Nd:YAG or titanium sapphire , by creating pulses with almost square waveforms .Ablative fl
+ashtubesAblative flashtubes are triggered by under-pressurizing . Ablative flashtubes are typically 
+constructed using quartz tubing and one or both electrodes hollowed out , allowing a vacuum pump to 
+be attached to control the gas pressure . The electrodes of the lamp are connected to a charged capa

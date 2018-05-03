@@ -1,0 +1,10 @@
+ther seaside towns in Ukraine , the village changed its name to Prymorskoe , which translates to Sea
+side . As it stands , there are currently several other villages in Ukraine by the name of Prymorsko
+e . 2054700div ImageSize = width:850 height:300 PlotArea = left:245 bottom:60 top:0 right:50 Alignba
+rs = late DateFormat = yyyy Period = from:1538 till:2011 TimeAxis = orientation:horizontal format:yy
+yy Colors = id:EarlyModernPeriod value:orange legend:EarlyModernPeriod id:LateModernPeriod value:red
+ legend:LateModernPeriod id:ContemporaryHistory value:blue 2654722TOOLONG Legend = orientation:horiz
+ontal position:bottom ScaleMajor = increment:30 start:1538 LineData = layer:front at:1640 width:0.3 
+at:1917 width:0.3 at:1568 width:0.1 color:tan1 at:1598 width:0.1 color:tan1 at:1628 width:0.1 color:
+tan1 at:1658 width:0.1 color:tan1 at:1688 width:0.1 color:tan1 at:1718 width:0.1 color:tan1 at:1748 
+width:0.1 color:tan1 at:1778 width:0.1 at:1898 width:0.1 color:tan1 at:1928 width:0.1 color:tan1 at:

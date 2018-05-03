@@ -1,0 +1,10 @@
+ic titrimetry is particularly suited to the determination of a range of analytes where a precipitate
+ is formed by reaction with the titrant . In some cases , an alternative to traditional potentiometr
+ic titration practice can be offered . In other cases , reaction chemistries may be employed for whi
+ch there is no satisfactory equivalent in potentiometric titrimetry.Titrations with silver nitrateTh
+ermometric titrations of silver nitrate with halides and cyanide are all possible . The reaction of 
+silver nitrate with chloride is strongly exothermic . For instance , the reaction is a high 61.2 kJ/
+mol . This permits convenient determination of chloride with commonly available standard 0.1 mol/L A
+gNO 3 . Endpoints are very sharp , and with care , chloride concentrations down to 15 mg/L can be an
+alyzed . Bromide and chloride may be determined in admixture.Titration of sulfateSulfate may be rapi
+dly and easily titrated thermometrically using standard solutions of Ba 2+ as titrant . Industrially

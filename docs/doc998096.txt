@@ -1,0 +1,10 @@
+jective bat algorithm by combining bat algorithm with NSGA-II produces very competitive results with
+ good efficiency .Bat Algorithm Embedded with FLANN ( BAT-FLANN )BAT-FLANN model was proposed by Sas
+hikala et al . in 2012. to solve classification of gene expression data . Using simple bat frequency
+ , loudness and pulse updation logic and random weight , a very effective algorithm is designed that
+ give promising result .Directed Artificial Bat Algorithm ( DABA )Directed Artificial Bat Algorithm 
+was proposed by Rekaby in Aug 2013 . This algorithm is simulating the echo system of that bats , and
+ how they use this system in prey finding and obstacle avoidance . In this research , it proved the 
+efficiency of DABA algorithm comparing the BBA )Binary Bat Algorithm was proposed by Mirjalili et al
+ . in 2014 . A V-shaped transfer function was employed to allow BBA to solve binary problems .Applic
+ationsBat algorithm has been used for engineering design , classifications of gene expression data i

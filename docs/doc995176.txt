@@ -1,0 +1,10 @@
+. All commercial ADN products currently support HTTP compression . A second compression technique is
+ achieved through data reduction algorithms . Because these algorithms are proprietary and modify th
+e application traffic , they are symmetric and require a device to reassemble the application traffi
+c before the client can receive it . A separate class provide this functionality , but the technolog
+y has been slowly added to the ADN portfolio over the past few years as this class of device continu
+es to become more application aware , providing additional features for specific applications such a
+s CIFS and SMB.ADN reliability and availability techniques Advanced health checkingAdvanced health c
+hecking is the ability of an ADN to determine not only the state of the server on which an applicati
+on is hosted , but the status of the application it is delivering . Advanced health checking techniq
+ues allow the ADC to intelligently determine whether or not the content being returned by the server

@@ -1,0 +1,10 @@
+oducts . Chemists in this field work to understand the physical underpinnings of modern organic chem
+istry , and therefore physical organic chemistry has applications in specialized areas including pol
+ymer chemistry , supramolecular chemistry , electrochemistry , and photochemistry.Chemical structure
+ tools of thermodynamics to study the bonding , stability , and energetics of chemical systems . Thi
+s includes experiments to measure or determine the enthalpy ( H ) , entropy ( S ) , and Gibbs ' free
+ energy ( G ) of a reaction , transformation , or isomerization . Chemists may use various chemical 
+and mathematical analyses , such as a va n't Hoff plot , to calculate these values . Empirical const
+ants such as bond dissociation energy , standard heat of formation ( H f ) , and heat of combustion 
+( H c ) are used to predict the stability of molecules and the change in enthalpy ( H ) through the 
+course of the reactions . For complex molecules , a H f value may not be available but can be estima

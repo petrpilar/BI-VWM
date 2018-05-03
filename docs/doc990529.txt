@@ -1,0 +1,10 @@
+. It is given a letter designation ( e.g.bravo) from the ICAO spelling alphabet . The letter progres
+ses down the alphabet with every update and starts atalphaafter a break in service of 12 hours or mo
+re . When contacting the local control unit , a pilot will indicate he/she has information , where i
+s the ATIS identification letter ATC controller to verify whether the pilot has all the current info
+rmation .Sample messages Example 1See METAR for a more in-depth explanation of aviation weather mess
+ages and terminology .Example 2On tuning to an ATIS frequency , a pilot might hear : :Vancouver Inte
+rnational information Bravo one three five five Zulu weather . Wind three zero zero at eight , visib
+ility five . Five hundred few , one thousand two hundred scattered , ceiling three thousand overcast
+ , temperature one five , dew-point eight . Altimeter two niner eight seven . IFR approach is ILS or
+ visual , runway two six left and runway two six right . Simultaneous parallel ILS approaches in use

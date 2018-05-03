@@ -1,0 +1,10 @@
+ks , such as the Internet . ECWP supports ECWPS for private and secure encrypted streaming of image 
+data over public networks such as the Internet . There is a very fast read-only SDK for desktop impl
+ementation ( Microsoft Windows only ) . A read / write SDK can be prchased for desktop and server im
+plementations ( Windows , Linux and Mac OS ) . A full functioning server implementation ( using ECW 
+, JPEG2000 , ECWP and JPIP ) is available with an ( formerly IWS ) license . A previous version of t
+he SDK ( 3.3 ) is available in open source , and can be used for non-Microsoft operating systems , s
+uch as Linux , MacOs or Android .References14223398references The greater long-nosed armadillo ,Dasy
+pus kappleri, is a South American species of armadillo found in Colombia , Venezuela , Ecuador , Guy
+ana , Suriname , French Guiana , Peru , Bolivia and Brazil . It is a solitary , nocturnal , terrestr
+ial animal , usually living in the vicinity of streams and swamps . It feeds on arthropods and other

@@ -1,0 +1,10 @@
+1958 width:0.1 color:tan1 at:1988 width:0.1 color:tan1 from:1790 till:end width:5 atpos:60 color:gre
+en BarData = bar:OttomanEmpire text : Ottoman Empire bar:RussianEmpire text : Russian Empire bar:Pri
+ncipalityMoldova text : Principality of Moldavia bar:UnitedPrincipalities text : United Principaliti
+es of Wallachia and Moldavia 3154750TOOLONG text : Moldavian Democratic Republic bar:KingdomOfRomani
+a text : Kingdom of Romania bar:SovietUnion text : Soviet Union bar:Ukraine text : Ukraine PlotData=
+ width:8 textcolor:black align:left anchor:from shift : ( 10 , -4 ) bar:OttomanEmpire from:1538 till
+:1640 color:EarlyModernPeriod bar:OttomanEmpire from:1640 till:1812 color:LateModernPeriod bar:Russi
+anEmpire from:1812 till:1856 color:LateModernPeriod bar:PrincipalityMoldova from:1856 till:1859 colo
+r:LateModernPeriod bar:UnitedPrincipalities from:1859 till:1878 color:LateModernPeriod bar:RussianEm
+pire from:1878 till:1917 color:LateModernPeriod 3154783TOOLONG from:1917 till:1918 2554816TOOLONG ba

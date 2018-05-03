@@ -1,0 +1,10 @@
+ on a digital display , instead of the former methods of film and the associated delay in time and c
+hemistry consumption .Industrial Usage of X-RaysAerospace Aerospace is an industry that has experien
+ced great growth in recent decades . Non Destructive Testing ( NDT ) in aerospace has a special driv
+er of its own due to the high levels of human traffic involved the crash of a civil life reaching ca
+tastrophic proportions . Therefore , strict NDT specifications have been set to detect very small cr
+acks and defects in engine turbo discs , blades and airframe structures , in both production and ong
+oing maintenance . Security Digital Radiography ( DR ) has existed in various forms ( for example , 
+CCD and amorphous Silicon imagers ) in the security X-ray inspection field for over 20 years and is 
+rapidly replacing the use of film for inspection X-rays in the Security and NDT fields . DR has open
+ed a window of opportunity for the aerospace NDT industry due to several key advantages including ex

@@ -1,0 +1,10 @@
+mperature change for the titration of very weak acids such as oleic acid by 0.1 mol/L KOH in propan-
+2-ol is too small to yield an accurate endpoint . In this procedure , a small amount of paraformalde
+hyde as a fine powder is added to the titrand before the titration . At the endpoint , the first exc
+ess of hydroxyl ions catalyzes the depolymerization of paraformaldehyde . . The titration plot is il
+lustrated in Figure 13 . The speed of this titration coupled with its precision and accuracy makes i
+t ideal for the analysis of FFA in biodiesel feedstocks and product .Redox titrations Titrations wit
+h permanganate and dichromateRedox reactions are normally strongly exothermic , and can make excelle
+nt candidates for thermometric titrations . In the classical determination of ferrous ion with perma
+nganate , the reaction enthalpy is more than double that of a strong acid/strong base titration : 0 
+H r = 123.9 kJ/mol of Fe . The determination of hydrogen peroxide by permanganate titration is even 

@@ -1,0 +1,10 @@
+or with the contents of the current effective access token . The result of this access check evaluat
+ion is an indication of whether any access is allowed and , if so , what operations ( read , write/m
+odify , etc. ) the calling application is allowed to perform .Types of tokensThere are two types of 
+tokens : Primary token : Primary tokens can only be associated to processes , and they represent a p
+rocess 's security subject . are both privileged operations , requiring two different privileges in 
+the name of privilege separation - the typical scenario sees the authentication service creating the
+ token , and a logon service associating it to the user 's operating system shell . Processes initia
+lly inherit a copy of the parent process 's primary token . Impersonation token : Impersonation is a
+ security concept implemented in Windows NT that allows a server application to temporarily be the c
+lient in terms of access to secure objects . Impersonation has four possible levels :anonymous, givi

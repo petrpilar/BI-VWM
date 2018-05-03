@@ -1,0 +1,10 @@
+rches and finds its prey , it changes frequency , loudness and pulse emission rate r . Search is int
+ensified by a local random walk . Selection of the best continues until certain stop criteria are me
+t . This essentially uses a frequency-tuning technique to control the dynamic behaviour of a swarm o
+f bats , and the balance between exploration and exploitation can be controlled by tuning algorithm-
+dependent parameters in bat algorithm . A detailed introduction of metaheuristic algorithms includin
+g the bat algorithm is given by Yang where a demo program in Matlab/Octave is available , while a co
+mprehensive review is carried out development of an evolving bat algorithm ( EBA ) with better effic
+iency . A Matlab demo is available at the Matlab exchangeMulti-objective Bat Algorithm ( MOBA )Using
+ a simple weighted sum with random weights , a very effective but yet simple multiobjective bat algo
+rithm ( MOBA ) has been developed to solve multiobjective engineering design tasks . Another multiob

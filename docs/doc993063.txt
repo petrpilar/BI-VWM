@@ -1,0 +1,10 @@
+ng 542 hp ( 404 kW ) at 8000 rpm , while the Veyron uses an 8.0 litre 16 cylinder engine to generate
+ 1001PSkW hp lk=on.Sequential turbosSequential turbos refer to a set-up in which the motor utilizes 
+one turbocharger for lower engine speeds , and a second or both turbochargers at higher engine speed
+s . Typically , larger high-flow turbochargers are not as efficient at low RPM , resulting in lower 
+intake manifold pressures under these conditions . On the other hand , smaller turbos spool up quick
+ly at low RPM but can not supply mid engine speeds , when available spent exhaust energy is minimal 
+, only one relatively small turbocharger. ( called the primary turbocharger ) is active . During thi
+s period , all of the engine 's exhaust energy is directed to the primary turbocharger only , provid
+ing the small turbo 's benefits of a lower boost threshold , minimal turbo lag , and increased power
+ output at low engine speeds . As RPM increases , the secondary turbocharger is partially activated 

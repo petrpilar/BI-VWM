@@ -1,0 +1,10 @@
+boratory process used to create recombinant DNA . It is one of two widely used methods ( along with 
+polymerase chain reaction , abbr . PCR ) used to direct the replication of any specific DNA sequence
+ chosen by the experimentalist . The fundamental difference between the two methods is that molecula
+r cloning involves replication of the DNA within a living cell , while PCR replicates DNA Formation 
+of recombinant DNA requires a cloning vector , a DNA molecule that replicates within a living cell .
+ Vectors are generally derived from plasmids or viruses , and represent relatively small segments of
+ DNA that contain necessary genetic signals for replication , as well as additional elements for con
+venience in inserting foreign DNA , identifying cells that contain recombinant DNA , and , where app
+ropriate , expressing the foreign DNA . The choice of vector for molecular cloning depends on the ch
+oice of host organism , the size of the DNA to be cloned , and whether and how the foreign DNA is to

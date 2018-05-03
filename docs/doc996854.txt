@@ -1,0 +1,10 @@
+re with others allow users to add Services which displays social updates allow users to connect with
+ certain Connected Services such as Facebook , MySpace and LinkedIn such that : the contact list fro
+m the Connected Service are merged with Windows Live Contacts and de-duplicated the user may receive
+ updates from the Connected Service into its Messenger social feed the user may post status updates 
+and links from within Windows Live to the Connected Service the user may directly inline comment on 
+social updates from the Connected ServiceIntegrationWindows Live Profile integrates with other Windo
+ws Live services in many ways , such as through : Windows Live Messenger and Windows Live Home which
+ displays the Messenger social feeds provided in the user 's profile Windows Live Contacts which all
+ow other users to view the user 's contact details Windows Live Profile also connects with other web
+ identities such as WordPress , LinkedIn and Facebook through the use of Windows Live Services . Whe

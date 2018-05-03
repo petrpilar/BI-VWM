@@ -1,0 +1,10 @@
+ group should be possible whenever needed . For example , a researcher can become an expert in cours
+e of time and the system should allow with ease in transition . An administrator is the controller o
+f the group manager requests .Dynamic Video Discussion ManagerMost of the e-learning features are st
+atic . The best example are videos . Site like NPTEL in India are created with the help of premier i
+nstitutes governed by Government of India in a view to improve the quality of educations at small Un
+iversities . The nptel site contains a number of videos that are lectures of top faculties in the pr
+emier institutes of India . It is unidirectional in nature . To make interactive learning possible i
+n Knowledge Based Community Sharing System , the video is check pointed in its time line . The discu
+ssions are allowed by students during the time line of the video and the lecturer can answer based u
+pon the time line of video and the checkpoints mentioned in the video . This type of Based Community

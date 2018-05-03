@@ -1,0 +1,10 @@
+el 179 was submitted to a review board and was rated the highest of those submitted . On August 10 ,
+ 1939 , the Army issued a contract for 201 Model 179s under the designation B-26.Later President for
+ International Chemical Corporation . Sum of absolute transformed differences ( SATD ) is a widely u
+sed video quality metric used for block-matching in motion estimation for video compression . It wor
+ks by taking a frequency transform , usually a Hadamard transform , of the differences between the p
+ixels in the original block and the corresponding pixels in the block being used for comparison . Th
+e transform itself is often of a small block rather than the entire macroblock . For example , in x2
+64 , a series of 4&amptimes 4 blocks are transformed rather than doing the more processor-intensive 
+16&amptimes 16 transform .Comparison to other metricsSATD is slower than the sum of absolute differe
+nces ( SAD ) , both due to its increased complexity and the fact that SAD-specific MMX and SSE2 inst

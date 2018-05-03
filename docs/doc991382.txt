@@ -1,0 +1,10 @@
+rials , such as agar or hydrophilic polymers , to promote the preferential adhesion between single c
+ells , rather than to the culture substrate . As hESC undergo apoptosis when cultured as single cell
+s , EB formation often necessitates the use of inhibitors of the rho associated kinase ( ROCK ) path
+way , Thiazovivin/Tzv ) . Alternatively , to avoid dissociation into single cells , EBs can be forme
+d from hESCs by manual separation of adherent colonies ( or regions of colonies ) and subsequently c
+ultured in suspension . Formation of EBs in suspension is amenable to the formation of large quantit
+ies of EBs , but provides little control over the size of the resulting aggregates , often leading t
+o large , irregularly shaped EBs . As an alternative , the hydrodynamic forces imparted in mixed cul
+ture platforms increase the homogeneity of EB sizes when ESCs are inoculated within bulk suspensions
+ . Formation of EBs can also be more precisely controlled by the inoculation of known cell densities

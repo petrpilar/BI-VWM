@@ -1,0 +1,10 @@
+ar:1929 bar:1930 bar:1931 bar:1932 bar:1933 bar:1934 bar:1935 bar:1936 bar:1937 bar:1938 bar:1939 ba
+r:1940 text:1940 bar:1941 bar:1942 bar:1943 bar:1944 bar:1945 bar:1946 bar:1947 bar:1948 bar:1949 ba
+r:1950 bar:1951 bar:1952 bar:1953 bar:1954 bar:1955 bar:1956 bar:1957 bar:1958 bar:1959 bar:1960 tex
+t:1960 bar:1961 bar:1962 bar:1963 bar:1964 bar:1965 bar:1966 bar:1967 bar:1968 bar:1969 bar:1970 bar
+:1971 bar:1972 bar:1973 bar:1974 bar:1975 bar:1976 bar:1977 bar:1978 bar:1979 bar:1980 text:1980 bar
+:1981 bar:1982 bar:1983 bar:1984 bar:1985 bar:1986 bar:1987 bar:1988 bar:1989 bar:1990 bar:1991 bar:
+1992 bar:1993 bar:1994 bar:1995 bar:1996 bar:1997 bar:1998 bar:1999 width:10 align:left bar:1793 fro
+m:0 till : 8388 bar:1800 from:0 till : 10050 bar:1806 from:0 till : 10300 bar:1821 from:0 till : 102
+74 bar:1831 from:0 till : 10437 bar:1836 from:0 till : 9559 bar:1841 from:0 till : 9994 bar:1846 fro
+m:0 till : 11363 bar:1851 from:0 till : 11569 bar:1856 from:0 till : 11927 bar:1861 from:0 till : 10

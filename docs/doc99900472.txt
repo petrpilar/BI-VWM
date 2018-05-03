@@ -1,0 +1,10 @@
+t . 2 . Stable-dependencies principle ( SDP ) : Designs , by nature of the environments they are use
+d in or by , are changing . So we need to design our packages to be able to change as well . The SDP
+ states that any packages we want to be volatile should not be depended on by a package that is diff
+icult to change . 3 . Stable-abstractions principle ( SAP ) : The SAP says that a stable package sho
+uld also be abstract so that its stability does not prevent it from being extended . It also states 
+that an instable package should be concrete since its instability allows the concrete code within it
+ to be easily changed . The 2013 World Mixed Doubles Curling Championship was held from April 13 to 
+20 at the newly constructed Grant-Harvey Centre in Fredericton , New Brunswick . The event was held 
+in conjunction with the 2013 World Senior Curling Championships . This event marked the first time t
+hat Canada has hosted a World Mixed Doubles Curling Championship since its inception in 2008.TeamsTh

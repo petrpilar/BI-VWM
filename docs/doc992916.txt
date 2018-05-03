@@ -1,0 +1,10 @@
+ligent switch redirects all control commands ( e.g. SCSI Inquiry , Read Capacity , or Report LUNs ) 
+to a pair of redundant external controllers called Control Path Cluster ( CPC ) , while the stream o
+f I/O transactions flows directly from the host to the appropriate physical storage array via the in
+telligent switch hardware . In some release , CPC and the switch communicate using SNMP over an Ethe
+rnet connection . Invista can be configured in a redundant and highly available fashion so it contai
+ns no single point of failure . Invista 's management tool is a Java-based GUI called Invista Elemen
+t Manager ( a CLI is also available ) . Upchurch Pottery was a pottery business established in 1909 
+in Upchurch , Kent , by the Wakely brothers . Most of the clay used in production was taken from wha
+t is now called Springbank Farm in Poot Lane Upchurch. Austria competed at the 1996 Summer Olympics 
+in Atlanta , United States . 72 competitors , 56 men and 16 women , took part in 53 events in 15 spo

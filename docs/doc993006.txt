@@ -1,0 +1,10 @@
+iesVMSK is promoted primarily by H. R. Walker , owner of the Welcome to the Ultra Narrowband Club we
+bsite , and author of several papers and publications on the arguments . Mr. Walker has written abou
+t his ideas in telecommunications sector publications such asMicrowaves &amp RF, as well as in a co-
+authored book chapter .Legal issuesIt was reported in 2000 that AlphaCom Communications holds patent
+ rights to the non-Nyquist filters and other aspects of VMSK and VMSK/2 technology . The company cla
+imed to have secured these rights as a result of a contract with H.R. Walker , doing business as Peg
+asus Data Systems , to purchase the patents and fund further R&ampD . AlphaCom defaulted on the cont
+ract and a legal dispute over ownership arose . A 2003 SEC charge against by falsely representing th
+at AlphaCom owned exclusive rights to novel Internet technologies , Network Utilities ( NU ) and Ver
+y Minimal Shift Keying ( VMSK ) , that were supposed to increase Internet downloading speeds and the

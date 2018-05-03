@@ -1,0 +1,10 @@
+ and is an important tool in improving the synthesis of a pure enantiomeric substance . It is also t
+he only way to identify the position and bonding of elements that lack an NMR active nucleus such as
+ oxygen . Indeed , before x-ray structural determination methods were made available in the early 20
+th century all organic structures were entirely conjectural : tetrahedral carbon , for example , was
+ only confirmed by the crystal structure of diamond , and the delocalized structure of benzene was c
+onfirmed by the crystal structure of hexamethylbenzene . While crystallography provides organic chem
+ists with highly satisfying data , it is not an everyday technique in organic chemistry because a pe
+rfect single crystal of a target compound must be grown . Only complex molecules , for which NMR dat
+a can not be unambiguously interpreted , require this technique . In the example below , the structu
+re of the host-guest complex would have been quite difficult to solve without a single crystal struc

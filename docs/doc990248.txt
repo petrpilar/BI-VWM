@@ -1,0 +1,10 @@
+relatively high voltage ( generally between 250 and 5000 volts ) , using a step up transformer and a
+ rectifier . The gas , however , exhibits extremely high resistance , and the lamp will not conduct 
+electricity until the gas is ionized . Once ionized , or triggered , a spark will form between the e
+lectrodes , allowing the capacitor to discharge . The sudden surge of electric current quickly heats
+ the gas to a plasma state , where electrical resistance becomes very low . There are several method
+s of triggering .External triggeringExternal triggering is the most common method of operation , esp
+ecially for photographic use . The electrodes are charged to a voltage high enough to respond to tri
+ggering , but below the lamp 's self-flash threshold . An extremely high voltage pulse , ( usually b
+etween 2000 applied directly to , or very near , the glass envelope . ( Water-cooled flashtubes some
+times apply this pulse directly to the cooling water , and often to the housing of the unit as well 

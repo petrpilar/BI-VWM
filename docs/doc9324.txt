@@ -1,0 +1,10 @@
+a way of measuring how quickly a function changed at any given point on the graph . This surprising 
+relationship between two major geometric operations in calculus , differentiation and integration , 
+is now known as to calculate a broad class of integrals for the first time . However , unlike Archim
+edes ' method , which was based on Euclidean geometry , mathematicians felt that Newton 's and Leibn
+iz 's integral calculus did not have a rigorous foundation . In the 19th century , Augustin Cauchy d
+eveloped epsilon-delta limits , and Bernhard Riemann followed up on this by formalizing what is now 
+called the Riemann integral . To define this integral , one fills the area under the graph with smal
+ler and smaller rectangles and takes the limit of the sums of the areas of the rectangles at each st
+age . For some functions , however , the total area of these rectangles does not approach a single n
+umber . As such , they have no Riemann integral . Lebesgue invented a new method of integration to s

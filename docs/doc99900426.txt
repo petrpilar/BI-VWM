@@ -1,0 +1,10 @@
+killing one government soldier and injuring three .See also List of massacres in Afghanistan War in 
+Afghanistan ( 2001present ) Khosrow Sofla ( Afghanistan , 2010 ) Maywand District murders ( Afghanis
+tan , 2010 )ReferencesIn vibrational spectroscopy , an overtone band is the spectral band that occur
+s in a vibrational spectrum of a molecule when the molecule makes a transition from the ground state
+ ( v=0 ) to the second excited state ( v=2 ) , where v is the vibrational quantum number that one ge
+ts after solving the Schrdinger equation for the molecule under consideration . It takes only non-ne
+gative integer values . Generally , in order to study the vibrational spectra of molecules , the vib
+ration of the chemical bonds is assumed to be simple harmonic.Thus the parabolic simple harmonic pot
+ential is used in the Schrdinger equation to solve for the vibrational energy eigenstates . When the
+ Schrdinger equation is solved one gets the functional forms of the vibrational energy eigenstates .

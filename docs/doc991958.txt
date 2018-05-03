@@ -1,0 +1,10 @@
+degenerate ellipse with an eccentricity of 1 , the orbit extends from the initial position of the in
+falling object ( R ) to the point source of mass M . In other words , the ellipse becomes a line of 
+length R . The semi-major axis is half the width of the ellipse along the long axis , which in the d
+egenerate case becomes R/2 it would begin at distance R from the point source mass M , fall inward u
+ntil it reached that point source , then turn around and journey back to its original position . In 
+real systems , the point source mass is n't truly a point source and the infalling body eventually c
+ollides with some surface . Thus , it only completes half the orbit . But since the infalling part o
+f the orbit is symmetric to the hypothetical outgoing portion of the orbit , we can simply divide th
+e period of the full orbit by two to attain the free-fall time ( the time along the infalling portio
+n of the orbit ) . : tff=torbit/2 = fracpi2 fracR3/2 sqrt2 G(M+m) This formula also follows from the

@@ -1,0 +1,10 @@
+r:KingdomOfRomania from:1918 till:1940 2554843TOOLONG bar:SovietUnion from:1940 till:1941 2554870TOO
+LONG bar:KingdomOfRomania from:1941 till:1944 2554897TOOLONG bar:SovietUnion from:1944 till:1991 255
+4924TOOLONG bar:Ukraine from:1991 till:end 2554951TOOLONG ClimateThe climate in Prymorskoe is modera
+te continental with short and mild winters with frequent thaws , and warm , sometimes hot long summe
+r , with little humidity . Winter lasts from mid-November to late March ( 4.5 months ) , the average
+ temperature is +0.8 C. The coldest month of the year is January , and its average temperature is -0
+.5 from mid-May to late September ( 4.5 months ) , the average temperature is +20.8 C. July is the h
+ottest month , with the average temperature being +21.7 C , with a high of +37.8 C. During the year 
+rainfall is on average 400 600 mm . The rainy season is June , July and November , during which mont
+hly rainfall is about 60 80 mm . The driest months are January and February , with 20 30 mm of rainf

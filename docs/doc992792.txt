@@ -1,0 +1,10 @@
+en byP 2 . Since all the literals in the clause arefalse, they do not connect to previously visited 
+nodes in the left vertical chain . This allowsP 2 to follow the connection to the corresponding node
+ in a diamond of the left chain and select it . However ,P 1 is now unable to select any adjacent no
+des and loses . Now we show thatP 1 always wins whenP e wins . IfP e wins , istrue. If is right side
+ of the graph contains atrueliteral .P 2 can choose any clause . ThenP 1 chooses the literal that is
+true. And because it istrue, its adjacent node in the left vertical node has already been selected ,
+ soP 2 has no moves to make and loses .ConsequencesGiven that GG is PSPACE-complete , no polynomial 
+time algorithm exists for optimal play in GG unless P = PSPACE . However , it may not be as easy to 
+prove the complexity of other games because certain games ( such as chess ) contain a finite number 
+of game positions -- making it hard ( or impossible ) to formulate a mapping to a PSPACE-complete pr

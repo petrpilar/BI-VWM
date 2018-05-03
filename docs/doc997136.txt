@@ -1,0 +1,10 @@
+ downgrade degenerate phase toward grasses . These phases would occur in a predictable cycle . Watts
+ study has since become a classic example frequently cited in scientific ecology .Modeling cyclic su
+ccessionThe cyclic model of succession can be displayed in terms of a transition matrix . Based on t
+he Markov chain , the matrix describes the likelihood of future states based on the milieu of presen
+t states . The three states in the simplest cyclic model are open substrate ( usually a bare patch o
+f land ) , Species A dominance , and Species B dominance . With respect to facilitation , inhibition
+ , and tolerance models of succession , the key feature of the cyclic model is that A and B are not 
+autosuccessional that Rather , A will either facilitate the succession of B or be eliminated ( throu
+gh mortality ) such that the patch occupied becomes open substrate . Likewise , B will either facili
+tate the succession of A or be eliminated . Open substrate can remain open or become occupied by eit

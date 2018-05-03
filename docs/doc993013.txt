@@ -1,0 +1,10 @@
+ two thermodynamic systems A and B are in thermal equilibrium , and B and C are also in thermal equi
+librium , then A and C are in thermal equilibrium . First principle of energetics : The increase in 
+the internal energy of a system is equal to the amount of energy added to the system by heating , mi
+nus the amount lost in the form of work done by the system on its surroundings . Second principle of
+ energetics : The total entropy of any isolated maximum value . Third principle of energetics : As a
+ system approaches absolute zero of temperature all processes cease and the entropy of the system ap
+proaches a minimum value or zero for the case of a perfect crystalline substance . Fourth principle 
+of energetics : There seem to be two opinions on the fourth principle of energetics : : The Onsager 
+reciprocal relations are sometimes called the fourth law of thermodynamics . As the fourth law of th
+ermodynamics Onsager reciprocal relations would constitute the fourth principle of energetics. : In 

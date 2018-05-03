@@ -1,0 +1,10 @@
+se both the WorkFlow interpreter and Jython parse , interpret , and manipulate these strings , great
+ server systems are done through scriptlets , which generate ( shell ) scripts that are executed on 
+the target servers .DevelopingFor developing TPM workflows , one needs the so-called Automation Pack
+age Development Environment ( APDE ) : this is the Eclipse Integrated Development Environment with a
+ special TPM plugin . It needs to be configured to have access to the DCM database : all workflow co
+de is stored by line in the database . subdivisiontype1 = Province Rangomuwa is a village in Sri Lan
+ka . It is located within Central Province . subdivisiontype1 = County Pcsa is a village in Baranya 
+county , Hungary . Image:Mecsekndasd - Palace.jpgAerial photo : Mecsekndasd - Palace Image:Szentegt 
+- 2910778TOOLONG - Biedermann-Palace from above Image:Mecsek magyaro 1. jpgMecsek Mountains , in the
+ northern area of the county Image:Hills in baranya county , hungary.jpgHills in the northeast eleva

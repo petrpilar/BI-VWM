@@ -1,0 +1,10 @@
+ions for common flashtubes range from 1 microsecond to tens of milliseconds , and can have repetitio
+n rates of hundreds of hertz . Flash duration can be carefully controlled with the use of an inducto
+r . The flash that emanates from a xenon flashtube may be so intense that it can ignite flammable ma
+terials within a short distance of the tube . Carbon nanotubes are particularly susceptible to this 
+spontaneous ignition when exposed to the light from a flashtube . Similar effects may be exploited f
+or use in aesthetic or medical procedures known as intense pulsed light ( IPL ) treatments . IPL can
+ be used for treatments such as hair removal and destroying lesions or moles.LifetimeThe lifetime of
+ a flashtube depends on both the energy level used for the the pulse duration of the lamp . Failures
+ can be catastrophic , causing the lamp to shatter , or they can be gradual , reducing the performan
+ce of the lamp below a usable rating .Catastrophic failureCatastrophic failure can occur from two se

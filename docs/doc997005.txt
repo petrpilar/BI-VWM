@@ -1,0 +1,10 @@
+r : ! style= background-color : ! style= background-color :Elections 2004class= wikitable style= tex
+t-align:right ! ! Candidate ! Party ! Votes ( Round One ) ! % ( Round One ) ! Votes ( Round Two ) ! 
+% ( Round Two )Past Regional Councils 1998border= 1 cellpadding= 6 cellspacing= 0 style= margin : 1e
+m 1em 1em 0 background : collapse font-size : 95% ! colspan=2 Party seats ! style= background-color 
+: ! style= background-color : ! style= background-color : 4316224span ! style= background-color : 43
+16269span ! style= background-color : ! style= background-color : ! style= background-color : ! styl
+e= background-color : ! style= background-color : 4316314span ! style= background-color : 4316359spa
+n ! style= background-color : ! style= background-color : ! style= background-color :1992border= 1 c
+ellpadding= 6 cellspacing= 0 style= margin : 1em 1em 1em 0 background : f9f9f9 border : 1px aaa soli
+d border-collapse : collapse font-size : 95% ! colspan=2 Party seats ! style= background-color : 431

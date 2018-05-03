@@ -1,0 +1,10 @@
+e electron such as the hydrogen atom , H 2  + , H 3  2+ , etc. familiar atomic ( s , p , d , f ) and
+ bonding ( , ) orbitals . In systems with multiple electrons , an overall multielectron wavefunction
+ describes all of their properties at once . Such wavefunctions are generated through the linear add
+ition of single electron wavefunctions to generate an initial guess , which is repeatedly modified u
+ntil its associated energy is minimized . Thousands of guesses are often required until a satisfacto
+ry solution is found , so such calculations are performed by powerful computers . Importantly , the 
+solutions for atoms with multiple electrons give properties such as diameter and electronegativity w
+hich closely mirror experimental data and the patterns found in the periodic table . The solutions f
+or molecules , such as methane , provide exact representations of their electronic structure which a
+re unobtainable by experimental methods . Instead of four discrete -bonds from carbon to each hydrog

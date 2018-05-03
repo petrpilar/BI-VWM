@@ -1,0 +1,10 @@
+ion works , and development tools for building applications unique to the organization . The softwar
+e is intended to solve an enterprise-wide problem , rather than a departmental problem . Enterprise 
+level software aims to improve the enterprise 's productivity and efficiency by providing business l
+ogic support functionality . According to Martin Fowler , Enterprise applications are about the disp
+lay , manipulation , and storage of large amounts of often complex data and the support or automatio
+n of business processes with that data . Although there is no single , widely accepted list of enter
+prise software characteristics , they generally include performance , scalability , and robustness .
+ Furthermore , enterprise software typically has interfaces to other enterprise software ( for examp
+le LDAP to directory services ) and is centrally managed ( a single admin page , for example ) . Ent
+erprise application software performs business functions such as order processing , procurement , pr

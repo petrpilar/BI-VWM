@@ -1,0 +1,10 @@
+pndash drums , percussion ( 1997&ampndash 2002 ) , guitar ( 2004 ) ) , guitars ( 2002&ampndash 2004 
+) Tommy Love &ampndash guitars ( 1997&ampndash 2004 ) Dom Macaluso &ampndash guitars ( 1997&ampndash
+ 1998 ) , bass ( 1998&ampndash 2005 ) Brandan Schieppati &ampndash guitars ( 1998&ampndash 2000 ) Ma
+rk Choiniere &ampndash guitars ( 2005&ampndash 2011 ) Mark Mitchell &ampndash bass ( 2007&ampndash 2
+014 ) Ben Dussault &ampndash drums , percussion ( 2004&ampndash 2008 ) Session Jarrod Alexander &amp
+ndash drums , percussion ( 2003 , 2008&ampndash present )Timeline32727014div ImageSize = width:850 h
+eight:auto barincrement:25 PlotArea = left:100 bottom:60 top:0 right:50 Alignbars = justify DateForm
+at = mm/dd/yyyy Period = from:01/01/1997 till:12/31/2014 TimeAxis = orientation:horizontal format:yy
+yy Colors = id:vocals value:red legend:Leadvocals id:drums value:blue legend:Drums id:bass value:pur
+ple legend:Bass id:guitar value:green legend:Guitar Legend = orientation:horizontal position:bottom 

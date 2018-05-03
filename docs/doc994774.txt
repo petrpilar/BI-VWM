@@ -1,0 +1,10 @@
+cium and magnesium in sea water ( Figure 18 ) . Following the solution temperature curve , the break
+point for the calcium content ( red-tagged endpoint ) is followed by a region of modest temperature 
+rise due to competition between the heats of dilution of the titrant with the solution , and the end
+othermic reaction of Mg 2+ and EDTA . ( blue-tagged endpoint ) by EDTA is revealed by upswing in tem
+perature caused purely by the heat of dilution . Direct EDTA titrations with metal ions are possible
+ when reaction kinetics are fast , for example zinc , copper , calcium and magnesium . However , wit
+h slower reaction kinetics such as those exhibited by cobalt and nickel , back-titrations are used .
+ Titrations for cobalt and nickel are carried out in an ammoniacal environment buffered with ammonia
+:ammonium chloride solution . An excess of EDTA is added , and is back-titrated with Cu(II) solution
+ . It is postulated that the breakpoint is revealed by the difference in reaction enthalpies between

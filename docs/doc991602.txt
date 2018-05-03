@@ -1,0 +1,10 @@
+ontinual leader in the DRAM field , holding as much as 85% of the world market for DRAM . The MK4027
+ and MK4116 were reverse-engineered by Mosaid and successfully cloned by many companies . The 64K ge
+neration of DRAMs required a transition from 12 volt to 5 volt operation . While most competitors to
+ok a conservative approach by scaling the basic MK4116 design and features ( such as controlled prec
+harge current ) that were not necessary at the 64K node and delayed their entry into the market . Mo
+stek 's 256K DRAM was further delayed by a then-ambitious two layer metallization design . When the 
+price for 64K DRAMs collapsed Mostek 's 256K device was not ready for volume production and the comp
+any suffered heavy losses .World leader in telecommunications productsMostek enjoyed many years of m
+astery of the international market for telecommunications products . Their product line included tel
+ephone tone and pulse dialers , touchtone decoders , counters , top-octave generators ( used by Hamm

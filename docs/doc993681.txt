@@ -1,0 +1,10 @@
+) and high-density line-scan solid state detectors .Flat Panel DetectorsFPDs are further classified 
+in two main categories : 1 . Indirect FPDs Amorphous silicon ( a-Si ) is the most common material of
+ commercial FPDs . Combining a-Si detectors with a scintillator in the ( CsI ) or gadolinium oxysulf
+ide ( Gd 2 O 2 S ) , converts X-rays to light . Because of this conversion the a-Si detector is cons
+idered an indirect imaging device . The light is channeled through the a-Si photodiode layer where i
+t is converted to a digital output signal . The digital signal is then read out by thin film transis
+tors ( TFTs ) or fiber-coupled CCDs . The image data file is sent to a computer for display . 2 . Di
+rect FPDs . Amorphous selenium ( a-Se ) FPDs are known as direct detectors because X-ray photons are
+ converted directly into charge . The outer layer of the flat panel in this design is typically a hi
+gh-voltage bias electrode . X-ray photons create electron-hole pairs in a-Se , and the transit of th

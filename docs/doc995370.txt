@@ -1,0 +1,10 @@
+y from filled chromium d-orbitals into antibonding CO orbitals , and is able to covalently bond to t
+he face of a benzene molecule through delocalized molecular orbitals . The CO ligands inductively dr
+aw electron density from benzene through the chromium atom , and dramatically activate benzene to nu
+cleophilic attack . Nucleophiles are then able to react to make hexacyclodienes , which can be used 
+in further transformations such as Diels Alder cycloadditons . Quantum chemistry can also provide in
+sight into the mechanism of an organic transformation without the collection of any experimental giv
+en molecular state , guessed molecular geometries can be optimized to give relaxed molecular structu
+res very similar to those found through experimental methods . Reaction coordinates can then be simu
+lated , and transition state structures solved . Solving a complete energy surface for a given react
+ion is therefore possible , and such calculations have been applied to many problems in organic chem

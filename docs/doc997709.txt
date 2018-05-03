@@ -1,0 +1,10 @@
+he usual delay ( temporal miss ) between the surgical removal of the tumour and EBRT may allow a rep
+opulation of the tumour cells . These potentially harmful effects can be avoided by delivering the r
+adiation more precisely to the targeted tissues leading to immediate sterilization of residual tumou
+r cells . Furthermore , TARGIT inhibits the stimulating effects of wound fluid on cancer cells , sug
+gesting for the first time , a beneficial effect of intraoperative radiotherapy ( IORT ) on tumour m
+icroenvironment.The TARGIT techniqueThe machine used for TARGIT is Intrabeam ( Carl Zeiss , Germany 
+) . It is a miniature and mobile X-ray source which emits low energy X-ray radiation ( max. 50 kV ) 
+in isotropic distribution . Due to the higher ionization density caused by soft X-ray radiation in t
+he tissue , the relative biological effectiveness ( RBE ) of low-energy X-rays on gamma rays which a
+re delivered by linear accelerators . The radiation which is produced by mobile radiation systems ha

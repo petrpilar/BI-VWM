@@ -1,0 +1,10 @@
+bdan - underlineLambdan ge 0 . For Chebyshev nodes , which provides a suboptimal , but analytically 
+explicit choice , the asymptotic behavior is known as : overlineLambdan(T) = frac2pi log ( n + 1 ) +
+ frac2pileft ( gamma + logfrac8piright ) + alphan + 1 ( being the Euler-Mascheroni constant ) with :
+ 0 38224707 for n ge 1 , and upper bound : overlineLambdan(T) le frac2pi log ( n + 1 ) + 1 Lev Brutm
+an obtained hatT being the zeros of the expanded Chebyshev polynomials : : overlineLambdan(hatT) - u
+nderlineLambdan(hatT) 153224747 Rdiger Gnttner obtained from a sharper estimate for n ge 40 : overli
+neLambdan(hatT) - underlineLambdan(hatT) 16224902Detailed DiscussionHere we provide more information
+ on the steps outlined above . In this section we let the indexirun from 0 ton+1 . Step 1 : Given x0
+ , x1 , .. xn+1 , solve the linear system ofn+2 equations : b0 + b1 xi+ .. +bn xi n + ( -1 ) i E = f
+(xi) ( where i=0 , 1 , .. n+1 ) , : for the unknowns b0 , b1 , ... bn andE. It should be clear that 

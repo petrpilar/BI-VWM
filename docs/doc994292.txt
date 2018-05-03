@@ -1,0 +1,10 @@
+1 from : 0 till:1716 bar:1971 from : 0 till:1685 bar:1981 from : 0 till:1502 bar:1991 from : 0 till:
+1384 bar:2001 from : 0 till:1347 PlotData= bar:1861 at:0 fontsize:XS text : ? shift : ( -8,5 ) bar:1
+871 at:1707 fontsize:XS text : 1707 shift : ( -8,5 ) bar:1881 at:1754 fontsize:XS text : 1754 shift 
+: ( -8,5 ) bar:1901 at:2124 fontsize:XS text : 2124 shift : ( -8,5 ) bar:1911 at:2310 fontsize:XS te
+xt : 2310 shift : ( -8,5 ) bar:1921 at:2297 fontsize:XS text : 2297 shift : ( -8,5 ) bar:1931 at:190
+9 fontsize:XS text : 1909 shift : ( -8,5 ) bar:1936 at:1669 fontsize:XS text : 1669 shift : ( -8,5 )
+ bar:1951 at:1846 fontsize:XS text : 1846 shift : ( -8,5 ) bar:1961 at:1716 fontsize:XS text : 1716 
+shift : ( -8,5 ) bar:1971 at:1685 fontsize:XS text : 1685 shift : ( -8,5 ) bar:1981 at:1502 fontsize
+:XS text : : 1384 shift : ( -8,5 ) bar:2001 at:1347 fontsize:XS text : 1347 shift : ( -8,5 ) TextDat
+a= fontsize:S pos : ( 20,20 ) text:Data from ISTAT district = yearbook = Upper Arlington High School

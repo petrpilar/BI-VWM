@@ -1,0 +1,10 @@
+a virtual IP address ( VIP ) and position of the ADN in the network provides the means through which
+ certain resources can be cloaked , or hidden , from the client . Because the ADN is designed to und
+erstand applications and application protocols , such as HTTP , it can manipulate certain aspects of
+ the protocol to cloak the servers in the pool and prevent potentially useful information regarding 
+the software and hardware infrastructure from being exposed . A typical use of this functionality is
+ to hide the operating system and server software used to host the application . This is usually acc
+omplished by rewriting the Server field in an HTTP response . A second typical use of this functiona
+lity is the exploitation of the ADN 's ability to rewrite the URI portion of an HTTP request . The c
+lient is to the ADN , and upon receiving the request the ADN may either ( a ) rewrite the URI and se
+nd a 302 redirect or ( b ) transparently translates the URI and responds to the client as if the URI

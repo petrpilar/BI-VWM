@@ -1,0 +1,10 @@
+cellspacing= 2 cellpadding= 5 style= border-collapse : collapse font-size : 90% ! RANK ! style= widt
+h : 20em HEAT 1 ! style= width : 5em TIME align= center 2:03.66 align= center 2:04.05 align= center 
+2:04.16 align= center 2:04.67 align= center 2:06.06 align= center 2:18.79 border= 1 cellspacing= 2 c
+ellpadding= 5 style= border-collapse : collapse font-size : 90% ! RANK ! style= width : 20em HEAT 2 
+! style= width : 5em TIME align= center 2:01.51 align= center 2:01.72 align= center 2:01.73 align= c
+enter 2:01.84 align= center 2:07.17 align= center 2:14.50 border= 1 cellspacing= 2 cellpadding= 5 st
+yle= border-collapse : collapse font-size : 90% ! RANK ! style= width : 20em HEAT 3 ! style= width :
+ 5em TIME align= center 2:02.77 align= center 2:03.60 align= center 2:04.17 align= center 2:05.77 al
+ign= center 2:07.39 align= center collapse font-size : 90% ! RANK ! style= width : 20em HEAT 4 ! sty
+le= width : 5em TIME align= center 2:00.37 align= center 52.53 align= center 2:03.38 align= center 2

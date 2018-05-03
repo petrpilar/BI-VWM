@@ -1,0 +1,10 @@
+he CCITT ( now known as the ITU-T ) for possible adoption as the V.fast modem standard . However , m
+ore conventional modem technology was chosen and standardized as V.34 . Telebit deemed full-duplex P
+EP to require more engineering effort than was justified introduced this feature .The Octocom merger
+ and the FastBlazer V.34 modemThe CCITT moved quickly to improve on V.32bis , and by 1993 it was cle
+ar that the ratification process for their new 28,800 bit/s V.34 standard was going to be finalized 
+in 1994 . Companies lined up to start production of new V.34 designs , some going so far to introduc
+e models based on interim standards , such as V.FC . Telebit 's modem engineering team developed a p
+lan for a V.34 modem , but the executive staff believed that it was important to get a product to ma
+rket more quickly . To that end , they began looking for other modem companies to acquire , and in J
+anuary 1993 announce that Telebit would acquire Octocom Systems , a small privately held modem compa

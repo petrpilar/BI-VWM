@@ -1,0 +1,10 @@
+awn ! Lost ! For ! Against ! Difference ! bgcolor= lightgreen 1 ! bgcolor= lightgreen River Plate ! 
+bgcolor= lightgreen 10 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 4 ! bgcolor= lightgreen 2 ! bgc
+olor= lightgreen 0 ! bgcolor= lightgreen 10 ! bgcolor= lightgreen 4 ! bgcolor= lightgreen 6 ! bgcolo
+r= lightgreen 2 ! bgcolor= lightgreen Unin de Santa Fe ! bgcolor= lightgreen 5 ! bgcolor= lightgreen
+ 6 ! bgcolor= lightgreen 1 ! bgcolor= lightgreen 3 ! bgcolor= lightgreen 2 ! bgcolor= lightgreen 9 !
+ bgcolor= lightgreen 6 ! bgcolor= lightgreen 3 ! bgcolor= lightblue 3 ! bgcolor= lightblue Gimnasia 
+La Plata ! bgcolor= lightblue 5 ! bgcolor= lightblue 6 ! bgcolor= lightblue 1 ! bgcolor= lightblue 3
+ ! bgcolor= lightblue 2 ! bgcolor= lightblue 4 ! bgcolor= lightblue 10 ! bgcolor= lightblue -6 ! bgc
+olor= lightblue 4 ! bgcolor= lightblue Cipolletti ! bgcolor= lightblue 4 ! bgcolor= lightblue 6 ! bg
+color= lightblue 0 ! bgcolor= lightblue 4 ! bgcolor= lightblue 2 ! bgcolor= lightblue 5 ! bgcolor= l

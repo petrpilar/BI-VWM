@@ -1,0 +1,10 @@
+red unfavorably to 10 Mbit/s local area networks such as Ethernet . This led to introduction the ter
+m had a meaning in physics and engineering ( similar to wideband ) , the CCITT defined it as : Quali
+fying a service or system requiring transmission channels capable of supporting rates greater than t
+he primary rate referring to the primary rate which ranged from about 1.5 to 2 Mbit/s . Services env
+isioned included video telephone and video conferencing . Technical papers were published in early 1
+988 . Standards were issued by the Comit Consultatif International Tlphonique et Tlgraphique ( CCITT
+ , now known as ITU-T ) , and called Recommendations . They included G.707 to G.709 , and I.121 whic
+h defined the principal aspects of B-ISDN , with many others following through the 1990s . The desig
+nated technology for B-ISDN was Asynchronous Transfer Mode ( ATM ) , which was intended to carry bot
+h synchronous voice and asynchronous data services on the same transport . The B-ISDN vision has bee

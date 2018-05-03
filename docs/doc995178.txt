@@ -1,0 +1,10 @@
+level agreement . Typical industry standard load balancing algorithms available today include : Roun
+d Robin Least Connections Fastest Response Time Weighted Round Robin Weighted Least Connections Cust
+om values assigned to individual servers in a pool based on SNMP or other communication mechanismFau
+lt toleranceThe ADN provides fault tolerance at the server level , within pools or farms . This is a
+ccomplished by designating specific servers as a ' backup ' that is activated automatically by the A
+DN in the event that the primary server(s) in the pool fail . The ADN also ensures application avail
+ability and reliability in the event of a hardware or software failure . This ensures that traffic c
+ontinues to flow in the event of a failure in one device , thereby providing fault tolerance for the
+ applications . Fault tolerance is implemented in ADNs through either a network or serial based conn
+ection .Network based failoverThe Virtual IP Address ( VIP ) is shared between two devices . A heart

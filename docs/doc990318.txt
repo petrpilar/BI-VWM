@@ -1,0 +1,10 @@
+. This method is a slightly simplified version of the method used by Appleton and his colleagues to 
+work out a first value for the height of the ionosphere in 1924 . In their experiment , they used th
+e BBC broadcasting station in Bournemouth to vary the wavelengths of its emissions after the evening
+ programmes had finished . They installed a receiving station in Oxford to monitor the interference 
+effects . The receiving station emitter at the right distance of about 100 km from Cambridge in thos
+e days . This frequency modulation method revealed that the point from which waves were being reflec
+ted was approximately 90 km . However , it did not establish that the waves were reflected from abov
+e , indeed they may have been coming from hills somewhere between Oxford and Bournemouth . The secon
+d method , which involved finding the angle of incidence of the reflected waves at the receiver , sh
+owed for sure that they were coming from above . Triangulations from this angle gave results for the

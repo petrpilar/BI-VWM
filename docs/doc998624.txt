@@ -1,0 +1,10 @@
+controlled microbioreactor system can be combined with DoE methods to optimize cell-culture media an
+d feeding strategies . The new process is rich in information and provides a solid understanding of 
+the most influential factors affecting performance of specific cell lines . The United States Enviro
+nmental Protection Agency ( EPA ) evaluated the physicochemical properties of nine surfactants used 
+in the remediation of perchloroethylene ( PCE ) in aqueous solutions using a response surface quadra
+tic design model of experiment . Design-Expert software was used to generate the experimental design
+ and perform the analysis . The research provided predictive models for alterations in the physioche
+mical properties of pore fluid to surfactant enhanced acquifer remediation of PCE . Researchers inve
+stigated the possibility of producing poly-3-hydroxybutyrate ( P(3HB) polyester using optimized usin
+g DOE performed with Design-Expert software . Researchers at the University of Nottingham demonstrat

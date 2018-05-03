@@ -1,0 +1,10 @@
+g-shaped electrodes , and a hollow inner core , allowing both lower inductance and a dye cell to be 
+placed like an axle through the center of the lamp . In contrast , changes in the input voltage or c
+apacitance have no effect on discharge time , although they do have an effect on current density . A
+s flash duration decreases , the electrical energy becomes concentrated into shorter pulses , so the
+ current density will increase . Compensating for this usually requires lowering the capacitance as 
+pulse duration decreases , and then raising the voltage proportionately in order to maintain a high 
+enough energy-level . However , as pulse the lamp , so the energy level must also be decreased to av
+oid destroying the lamp . The amount of power loading the glass can handle is the major mechanical l
+imit . Even if the amount of energy ( joules ) that is used remains constant , electrical power ( wa
+ttage ) will increase in inverse proportion to a decrease in discharge time . Therefore , energy mus

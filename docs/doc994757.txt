@@ -1,0 +1,10 @@
+ produced by the thermistor itself ( very minor influence ) . If the equilibrium for the reaction li
+es far to the right ( i.e. a stoichiometric equilibrium has been achieved ) , then when all analyte 
+has been reacted by the titrant continuing addition of titrant will be revealed by a sharp break in 
+the temperature/volume curve . Figures 1a and 1b illustrate idealized examples . The shape of experi
+mentally obtained thermometric titration plots will vary from such idealized examples , and some of 
+the environmental influences listed above may . This can be due to insensitivity of the sensor or wh
+ere thermal equilibrium at the endpoint is slow to occur . It can also occur where the reaction betw
+een titrant and titrand does not proceed to stoichiometric completion . The determinant of the degre
+e to which a reaction will proceed to completion is the free energy change . If this is favourable ,
+ then the reaction will proceed to be completion and be essentially stoichiometric . In this case , 

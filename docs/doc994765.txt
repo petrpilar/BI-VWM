@@ -1,0 +1,10 @@
+vices burettes for adding titrants and dosing of other reagents Thermistor-based thermometric sensor
+ Titration vessel Stirring device , capable of highly efficient stirring of vessel contents without 
+splashing Computer with thermometric titration operating system Thermometric titration interface mod
+ule this regulates the data flow between the burettes , sensors and the computer Figure 6 illustrate
+s a modern automated thermometric titration system based on the Metrohm 859 Titrotherm interface mod
+ule with Thermoprobe sensor , Metrohm 800 Dosino dispensing devices and a computer running the opera
+tional software . Figure 7 is a schematic of the relationship between components in automated thermo
+metric titration system . A = dosing device B = thermometric sensor C = stirring device D = thermome
+tric titration interface module E = computerTypes of thermometric titration groupings , namely : Aci
+d-base tritration Redox titration Precipitation titration Complexometric titration Because the senso

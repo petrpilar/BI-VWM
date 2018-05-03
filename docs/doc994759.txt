@@ -1,0 +1,10 @@
+ when the titrant is in excess past the endpoint , a linear temperature response can also be anticip
+ated . Thus intersection of tangents will reveal the true endpoint . An actual thermometric titratio
+n plot for the determination of a strong base with a strong acid is illustrated in Figure 3 . The mo
+st practical sensor for measuring temperature change in titrating solutions has been found to be the
+ thermistor . Thermistors are small solid state devices which exhibit relatively large changes in el
+ectrical resistance for small changes in temperature . They are manufactured from sintered mixed met
+al oxides , with lead wires enabling connection to electrical circuitry . The thermistor is encapsul
+ated in a suitable electrically insulating medium with satisfactory thermistors used for chemical an
+alysis the encapsulating medium is glass , although thermistors encapsulated in epoxy resin may be u
+sed in circumstances where either chemical attack ( e.g. , by acidic fluoride-containing solutions )

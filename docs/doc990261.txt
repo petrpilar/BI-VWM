@@ -1,0 +1,10 @@
+ines which are specific to the gas , superimposed on a background of continuum radiation . With all 
+gases , low current densities produce mostly spectral lines , with the highest output being concentr
+ated in the near-IR between 650 and 1000 nm . Krypton 's strongest peaks are around 760 and 810 nm .
+ Argon has many strong peaks at 670 , 710 , 760 , peaks around 650 , 700 , 850 , and 880 nm . As cur
+rent densities become higher , the output of continuum radiation will increase more than the spectra
+l line radiation at a rate 20% greater , and output center will shift toward the visual spectrum . A
+t greybody current densities there is only a slight difference in the spectrum emitted by various ga
+ses . At very high current densities , all gases will begin to operate as blackbody radiators , with
+ spectral outputs centered in the near-UV . Heavier gases exhibit higher resistance , and therefore 
+, have a higher value for K o . Impedance , being defined as the resistance required to change energ

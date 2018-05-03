@@ -1,0 +1,10 @@
+ion kinetics are slow , and direct titrations between titrant and titrand are not possible , indirec
+t or back-titrations often can be devised to solve the problem . Catalytically enhanced endpoints ca
+n be used in very small and endpoints would not be detected satisfactorily by the titration software
+ . The suitability of a particular chemical reaction as a candidate for a thermometric titration pro
+cedure can generally be predicted on the basis of the estimated amount of analyte present in the sam
+ple and the enthalpy of the reaction . However , other parameters such as the kinetics of the reacti
+on , the sample matrix itself , heats of dilution and losses of heat to the environment can affect t
+he outcome . A properly designed experimental program is the most reliable way of determining the vi
+ability of a thermometric titration approach . Successful applications for thermometric titrations a
+re generally where titrant-titrand reaction kinetics are fast , and chemical equilibria are stoichio

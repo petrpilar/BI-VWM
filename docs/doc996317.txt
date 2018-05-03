@@ -1,0 +1,10 @@
+ on November 4 , 1999 by the Lincoln Laboratory Near-Earth Asteroid Research Team at Socorro. 8087 K
+azutaka ( 1989 WA2 ) is a main-belt asteroid discovered on November 29 , 1989 by K. Endate and K. Wa
+tanabe at Kitami.ReferencesSplines are ridges or teethcite web on a drive shaft that mesh with groov
+es in a mating piece and transfer torque to it , maintaining the angular correspondence between them
+ . For instance , a gear mounted on a shaft might use a male spline on the shaft that matches the fe
+male spline on the gear . The splines on the pictured drive shaft match with the female splines in t
+he center of the clutch plate , while the smooth tip of the axle is supported in the pilot bearing i
+n the flywheel . An alternative to splines is a keyway and key , though splines provide a longer fat
+igue life .TypesThere are several types of splines : Parallel key spline : where the sides of the eq
+ually spaced grooves are parallel in both directions , radial and axial . Involute spline : where th

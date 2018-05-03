@@ -1,0 +1,10 @@
+rsistent in the physical world . To give the illusion that the game world is always available , pers
+istent worlds can be simulated . This can be achieved by scheduling when players are allowed to play
+ , around times when the world is offline , or as in theAnimal Crossingseries , having the game gene
+rate events that could have happened during the period of inactivity . Aside from virtual worlds , t
+he simulation of a persistent world is also possible in single player games . In Noctis , players ar
+e advised to turn off the game while refueling because it takes so long . In addition , if a player 
+who has landed on a planet stops playing and then after a while resumes , he or she can see visible 
+changes in the sea level or the daytime/nighttime cycle . In Metal Gear Solid 3 . If one stops playi
+ng long enough during the fight of Snake with The End , he will die of old age . Another form of sim
+ulated persistence has game world is shared between computer systems giving the impression of persis

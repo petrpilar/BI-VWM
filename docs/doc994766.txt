@@ -1,0 +1,10 @@
+r does not interact electrically or electrochemically with the solution , electrical conductance of 
+the titrating medium is not a pre-requisite for a determination . Titrations may be carried out in c
+ompletely non-conducting , non-polar media if required . Further , titrations may be carried out in 
+turbid solutions or even suspensions of solids , and titrations where precipitates are reaction prod
+ucts can be contemplated . The range of possible thermometric titration applications far exceeds the
+ actual experience of this writer , and the reader will be referred to the appropriate literature in
+ some instances .Acid-base titrationsDetermination of fully dissociated acids and bases . The heat o
+f neutralization of a fully dissociated acid with a fully dissociated base is approximately 56kJ/mol
+ . The reaction is thus strongly exothermic , and is an excellent basis for a wide range of analysis
+ in industry . An advantage for the industrial analyst is that the use of stronger titrants ( 1 to 2

@@ -1,0 +1,10 @@
+In non-polar aprotic solvents , the enol form is strongly favored due to the formation of an intramo
+lecular hydrogen-bond , while in polar aprotic solvents , such as methylene chloride , the enol form
+ is less favored due to the interaction between the polar solvent and the polar diketone . In protic
+ solvents , the equilibrium lies towards the keto form as the intramolecular hydrogen bond competes 
+with hydrogen bonds originating from the solvent . A modern example of the study of solvent effects 
+on chemical equilibrium can be seen in the study by Carlier et al . on the epimerization of chiral c
+yclopropylnitrile Grignard reagents . In this study it is shown that the equilibrium constant for th
+ecistotransisomerization of the Grignard reagent is much greaterthat form is enhancedin THF over die
+thyl ether . However , the faster rate ofcis to trans isomerizationin THF results in a loss of stere
+ochemical purity . The understanding of the molecular configuration of reagents such as these is par

@@ -1,0 +1,10 @@
+n the Alima River . The closest airport is Oyo Ollombo Airport .ReferencesLalala In mathematics , a 
+Sylvester matrix is a matrix associated to two univariate polynomials with coefficients in a field o
+r a commutative ring . The entries of the Sylvester matrix of two polynomials are coefficients of th
+e polynomials . The determinant of the Sylvester matrix of two polynomials is their resultant , whic
+h is zero when the two polynomials have a common root ( in case of coefficients in a field ) or a no
+n-constant common divisor ( in case of coefficients in an integral domain ) . Sylvester matrix is na
+med after James Joseph Sylvester .DefinitionFormally , letpandqbe two nonzero polynomials , respecti
+vely of degreemandn. Thus : : p(z)=p0+p1 z+p2 z2+cdots+pm zm , q(z)=q0+q1 z+q2 z2+cdots+qn zn . The 
+Sylvester matrix associated topandqis then the ( n+m ) times(n+m) matrix obtained as follows : the f
+irst row is : : &amp 0 &amp cdots &amp 0 endpmatrix. the second row is the first row , shifted one c

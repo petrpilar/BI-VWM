@@ -1,0 +1,10 @@
+or one can assume thatgmaps the interval 0 , , 1 onto itself . Sincegis strictly increasing , it is 
+a homeomorphism and by the theorem of differentiation of the inverse function , its composition inve
+rse f , : =g-1 has a finite derivative at any point , which vanishes at least in the of 0 , , 1 ( ac
+tually , it vanishes in many other points see below ) .Properties It is known that the zero-set of a
+ derivative of any everywhere differentiable function is aG subset of the real line . By definition 
+, for any Pompeiu function this set is adenseG  set , therefore by the Baire category theorem it is 
+a residual set . In particular , it possesses uncountably many points . A linear combinationaf(x) +b
+g(x) of Pompeiu functions is a derivative , and vanishes on the setf= 0g= 0 , which is a denseG by t
+he Baire category theorem . Thus , Pompeiu functions are a vector space of functions . A limit funct
+ion of a uniformly convergent sequence of Pompeiu a derivative , due to the theorem of limit under t

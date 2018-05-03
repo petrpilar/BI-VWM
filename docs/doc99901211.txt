@@ -1,0 +1,10 @@
+nDirect proportional control works well when each joint of the exoskeleton is actuated in one direct
+ion ( uni-directional actuation ) , such as a pneumatic piston only bending the knee , but is less e
+ffective when two joint actuators work in opposition ( bi-directional actuation ) . An example of th
+is would be ankle exoskeleton using one pneumatic artificial muscle for dorsiflexion based on tibial
+is anterior ( shin muscle ) EMG and another pneumatic artificial muscle for plantar flexion based on
+ soleus ( calf muscle ) EMG . This could result in a large degree of co-activation of the two actuat
+ors and make walking more difficult.Ferris , D.P. , Gordon , K.E. , Sawicki , G.S . and Peethambaran
+ , A. : An improved powered ankle-foot orthosis using proportional myoelectric control ,Gait and Pos
+ture, 23 , pp 425-428 , 2006 To correct for this unwanted co-activation , a rule can be added to the
+ control scheme so that artificial dorsiflexor activation is inhibited when soleus EMG is above a se

@@ -1,0 +1,10 @@
+sed on established best-practices employed to efficiently route traffic at the network layer includi
+ng redundancy and load balancing In theory , an Application Delivery Network ( ADN ) is closely rela
+ted to a content delivery network . The difference between the two delivery networks lies in the int
+elligence of the ADN to understand and optimize applications , usually referred to as application fl
+uency . Application Fluent Network ( AFN ) is based upon the concept of Application Fluency to refer
+ to WAN optimization techniques applied at Layer Four to Layer Seven of the OSI model for networks .
+ Application Fluency implies that the network is fluent or intelligent in understanding and being ab
+le to optimize delivery of each application . Application Fluent Network is an addition of SDN capab
+ilities . The acronym ' AFN ' Fluent Network . Application delivery uses one or more layer 47 switch
+es , also known as a web switch , content switch , or multilayer switch to intelligently distribute 

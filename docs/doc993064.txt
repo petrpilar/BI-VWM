@@ -1,0 +1,10 @@
+in order to pre-spool prior to its full utilization . Once a preset engine speed or boost pressure i
+s attained , valves controlling compressor and turbine flow through the secondary turbocharger are o
+pened completely . ( The primary turbocharger is deactivated at this point in some applications . ) 
+In this way a full twin-turbocharger setup provides the benefits associated with a large turbo , inc
+luding maximum power output , without the disadvantage of increased turbo lag . Sequential turbochar
+ger systems provide a way to decrease turbo lag without compromising ultimate boost output and engin
+e power . Perhaps the most noteworthy application of this system is the fourth-generation Toyota Sup
+ra ( most reliable sequential turbo system yet fitted to a production automobile , with a reported f
+ailure rate of less than 1% as of 2011 . Other examples of cars with a sequential twin-turbo setup i
+nclude the 1986-1988 Porsche 959 , the 1990-1995 Eunos Cosmo JC , 1992-2002 Mazda RX-7 FD3S Turbo ( 

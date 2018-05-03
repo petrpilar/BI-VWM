@@ -1,0 +1,10 @@
+ function . Modeling a real physical system in a computer is called simulation .Interfacing the digi
+tal and analog worldsIn electronics , a digital-to-analog converting a digital signal ( usually bina
+ry ) to an analog signal ( current , voltage or electric charge ) . Digital-to-analog converters are
+ interfaces between the digital world and analog world . An analog-to-digital converter ( abbreviate
+d ADC , A/D or A to D ) is an electronic circuit that converts continuous signals to discrete digita
+l numbers .Controversy over photographic filmThere is quite a bit of controversy in the photographic
+ world as to whether or not a film camera should be considered an analog device since the photograph
+ic film is n't a truly analog recording medium and requires chemistry to process an image . Analog h
+as become the common term for referring to cameras that are not digital and is an easy shorthand for
+ people to differentiate between the two mediums . temperature = Gliese 849 is a red dwarf star appr

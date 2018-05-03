@@ -1,0 +1,10 @@
+ &amplambda can have dimension 1 , in which case any orthonormal basis forV &amplambda would lead to
+ the desired result . Write the triangular matrixUasU=D+N, whereDis diagonal andNis strictly upper t
+riangular ( and thus a nilpotent matrix ) . The diagonal matrixDcontains the eigenvalues ofAin arbit
+rary order ( hence its Frobenius norm , squared , isA, while the Frobenius norm ofA, squared , is th
+e sum of the squared singular values ofA) . The nilpotent partNis generally not unique either , but 
+its Frobenius norm is uniquely determined byA( just because the Frobenius norm of A is equal to the 
+Frobenius norm ofU=D+N) . It is clear that ifAis a normal matrix , thenUfrom its Schur decomposition
+ must be a diagonal matrix and the column vectors ofQare the eigenvectors ofA. Therefore , the Schur
+ decomposition extends the spectral decomposition . In particular , ifAis positive definite , the Sc
+hur decomposition ofA, its spectral decomposition , and its singular value decomposition coincide . 

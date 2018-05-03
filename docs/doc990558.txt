@@ -1,0 +1,10 @@
+pany standard for 9600 bit/s dialup modems was V.32 , , but Rockwell introduced modules , and eventu
+ally entire chipsets , that brought the prices down . Telebit first offered V.32 support in the T250
+0 , which used the Trailblazer/T2000 hardware with the addition of the Rockwell V.32 modem module . 
+A version without PEP support was offered as the T1500 . The later T1600 had basically the same feat
+ure set as the T1500 , but used Telebit 's own V.32 implementation rather than the Rockwell module ,
+ resulting in reduced production cost and better performance . Both the T1500 and T1600 had list pri
+ces over $1000 at the time a 1st tier product from Hayes or U.S. Robotics ( USR ) generally cost abo
+ut $700 . The V.32bis standard , increasing the bit rate to 14,400 bit/s , was introduced in 1991 . 
+In this case Rockwell quickly released a V.32bis chipset , appearing on the market so rapidly that R
+ockwell-based systems generally pre-dated implementations from other companies . Rockwell also aggre

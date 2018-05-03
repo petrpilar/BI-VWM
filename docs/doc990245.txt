@@ -1,0 +1,10 @@
+rt-pulsed arc can generate , so quartz as much as 1 mm thick is often used in the construction of fl
+ashtubes . The material of the envelope provides another limit for the output power 1 mm thick fused
+ quartz has a limit of 200 W/cm 2 , synthetic quartz of same thickness can run up to 240 W/cm 2 . Ag
+ing lamps require some derating , due to increased energy absorption in the glass due to solarizatio
+n and sputtered deposits .Electrodes and sealsThe electrodes protrude into each end of the tube , an
+d are sealed to the glass using a few different methods . Ribbon seals use thin strips of molybdenum
+ foil bonded directly to the glass , which are very durable , but are . Solder seals bond the glass 
+to the electrode with a solder for a very strong mechanical seal , but are limited to low temperatur
+e operation . Most common in laser pumping applications is the rod seal , where the rod of the elect
+rode is wetted with another type of glass and then bonded directly to a quartz tube . This seal is v

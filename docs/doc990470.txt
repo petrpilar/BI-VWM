@@ -1,0 +1,10 @@
+s in the vertical direction . The coordinates x and y are related by the equation of the circle : f 
+( x , y ) = x2+y2 - L2=0 , that constrains the movement of M. This equation also provides a constrai
+nt on the velocity components , : dotf ( x , y ) =2xdotx + 2ydoty = 0 . Now introduce the parameter 
+, that defines the angular position of M from the vertical direction . It can be used to define the 
+coordinates x and y , such that : mathbfr= ( x , y ) = ( Lsintheta , -Lcostheta ) . The use of to de
+fine the configuration of this system avoids the constraint provided by the equation of the circle .
+Virtual workNotice that the force of usual Cartesian coordinates , : mathbfF= ( 0 , -mg ) , where g 
+is the acceleration of gravity . The virtual work of gravity on the mass m as it follows the traject
+ory r is given by : delta W = mathbfFcdotdelta mathbfr . The variation r can be computed in terms of
+ the coordinates x and y , or in terms of the parameter , : delta mathbfr = ( delta x , delta y ) = 

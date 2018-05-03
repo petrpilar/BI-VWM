@@ -1,0 +1,10 @@
+: Shane MacGowan bar:strummer text : Joe Strummer bar:stacy text : Spider Stacy bar:finer text : Jem
+ Finer bar:fearnley text : James Fearnley bar:mcnally text : James McNally bar:o'riordan text : Cait
+ O'Riordan bar:hunt text : Darryl Hunt bar:ranken text : Andrew Ranken bar:chevron text : Philip Che
+vron bar:clarke text : Jamie Clarke bar:woods text : Terry Woods bar:coulter text : Dave Coulter Plo
+tData= width:10 textcolor:black align:left anchor:from shift : ( 10 , -4 ) bar:macgowan from:01/08/1
+982 till:15/11/1991 color:voc bar:macgowan from:01/08/1982 till:31/12/1984 color:g width:3 bar:macgo
+wan from:01/01/1985 till:15/11/1991 color:voc bar:macgowan from:01/12/2001 till:31/12/2014 color:voc
+ bar:strummer from:01/06/1987 till:31/03/1988 color:g bar:strummer from:20/11/1991 till:01/03/1992 c
+olor:voc bar:strummer from:20/11/1991 till:01/03/1992 color:g width:3 bar:stacy from:01/08/1982 till
+:01/06/1996 color:tw bar:stacy from:01/01/1985 till:31/12/1985 color:voc width:3 bar:stacy from:01/0

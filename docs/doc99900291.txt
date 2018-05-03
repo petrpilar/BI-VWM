@@ -1,0 +1,10 @@
+tatistical Gait Description via Temporal Moments , Proc . SSIAI 2000 - Austin , Texas , : pp. 291-29
+5 , 2000 and Zernike.J . D. Shutler and M. S. Nixon , Zernike Velocity Moments for Description and R
+ecognition of Moving Shapes , Proc . BMVC 2001 , Manchester , UK , 2:pp. 705-714 , 2001Cartesian vel
+ocity moments Cartesian moments for single imagesA Cartesian moment of a single image is calculated 
+by : mpq = sumx=1M sumy=1N xp yq Pxy where M and Pxy is the intensity of the pixel at the point ( x 
+, y ) in the image , and xp yq is the basis function .Cartesian velocity moments for sequences of im
+agesCartesian velocity moments are based on these Cartesian moments . A Cartesian velocity moment vm
+pqmugamma is defined by : vmpqmugamma = sumi=2images sumx=1M sumy=1N U ( i , mu , gamma ) C ( i , p 
+, g ) Pixy where M and N are again the dimensions of the image , images is the number of images in t
+he sequence , and Pixy is the intensity of the pixel at the point ( x , y ) in image i . C ( i , p ,

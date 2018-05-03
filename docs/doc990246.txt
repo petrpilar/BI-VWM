@@ -1,0 +1,10 @@
+ery durable and capable of withstanding very high temperature and currents . The seal and the glass 
+must have the same coefficient of expansion . For low electrode wear the electrodes are usually made
+ of tungsten , which has the highest melting point of any metal , to handle the thermionic emission 
+of electrons . Cathodes are often made from porous tungsten filled with a barium compound , which gi
+ves low work function the structure of cathode has to be tailored for the application . Anodes are u
+sually made from pure tungsten , or , when good machinability is required , lanthanum-alloyed tungst
+en , and are often machined to provide extra surface area to cope with power loading . DC arc lamps 
+often have a cathode with from the glass and to control temperature . Flashtubes usually have a cath
+ode with a flattened radius , to reduce the incidence of hot spots and decrease sputter caused by pe
+ak currents , which may be in excess of 1000 amperes . Electrode design is also influenced by the av

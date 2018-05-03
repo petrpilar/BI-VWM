@@ -1,0 +1,10 @@
+formation associated with that particle . All information about the system is contained in the wavef
+unction . This information is extracted from the wavefunction through the use of mathematical operat
+ors . The energy associated with a particular wavefunction , perhaps the most important information 
+contained in a wavefunction , can be extracted by solving the Schrdinger equation ( above , is the w
+avefunction , E is the energy , and is the Hamiltonian operator ) in which an appropriate Hamiltonia
+n operator is applied . In the various forms of the Schrdinger equation , the overall size of a part
+icles probability distribution increases with decreasing particle mass . For this reason , nuclei ar
+e of negligible size in relation to much lighter electrons and are treated as point charges in pract
+ical applications of quantum chemistry . Due to complex interactions which arise from electron-elect
+ron repulsion , algebraic solutions of the Schrdinger equation are only possible for systems with on

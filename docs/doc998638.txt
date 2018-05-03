@@ -1,0 +1,10 @@
+nes : List of groups . , type : Group , createUser : doclines : Create deforder : 1 , doclines : Uni
+que username for the new user account . , type : string , optional : false , givenname : deforder : 
+2 , doclines : First name . , type : string , optional : false , surname : deforder : 3 , doclines :
+ Last name . , type : string , optional : false , mobile : deforder : 4 , doclines : Optional mobile
+ number . , type : string , optional : true , age : deforder : 5 , doclines : Optional age of the pe
+rson behind the account . , type : number , optional : true , retinfo : doclines : , type : CreateUs
+erResponse Service call 1Request 262274source type : jsonwsp/request , version : 1.0 , methodname : 
+createUser , args : username : bettyw , givenname : Betty , surname : Wilson , mobile : 555-3423444 
+, mirror : id : 2 Response 262302source type : jsonwsp/response , version : 1.0 , servicename : User
+Service , method : createUser , result : userid 2 Service call 2Request 262330source type : jsonwsp/

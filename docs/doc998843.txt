@@ -1,0 +1,10 @@
+n 600 gigabytes of data , including 37,872 written documents , 452 spreadsheets , 210,888 images , 2
+2,481 web pages , 7,989 email addresses , 10,537 multimedia files ( sound and video ) and 983 encryp
+ted files . In non-technical terms , this volume of data would correspond to 39.5 million filled pag
+es in Microsoft Word and , if all of the seized data were in Word format , it would take more than 1
+,000 years to read at a rate of 100 pages per day .InterpolThe Colombian Administrative Department o
+f Security ( DAS ) reported that it had asked for Interpol 's technical support in order to decipher
+ the seized FARC computers . According to the DAS , Interpol accepted the request and sent several e
+xperts to Colombia . The final report was presented on May 15 . Interpol 's report said that it lapt
+ops , although the initial Colombian security force access to the data sources ( between 1 and 3 Mar
+ch ) did not conform to international standards . The laptops had been booted and hard drives or USB

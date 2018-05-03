@@ -1,0 +1,10 @@
+-h ' lambda=fracDlambda=N If N is an integer number , then constructive interference will occur , th
+is means a maximum signal will be achieved at the receiving end . If N is an odd integer number of h
+alf wavelengths , then destructive interference will occur and a minimum signal will be received . L
+et us assume we are receiving a maximum signal for a given wavelength . If we start to change , this
+ is the process called number and destructive interference will start to occur , meaning the signal 
+will start to fade . Now we keep changing until a maximum signal is once again received . The means 
+that for our new value , our new value N is an also an integer number . If we have lengthened then w
+e know that N is one less than N. Thus : N-N ' =fracDlambda-fracDlambda ' =1 Rearranging for D gives
+ : D=h-h ' 29105634TOOLONG ' As we know and , we can calculate D. Using the approximation that ABC i
+s an isosceles triangle , we can use our value of D to calculate the height of the reflecting layer 

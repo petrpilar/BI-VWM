@@ -1,0 +1,10 @@
+at digital services would follow much the same pattern as voice services did on the public switched 
+telephone network , and conceived an end-to-end circuit switched services , known as Broadband Integ
+rated Services Digital Network ( B-ISDN ) . Before B-ISDN , the original ISDN attempted to substitut
+e the analog telephone system with a digital system which was appropriate for both voice and non-voi
+ce traffic . Obtaining worldwide agreement on the basic rate interface standard was expected to lead
+ to a large user demand for ISDN equipment , hence leading to mass production and inexpensive ISDN c
+hips . However , the standardization process took years while computer network technology moved rapi
+dly . Once the ISDN standard was finally agreed upon and products were available , it was already ob
+solete . For home use the largest demand for new services was video and voice transfer , but the ISD
+N basic rate lacks the necessary channel capacity . For business , ISDN 's 64 kbit/s data rate compa

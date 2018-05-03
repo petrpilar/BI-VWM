@@ -1,0 +1,10 @@
+ables . Colorectal cancer has also been predicted using the neural networks . Neural networks could 
+predict the outcome for a patient with colorectal cancer with more accuracy than the current clinica
+l methods . After training , the networks could predict multiple patient outcomes from unrelated ins
+titutions .Neural networks and neuroscienceTheoretical and computational neuroscience is the field c
+oncerned with the theoretical analysis and the computational modeling of biological neural systems .
+ Since neural systems are intimately related to cognitive processes and behavior , the field is clos
+ely related to is to create models of biological neural systems in order to understand how biologica
+l systems work . To gain this understanding , neuroscientists strive to make a link between observed
+ biological processes ( data ) , biologically plausible mechanisms for neural processing and learnin
+g ( biological neural network models ) and theory ( statistical learning theory and information theo

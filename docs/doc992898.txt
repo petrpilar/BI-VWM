@@ -1,0 +1,10 @@
+joined by replenishment ship 886Qiandaohu, which was already deployed with the preceding flotilla.Sh
+ips of Classclass= toccolours border= 1 cellspacing= 1 cellpadding= 2 style= margin:left border-coll
+apse:collapse ReferencesThe law of truly large numbers , attributed to Persi Diaconis and Frederick 
+Mosteller , states that with a sample size large enough , any outrageous thing is likely to happen .
+ Because we never find it notable when likely events occur , we highlight unlikely events and notice
+ them more . The law seeks to debunk one element of supposed supernatural phenomenology.ExampleFor a
+ simplified example of the law , assume that a given event happens with a probability of 0.1% in one
+ trial . Then the probability that this unlikely event doesnothappen in a single trial is 99.9% = 0.
+999 . In a sample of 1000 independent trials , the probability that the event does not happen in any
+ of them is 0.9991000 , or 36.8% . The probability that the event happens at least once in 1000 tria

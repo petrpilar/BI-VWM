@@ -1,0 +1,10 @@
+use 26 . Expect an ILS approach . Surface wind 230 8 knots . Visibility 10 kilometers or more . Scat
+tered 2,800 feet . Temperature +18 . Dewpoint +10 . QNH 1016 . Threshold QFE 997 hectopascal . Trans
+ition level flight level 60 . Departing aircraft should make initial contact with Luton ground on 12
+1.750 . Acknowledge receipt of information Oscar and advise aircraft type on first contact . Stanste
+d information Expect an ILS approach . Ground is open . Delivery is closed . Surface wind 230 8 knot
+s . Visibility 10 kilometers or more . Scattered 2,800 feet . Temperature +18 . Dewpoint +10 . QNH 1
+016 . Transition level flight level 60 . Acknowledge receipt of information Oscar and advise aircraf
+t type on first contact .As Heathrow and Manchester airports both have two runways and both airports
+ use one for arrivals and the other for departures , they have two ATIS frequencies , one for arriva
+ls and one for departures . Manchester only uses its second runway part-time however both ATIS frequ

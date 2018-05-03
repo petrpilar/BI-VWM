@@ -1,0 +1,10 @@
+ in a line of desktop calculators . Mostek 's device took longer to develop but was a single-chip so
+lution , new handheld line , the Busicom LE-120A , which went on the market in 1971 and was the smal
+lest calculator available for some time . Hewlett-Packard also contracted with Mostek for mask devel
+opment and production of chips for their HP-35 and HP-45 lines .World leader in DRAMMostek co-founde
+r Robert Proebsting invented DRAM address multiplexing with the MK4096 4096 X 1 bit DRAM introduced 
+in 1973 . Address multiplexing was a revolutionary approach which reduced cost and board space by fi
+tting a 4K DRAM into a 16 pin package , while competitors took the evolutionary approach which led t
+o a bulky and relatively expensive 22 pin package . Competitors derided the Mostek approach as unnec
+essarily complex , but Proebsting understood the future roadmap for DRAM memories would benefit grea
+tly if only one new pin were needed for every 4X increase in memory size , instead of the two pins p

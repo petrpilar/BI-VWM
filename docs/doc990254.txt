@@ -1,0 +1,10 @@
+citor , and then the gas is vacuumed from the lamp . When the gas reaches a low enough pressure ( of
+ten just a low pressures , the efficiency of the flash would normally be very low . However , becaus
+e of the low pressure , the particles have room to accelerate to very high speeds , and the magnetic
+ forces expand the arc so that the bulk of its pasma becomes concentrated at the surface , bombardin
+g the glass . The bombardment ablates ( vaporizes ) large amounts of quartz from the inner wall . Th
+is ablation creates a sudden , violent increase in the internal pressure of the lamp , increasing th
+e efficiency of the flash to very high levels . The ablation , however , causes extensive wear to th
+e lamp , weakening the glass , and they typically need replacement after a very short lifetime . Abl
+ative flashtubes need to be refilled and vacuumed to the proper pressure for each flash . Therefore 
+, they can not be used for very high-repetition applications . Also , this usually precludes the use

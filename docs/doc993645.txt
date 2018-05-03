@@ -1,0 +1,10 @@
+he initial approximation because of their role in the theory of polynomial interpolation . For the i
+nitialization of the optimization problem for functionfby the Lagrange interpolantL n (f) , it can b
+e shown that this initial approximation is bounded by : lVert f - Ln(f)rVertinfty le ( 1 + lVert Lnr
+Vertinfty ) infp in Pn lVert f - prVert with the norm or Lebesgue constant of the Lagrange interpola
+tion operatorLn of the nodes (t 1 , ... ,tn+ 1 ) being : lVert LnrVertinfty = overlineLambdan(T) = m
+ax-1 le x le 1 lambdan ( T x ) , Tbeing the zeros of the Chebyshev polynomials , and the Lebesgue fu
+nctions being : lambdan ( T x ) = sumj = 1n + 1 left lj(x) right 1 frac ( x - ti ) ( tj - ti ) . The
+odore A. Kilgore , Carl de Boor , and Allan Pinkus proved that there exists a uniqueti for eachLn , 
+although not known explicitly for ( ordinary ) polynomials . Similarly , underlineLambdan(T) = min-1
+ le x le 1 lambdan ( T x ) , and the optimality of a choice of nodes can be expressed as overlineLam

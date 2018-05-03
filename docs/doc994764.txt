@@ -1,0 +1,10 @@
+ction is partly or completely blocked . It is often necessary to keep a number of electrodes cycling
+ through a rejuvenation program in order to keep up with an analytical workload . Thermometric senso
+rs have no electrochemical interaction with the titrating solution , and therefore can be used on a 
+continuous basis with essentially no maintenance . Similarly , the potentiometric titration of sulfa
+te with barium chloride in various industrial samples can lead to rapid degradation of the indicatin
+g barium ion selective electrode. A thermometric titration methodology which can not be emulated usi
+ng other types by other techniques . Examples are the determination of fluoride by titration with bo
+ric acid , the analysis of orthophosphate by titration with magnesium ions , and the direct titratio
+n of aluminium with fluoride ionsApparatus and setup for automated thermometric titrimetryA suitable
+ setup for automated thermometric titrimetry comprises the following : Precision fluid dispensing de

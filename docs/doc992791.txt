@@ -1,0 +1,10 @@
+er would be existential ,P 1 goes first , selecting the left node ifx 1 istrueand the right node ifx
+ 1 isfalse. Each player must then take forced turns , and thenP 2 chooses a value forx 2 . These alt
+ernating assignments continue down the left side . After both players pass through all the diamonds 
+, it is againP 1 ' s turn , because we assumed that ' 1 has no choice but to follow the path to the 
+right side of the graph . Then it isP 2 ' s turn to make a move . When the play gets to the right si
+de of the graph , it is similar to the end of play in the formula game . Recall that in the formula 
+game ,P e wins if istrue, whileP a wins if isfalse. The right side of the graph guarantees thatP 1 w
+ins if and only ifP e wins , and thatP 2 wins if and only ifP a wins . First we show thatP 2 always 
+wins whenP a wins . IfP false. If isfalse, there exists an unsatisfying clause .P 2 will choose an u
+nsatisfying clause to win . Then when it isP 1 ' s turn he must choose a literal in that clause chos

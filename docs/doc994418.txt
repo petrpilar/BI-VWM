@@ -1,0 +1,10 @@
+ standard . In addition to the standards development organizations mentioned above , four industry a
+ssociations / vendor alliance programs are playing key roles in the development of the communication
+s server ecosystem.Industry associations SCOPE AllianceSCOPE Alliance is an industry alliance commit
+ted to accelerating the deployment of carrier grade base platforms for service provider applications
+ . Its mission is to help , enable and promote the availability of open carrier grade base platforms
+ based on Commercial-Off-The-Shelf hardware / software and Free Open Source Software building blocks
+ , and to promote interoperability to better serve Service Providers and consumers . The Communicati
+ons Platforms Trade Association ( CP-TA ) is an association of communications platforms and building
+ block providers dedicated to accelerating the adoption of SIG-governed , open specification-based c
+ommunications platforms through interoperability certification . With industry collaboration , the C

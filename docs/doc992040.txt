@@ -1,0 +1,10 @@
+ fly their taxi to that platform , whereupon the customer will enter the taxi , saying which platfor
+m he wants to go to . When the player takes him to that platform , he will pay the taxi fee and tip 
+based upon how fast the trip takes and the smoothness of the landing . After each numbered platform 
+has been successfully visited , the next customer will say Up please , whereupon the gate at the top
+ of the level will open . Flying through the gate completes the level . One must also be careful not
+ to land on or hit the customer with the taxi , not only because he will angrily yell HEY ! and then
+ disappear , before appearing somewhere else on the platform , is increasingly difficult on smaller 
+platforms where the platform will barely fit the customer and the taxi . Each level features a diffe
+rent setting or theme ( such as a treat-strewn candyland or a snowy winter landscape ) , and most ha
+ve some special feature to hinder the player 's job . Some of the features include a table tennis ba

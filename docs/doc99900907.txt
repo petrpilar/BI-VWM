@@ -1,0 +1,10 @@
+testing , significance test ) . Like formal statistical inference , the purpose of informal inferent
+ial reasoning is to draw conclusions about a wider universe ( population/process ) from data ( sampl
+e ) . However , it is to be contrasted with formal statistical inference that formal statistical pro
+cedure or methods are not necessarily used . In statistics education literature , the term informal 
+is used to distinguish informal inferential reasoning from a formal method of statistical inference 
+.Informal Inferential Reasoning and Statistical InferenceSince everyday life involves making decisio
+ns based on data , making inferences is an important skill to have . However , a number of studies o
+n assessments of students understanding statistical inference suggest that students have difficultie
+s in reasoning about inference.Garfield , J.B. , &amp Ben-Zvi , inference . In Developing students s
+tatistical reasoning : connecting research and teaching ( pp.261-288 ) . New York , NY : Springer . 

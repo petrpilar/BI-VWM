@@ -1,0 +1,10 @@
+rdon , designed by William Hardy Wilson 33127249TOOLONG Memorial , Newington College , Stanmore , de
+signed by William Hardy Wilson Reference Model of Open Distributed Processing ( RM-ODP ) is a refere
+nce model in computer science , which provides a co-ordinating framework for the standardization of 
+open distributed processing ( ODP ) . It supports distribution , interworking , platform and technol
+ogy independence , and portability , together with an enterprise architecture framework for the spec
+ification of ODP systems . RM-ODP , also namedITU-T Rec . X.901-X.904andISO/IEC 10746, is a joint ef
+fort by the International Organization for Standardization ( ISO ) , the International Electrotechni
+cal Commission ( IEC ) and the Telecommunication Standardization Sector ( ITU-T ) .OverviewThe RM-OD
+P is a reference model based on precise concepts derived from current distributed processing develop
+ments and , as far as possible , on the use of formal description techniques for specification of th

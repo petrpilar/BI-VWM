@@ -1,0 +1,10 @@
+ Winner ( United States U-20 ) Tivoli Provisioning Manager ( TPM ) is a product in IBMs Tivoli Softw
+are brand . Its purpose is to automate the provisioning of virtual servers and software . TPM is a m
+anager of managers , in that it does not manage any hardware itself , but issues commands to the hyp
+ervisors that do actually manage the hardware . TPM can orchestrate the various tasks , and provide 
+a common interface for different platforms , notably Intel-based managed by VMware to host MS-Window
+s and Linux virtual servers and IBM 's own AIX servers running on pSeries.HistoryTPM originated with
+ Think Dynamics which IBM acquired in 2003 . Their Think Control product was good in provisioning an
+d managing ( virtual ) servers in data centers . IBM added their OPAL Integrated Service Management 
+Library , and marketed their new product as Tivoli Information Orchestrator - hence the appearance o
+f the letters tio in many product files of TPM . While TIO appears to not have been a huge success ,

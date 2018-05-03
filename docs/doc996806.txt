@@ -1,0 +1,10 @@
+lspacing=0 width=100% ! rowspan=2 width=6%Pool ! rowspan=2 width=25%Home ! rowspan=2 width=10%Score 
+! rowspan=2 width=25%Away ! colspan=2Match Information ! width=20%Date and Time ! width=14%VenueRoun
+d twoWith the teams split into their respective cup pools play in Round One , with the top four team
+s moving on to the semifinals of their respective groups .Lochore Cup Poolclass= infobox bordered No
+rth Otago ranked ahead of King Country and East Coast ranked ahead of Thames Valley based on head-to
+-head results . Meads Cup PoolMid Canterbury ranked ahead of Wanganui based on head-to-head results 
+. Fixtures Round 6border=1 style= border-collapse:collapse font-size:90% text-align:center cellpaddi
+ng=3 cellspacing=0 width=100% ! rowspan=2 width=6%Pool ! rowspan=2 width=25%Home ! rowspan=2 width=1
+0%Score ! rowspan=2 width=25%Away ! colspan=2Match Information ! width=20%Date and Time ! width=14%V
+enueRound 7border=1 style= border-collapse:collapse font-size:90% text-align:center cellpadding=3 ce

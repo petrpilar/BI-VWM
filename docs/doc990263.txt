@@ -1,0 +1,10 @@
+great . Adding a lighter gas will only reduce the efficiency of the heavier one .Light productionAs 
+the current pulse travels through the tube , it ionizes the atoms , causing them to jump to higher e
+nergy levels . Three types of particles are found within the arc plasma , consisting of electrons , 
+positively ionized atoms , and neutral atoms . At any given time , the ionized produce all of the em
+itted light . As they recombine with their lost electrons they immediately drop back to a lower ener
+gy state , releasing photons in the process . The methods of transferring energy occur in three sepa
+rate ways , called bound-bound , free-bound , and free-free transitions . Within the plasma , positi
+ve ions move toward the cathode while electrons and neutral atoms move toward the anode . Bound-boun
+d transitions occur when the ions and neutral atoms collide , transferring an electron from the atom
+ to the ion . This method predominates at low current densities , and is responsible for producing t

@@ -1,0 +1,10 @@
+ation . Xenon has many spectral lines in the UV , blue , green , red , and IR portions of the spectr
+um . Low current densities produce a greenish-blue flash , indicating the absence of significant yel
+low or orange lines . At be directed into the invisible IR spectral lines around 820 , 900 , and 100
+0 nm . Low current densities for flashtubes are generally less than 1000 A/cm 2 . Higher current den
+sities begin to produce continuum emission . Spectral lines are less dominant as light is produced a
+cross the spectrum , usually peaking , or centered , on a certain wavelength . Optimum output effici
+ency in the visual range is obtained at a density that favors greybody radiation ( an arc that produ
+ces mostly continuum emission , but is still mostly transparent to its own light ) . For xenon , gre
+ybody radiation is centered near green , and produces the right combination for white light . Greybo
+dy radiation is produced at densities above 2400 A/cm 2 . Current densities that are very high , app

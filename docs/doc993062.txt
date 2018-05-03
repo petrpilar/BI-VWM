@@ -1,0 +1,10 @@
+us spooling of both turbos means that there can still be a noticeable bit of lag , especially in hig
+h-flow turbo/high boost applications . Some ways to counter this are to use a light pressure set up 
+with smaller turbos , where the turbos are designed to output less boost but spool earlier . While t
+his setup sacrifices some top end power , it still has less lag than a similar engine with a single 
+turbo set up making the same power . Another system would be the use of the guide vanes depending on
+ the exhaust pressure , giving the system excellent power throughout the rev range . Once used mainl
+y in turbocharged diesel engines , Chrysler was the first to use it in mass-production gasoline-powe
+red vehicles with the Shelby CSX , debuted in 1989 . It is possible to use parallel operation with m
+ore than two turbochargers . Two such examples are the Bugatti EB110 and Bugatti Veyron , both of wh
+ich run four turbochargers in parallel . The EB110 runs 4 turbos on a 3.5 litre V12 engine , produci

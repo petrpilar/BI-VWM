@@ -1,0 +1,10 @@
+was a commercial success grossing $5 million at the box office . The film was shot in Chennai , Indi
+a and Race Course area of Coimbatore , India The film was later dubbed into Telugu asGayam. Heat of 
+formation group additivity methods in thermochemistry enable the calculation and prediction of heat 
+of formation of organic compounds based on additivity . This method was pioneered by S. W. Benson .B
+enson modelStarting with simple linear and branched alkanes and alkenes the method works by collecti
+ng a large number of experimental heat of formation data ( see : Heat of Formation table ) and then 
+divide each molecule up into distinct groups each consisting of a central atom with multiple ligands
+ : : X-(A)i(B)j(C)k(D)l To each group is then assigned an empirical incremental value which is indep
+endent on its position inside the molecule and independent of the nature of its neighbors : P primar
+y C-(C) ( H ) 3 -10.00 S secondary C-(C)2(H)2 -5.00 T tertiary C-(C)3(H) -2.40 Q quaternary C-(C)4 -

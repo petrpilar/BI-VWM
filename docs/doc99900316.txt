@@ -1,0 +1,10 @@
+ctionTwo-dimensional aerodynamic data obtained at RN of 3.0 , 6.0 and 9.0 million are now generally 
+available for a large number of systematically derived NACA airfoil sections . This range of RN is s
+ufficient to satisfy engineering needs for many practical applications , but the recent trends towar
+d both very large and very high-speed aircraft have emphasized the necessity for aerodynamic data at
+ higher values . An investigation has accordingly been made of the aerodynamic characteristics of a 
+number of systematically varied NACA 6-series airfoils at RN of 15.0 , 20.0 and 25.0 million . The r
+esults of this investigation at high RN together with those for the same airfoils at lower RN are pr
+esented in Report No. 964 . The NACA 63 series was chosen as the basic group for investigation becau
+se these airfoils appear to offer good low-speed characteristics with a minimum of compromise from c
+onsideration of the high-speed characteristics . In all cases , only lift and drag were measured .Ap

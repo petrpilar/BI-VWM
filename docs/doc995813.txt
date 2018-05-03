@@ -1,0 +1,10 @@
+ng the server the access of an anonymous/unidentified user ,identification, letting the server inspe
+ct the client 's identity but not use that identity to access objects ,impersonation, letting the se
+rver act on behalf of the client , anddelegation, same as impersonation but extended to remote syste
+ms to which the server connects ( through the preservation of credentials ) . The client can choose 
+the maximum impersonation level ( if any ) available to the server as ( impersonation initially was 
+not , but historical carelessness in the implementation of client APIs failing to restrict the defau
+lt level to identification , letting an unprivileged server impersonate an unwilling privileged clie
+nt , called for it ) . Impersonation tokens can only be associated to threads , and they represent a
+clientprocess 's security subject . Impersonation tokens are usually created and associated to the c
+urrent thread implicitly , by IPC mechanisms such as DCE RPC , DDE and named pipes .Contents of a to

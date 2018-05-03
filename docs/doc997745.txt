@@ -1,0 +1,10 @@
+g in each pair of divots . When the rings are rotated relative to each other , the balls roll up the
+ ramp faces of the conical divots , pushing apart the two rings .Self EnergizingThe Ausco-Lambert br
+ake is self-energizing . It holds one ring rigidly and lets the other rotate freely , without a stop
+ . The rotation direction is arranged so the direction of free rotation is the same as the hollow br
+ake disc . Thus , the disc tends to pull the ring in the direction that further applies the brake . 
+A shallower brakes are more subject to brake fade , but it appears part of the Ausco Lambert design 
+is to reduce the exponential gain of drum and band brakes , and thus reduce grabbiness and hot fade 
+.Self ReleaseWhen the disc rotates the opposite direction of ring rotation , the brake tends to self
+-release . This is common also for drum brakes and is acceptable for uses where hard braking is in o
+ne direction .ReferencesEdmund Lewandowski ( 19141998 ) was an American Precisionist artist who was 

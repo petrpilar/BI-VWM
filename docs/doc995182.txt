@@ -1,0 +1,10 @@
+cumbing to such attacks . The ADN generally employs a number of protections against typical network 
+layer attacks though it does not implement the full security offered by an IPS . Some of the Network
+ Layer Security technologies that may be employed by ADN devices include :Delayed bindingDelayed bin
+ding , also called TCP splicing , is the postponement of the connection between the client and the s
+erver in order to obtain sufficient information to make a routing decision . Some application switch
+es and routers delay binding the client session to the server until the proper handshakes are comple
+te so as to prevent Denial of Service attacks .IP filteringADNs often have the ability to filter tra
+ffic based on Access Control Lists ( ACLs ) , Bogus IP ranges ( Bogon filtering ) and deep packet in
+spection pattern matching . In some cases , thresholds or rate limiting of IP addresses or ranges of
+ IP addresses may be employed .Traffic managementADNs are increasingly adding advanced some of these

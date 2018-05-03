@@ -1,0 +1,10 @@
+more strongly exothermic at 0 H r = 149.6 kJ/mol H 2 O 2 Titrations with thiosulfateIn the determina
+tion of hypochlorite ( for example in commercial bleach formulations ) , a direct titration with thi
+osulfate can be employed without recourse to an iodometric finish . : ClO  + H 2 O + 2e  &ampharr Cl
+ 2 O 3  2 &ampharr S 4 O 6  2 + 2e  : 2S 2 O 3  2 +ClO  +H 2 O &ampharr S 4 O 6  2 +Cl  +2OH  Thermo
+metric iodometric titrations employing thiosulfate as a titrant are also practical , for example in 
+the determination of Cu(II) . In this instance , it has been found advantageous to incorporate the p
+otassium iodide reagent with the thiosulfate titrant in such proportions that iodine is released int
+o solution just prior to its reduction by thiosulfate . This minimizes iodine losses during the cour
+se of the titration.Titrations with hypochloriteWhile relatively unstable and requiring frequent sta
+ndardization , sodium hypochlorite has been used in a very rapid thermometric titration method for t

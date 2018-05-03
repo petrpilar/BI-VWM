@@ -1,0 +1,10 @@
+ Identification Authority of India numbers Natural Product Reports, a British peer-reviewed scientif
+ic journal published by the Royal Society of Chemistry non-photorealistic rendering , a 27122781TOOL
+ONG technique that does not aim toward photorealism n P r , a function for computing permutations in
+ some calculators NPR , the ISO 4217 code for the Nepalese rupee ERC is an Internet Relay Chat ( IRC
+ ) client integrated into GNU Emacs . It is written in Emacs Lisp.FeaturesERC includes message times
+tamping , automatic channel joining , flood control , and auto-completion of nicks and commands . ER
+C can highlight nicks and text for conversation tracking , highlight and optionally remove control c
+haracters , and allows URLs , nicknames and text to be converted to buttons . It provides input hist
+ory , and separate buffers per server and channel . Notifications include channel activity on the EM
+acs mode-line , user online status , and channel tracking of hidden conversations . ERC is multi-lin

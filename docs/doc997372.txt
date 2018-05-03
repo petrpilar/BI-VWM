@@ -1,0 +1,10 @@
+because of the anti-slavery cause , favored non-union with the American South . He , along with Mari
+a Weston Chapman and William Lloyd Garrison , published theNon-Resistant( 18391840 ) , which lasted 
+only two years but was indicative of the millennial character of parts of the reform movement . He d
+ied in Dedham , MA on May 17 , 1877.Notes In geometry , equipollence is a certain relationship betwe
+en ordered pairs of points . A pair (a,b) of points and another pair (c,d) are equipollent precisely
+ if the distance and direction fromatobare respectively the same as the distance and direction fromc
+tod.In affine spaces over a fieldLetKbe a field ( which may be the field R of real numbers ) . An af
+fine spaceEassociated with aK-vector spaceVis a set provided with a mapping :E&amptimes E V (a,b)) (
+ the vector (a b) will be denoted scriptstylevecab ) such that : 1 ) for all a in E and all vecv in 
+V there exist a single b in E such that overrightarrowab = vecv 2 ) for all a , b , c in E , overrig

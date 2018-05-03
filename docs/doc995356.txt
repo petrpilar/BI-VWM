@@ -1,0 +1,10 @@
+ohexane , an important class of cyclic organic compounds whose reactivity is strongly guided by conf
+ormational effects . The A-value is the difference in the Gibbs ' free energy between the axial and 
+equatorial forms of substituted cyclohexane , and by adding together the A-values of various substit
+uents it is possible to quantitatively predict the preferred conformation of a cyclohexane derivativ
+e . In addition to molecular stability , conformational analysis is used to predict reaction product
+s analysis is a bi-molecular elimination reaction ( E2 ) . This reaction proceeds most readily when 
+the nucleophile attacks the species that is antiperiplanar to the leaving group . A molecular orbita
+l analysis of this phenomenon suggest that this conformation provides the best overlap between the e
+lectrons in the R-H bonding orbital that is undergoing nucleophilic attack and the empty antibonding
+ orbital of the R-X bond that is being broken . By exploiting this effect , conformational analysis 

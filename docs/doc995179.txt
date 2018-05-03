@@ -1,0 +1,10 @@
+beat daemon on the secondary device verifies that the primary device is active . In the event that t
+he heartbeat is lost , the secondary device assumes the shared VIP and begins servicing requests . T
+his process is not immediate , and though most ADN replicate sessions from the primary to the second
+ary , there is no way to guarantee that sessions initiated during the time it takes for the secondar
+y to assume the VIP and begin managing traffic will be maintained .Serial based failoverIn a serial 
+connection based failover configuration two ADN devices communicate via a standard RS232 connection 
+instead of the network , and all sharing of session information and status is exchanged over this co
+nnection the same constraints regarding sessions initiated while the primary device is failing as ne
+twork based failover.ADN security Transport layer securityAlthough often erroneously assigned to the
+ application layer , Transport Layer SecurityApplication layer security Resource cloakingThe use of 

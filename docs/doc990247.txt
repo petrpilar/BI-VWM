@@ -1,0 +1,10 @@
+erage power . At high levels of average power , care has to be taken to achieve sufficient cooling o
+f the electrodes . While anode temperature is of lower importance , overheating the cathode can grea
+tly reduce the lamp 's life expectancy .Gases and fill pressureDepending on the size , type , and ap
+plication of the flashtube , gas fill pressures may range from a few kilopascals to hundreds of kilo
+pascals ( 0.014.0 atmospheres or tens to thousands of torr ) . Generally , the higher the pressure ,
+ the greater the output efficiency . Xenon is used mostly because of its good efficiency , convertin
+g nearly 50% of electrical energy into light . Krypton , on the other hand , is only about 40% effic
+ient , but at low currents is a better match to the absorption is the amount of gas behind the elect
+rodes , or the dead volume . A higher dead volume leads to a lower pressure increase during operatio
+n .OperationThe electrodes of the lamp are usually connected to a capacitor , which is charged to a 

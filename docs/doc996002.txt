@@ -1,0 +1,10 @@
+cation creates a fusion gene consisting of nucleophosmin ( NPM ) gene : the 3 ' half of ALK , derive
+d from chromosome 2 and coding for the catalytic domain , is fused to the 5 ' portion of NPM from ch
+romosome 5 . The product of the NPM-ALK fusion gene is oncogenic . In a smaller fraction of ALCL pat
+ients , the 3 ' half of ALK is fused to the 5 ' sequence of TPM3 gene , encoding for tropomyosin 3 .
+ In rare cases , ALK is fused to other 5 ' fusion partners , such as TFG , ATIC , CLTC1 , TPM4 , MSN
+ , ALO17 , MYH9.Adenocarcinoma of the lungThe EML4-ALK fusion gene is responsible for approximately 
+3-5% of non-small-cell lung cancer(NSCLC) . The vast majority of cases are adenocarcinomas . The sta
+ndard test used to detect this gene in tumor samples is fluorescence in situ hybridization ( FISH ) 
+by a US FDA approved kit . Recently Roche Ventana has got the approval of Chinese FDA and European F
+DA to test mutation by IHC . Other techniques like reverse-transcriptase PCR ( RT-PCR ) can also be 

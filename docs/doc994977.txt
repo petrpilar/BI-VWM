@@ -1,0 +1,10 @@
+kground is a scheduling algorithm that is used to control execution of multiple processes on a singl
+e processor . It is based on two waiting lists , the first one is called foreground because this is 
+the one in which all processes initially enter , and the second one is called background because all
+ processes , after using all of their execution time in foreground , are moved to background . When 
+a process becomes ready it begins its execution in foreground immediately , forcing the processor to
+ give up execution of current process in the background and execute newly created process for a pred
+efined period . This period is usually 2 or more quanta . If the process is not finished after its e
+xecution in the foreground it is moved to background waiting list where it will be executed only whe
+n the foreground list is empty . After being moved to background , process is then run longer than b
+efore , usually 4 quanta . The time of execution is increased because the process obviously needs mo

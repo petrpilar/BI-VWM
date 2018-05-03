@@ -1,0 +1,10 @@
+t design . The first design to be produced in their newly set-up MOS fab in Worcester , was the MK10
+01 , a simple shifter chip . This was followed by a 1k PMOS aluminum-gate DRAM , the MK4006 that was
+ manufactured in their Carrollton facility . Mostek had been working with Sprague Electric to develo
+p the ion implantation process which provided a tremendous gain in the control of doping profiles . 
+Using ion implantation , Mostek became an early leader in MOS manufacturing technology , while their
+ competition was still mostly using the older bipolar technology . The resulting increased speed and
+ lower cost of the MK4006 memory chip made it the runaway favorite to IBM and other mainframe and mi
+nicomputer manufacturers ( cf. BUNCH , Digital Equipment Corporation ) . In 1970 Busicom , a Japanes
+e adding machine manufacturer , approached Intel and Mostek with a proposal to introduce a new elect
+ronic calculator line . Intel responded first , providing them with the Intel 4004 , which they used

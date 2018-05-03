@@ -1,0 +1,10 @@
+ game , a directed graph can be constructed whose nodes are each cities of the world . An arrow is a
+dded from nodeN 1 to nodeN 2 if and only if the city labelingN 2 starts with the letter that ending 
+the name of the city labeling nodeN 1 . In other words , we draw an arrow from one city to another i
+f the rules . Each alternate edge in the directed graph corresponds to each player ( for a two playe
+r game ) . The first player unable to extend the path loses . An illustration of the game ( containi
+ng some cities in Michigan ) is shown in the figure below . : In a generalized geography ( GG ) game
+ , we replace the graph of city names with an arbitrary directed graph . The following graph is an e
+xample of a generalized geography game . :Playing the gameWe defineP 1 as the player moving first an
+dP 2 as the player moving second and name the nodesN 1 toNn . In the above figure ,P 1 has a winning
+ strategy as follows :N 1 points only to nodesN 2 andN 1 ' s first move must be one of these two cho

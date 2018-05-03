@@ -1,0 +1,10 @@
+d . Doping with titanium dioxide can provide different cutoff wavelengths on the ultraviolet side , 
+but the material suffers from solarization it is often used in medical and sun-ray lamps and some no
+n-laser lamps . A better alternative is a cerium-doped quartz it does not suffer from solarization a
+nd has higher efficiency , as part of the absorbed ultraviolet is reradiated as visible via fluoresc
+ence . Its cutoff is at about 380 nm . Conversely , when ultraviolet is called for , a synthetic qua
+rtz is used as the envelope it is the most expensive of the materials , but it is not susceptible to
+ solarization and its cutoff is at 160 nm . The power level of the lamps is rated in watts/area . Co
+oling of the electrodes and the lamp envelope is of high importance at high power levels . Air cooli
+ng is sufficient for lower average power levels . High power lamps are cooled with a liquid , typica
+lly by flowing demineralized water through a tube in which the lamp is encased . Water-cooled lamps 

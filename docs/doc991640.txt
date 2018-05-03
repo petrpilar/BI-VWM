@@ -1,0 +1,10 @@
+ScaleMajor = increment:2 start:1997 LineData = at:01/01/1999 color:black layer:back at:01/01/2001 co
+lor:black layer:back at:01/07/2003 color:black layer:back at:06/28/2005 color:black layer:back at:08
+/07/2007 color:black layer:back at:11/10/2009 color:black layer:back at:01/21/2014 color:black layer
+:back BarData = bar:Keith text : Keith Barney bar:Dave text : Dave Peters bar:Javier text : Javier V
+an Huss bar:Dom text : Dom Macaluso bar:Tommy text : Tommy Love bar:Brandan text : Brandan Schieppat
+i bar:Choiniere text : Mark Choiniere bar:Marc text : Marc Jackson bar:Ben text : Ben Dussault bar:J
+arrod text : Jarrod Alexander PlotData= width:10 textcolor:black align:left anchor:from shift : ( 10
+ , -4 ) bar:Keith from:01/01/1997 till:01/01/2002 color:vocals bar:Keith from:01/01/2002 till:01/01/
+2004 color:guitar bar:Dave from:01/01/2000 till:01/01/2002 color:guitar bar:Dave from:01/01/2002 til
+l:12/31/2014 color:vocals bar:Javier from:01/01/1997 till:01/01/1998 color:bass bar:Dom from:01/01/1

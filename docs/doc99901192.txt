@@ -1,0 +1,10 @@
+yle= font-size:90% ! rowspan= 2 Athlete ! rowspan= 2 Event ! colspan= 2 Ranking round ! Round of 32 
+! Round of 16 ! Quarterfinals ! Semifinals ! Final / ! rowspan=2Rank ! Score ! Seed ! Opposition 655
+631br Score ! Opposition 655639br Score ! Opposition 655647br Score ! Opposition 655655br Score ! Op
+position 655663br Score Team class= wikitable style= font-size:90% ! rowspan= 2 Athletes ! rowspan= 
+2 Event ! colspan= 2 Ranking round ! Round of 32 ! Round of 16 ! Quarterfinals ! Semifinals ! Final 
+/ ! rowspan=2Rank ! Score ! Seed ! Opposition 655671br Score ! Opposition 655679br Score ! Oppositio
+n 655687br Score ! Opposition 655695br Score ! Opposition 655703br ScoreAthleticsSouth Korea qualifi
+ed eight athletes . Qualification Legend : Q =Final A ( medal ) qB =Final B ( non-medal =Final D ( n
+on-medal ) qE =Final E ( non-medal )  Boys Track &amp road events class= wikitable style= font-size:
+90% ! rowspan=2Athlete ! rowspan=2Event ! colspan=2Heats ! colspan=2Final ! Result ! Rank ! Result !

@@ -1,0 +1,10 @@
+ . At one point , for example , he had tunnel and underwater levels working , but was unable to comp
+lete them due to time constraints . Tunnels and islands , in fact , were key elements of his origina
+l vision for the game , but had . Gorlin and his team created the largest version of each sprite by 
+hand and then used proprietary tools to create the about twenty smaller versions of the sprite . Sto
+ring these sprites in RAM , they were able to simulate scaling in realtime . Though the sprites used
+ a lot of memory , it was the only method that satisfied Gorlin since he hated the low-polygon look 
+of other contemporary games .GameplayThe nameAirheartis the title the player aspires to earn . The u
+ser controls a jet-propelled flotation device . They must navigate their craft and fight robotic def
+enders . Spirit guardians instruct the player to collect certain items , such as a sword or a goblet
+ . Gathering the items is a precursor to a final battle to free an infant boy prince .Legacy Airhear

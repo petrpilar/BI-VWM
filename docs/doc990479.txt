@@ -1,0 +1,10 @@
+tamathbfrj. where r j ,j=1 , ... , mdenote the virtual displacements of each point in the body . Now
+ assume that each r j depends on the generalized coordinatesq i ,i=1 , ... , n, then : delta mathbfr
+j = fracpartial mathbfrjpartial q1 deltaq1 + ldots + fracpartial mathbfrjpartial qn deltaqn , and : 
+delta W = left ( sumj=1m mathbfFjcdot fracpartial mathbfrjpartial q1right ) deltaq1 + ldots + left (
+nterms : Fi = sumj=1m mathbfFjcdot fracpartial mathbfrjpartial qi , quad i=1 , ldots , n , are the g
+eneralized forces acting on the system . Kane shows that these generalized forces can also be formul
+ated in terms of the ratio of time derivatives , : Fi = sumj=1m mathbfFjcdot fracpartial mathbfvjpar
+tial dotqi , quad i=1 , ldots , n , where v j is the velocity of the point of application of the for
+ce F j . In order for the virtual work to be zero for an arbitrary virtual displacement , each of th
+e generalized forces must be zero , that is : delta W = 0 quad Rightarrow quad Fi =0 , i=1 , ldots ,

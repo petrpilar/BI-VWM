@@ -1,0 +1,10 @@
+e architecture . Many RM-ODP concepts , possibly under different names , have been around for a long
+ time and have been rigorously described and explained in exact philosophy ( for example , in the wo
+rks of Mario Bunge ) and in Friedrich Hayek ) . Some of these conceptssuch as abstraction , composit
+ion , and emergencehave recently been provided with a solid mathematical foundation in category theo
+ry . RM-ODP has four fundamental elements : an object modelling approach to system specification the
+ specification of a system in terms of separate but interrelated viewpoint specifications the defini
+tion of a system infrastructure providing distribution transparencies for system applications and a 
+framework for assessing system conformance . The RM-ODP family of recommendations and international 
+standards defines a system of interrelated essential concepts necessary to specify open distributed 
+processing systems and provides a well-developed enterprise architecture framework for structuring t

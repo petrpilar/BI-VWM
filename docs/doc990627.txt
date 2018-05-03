@@ -1,0 +1,10 @@
+ed Kingdom . It was launched in October 2007 and gives each programme an eight digit alphanumeric id
+entifier which is used to provide a permanent URL . It currently only holds data from the launch dat
+e plus a selection of high-profile programmes ( notably Natural History programmes and Radio 4 progr
+ammes ) , but Jana Bennett , Director of BBC Vision , said in June 2008 that the BBC will eventually
+ add a page for each programme it has broadcast over its history to the service . BBC Programmes is 
+available as HTML and RDF/XML and JSON . The BBC Programme Catalogue is an internal archive of the B
+BC back catalogue which was briefly available online to the public in beta .Knowledge and LearningTh
+e BBC also subjects to expand the knowledge of the reader . These are mainly centred around the topi
+cs of Science , Nature , Arts and Culture , Religion and Ethics , Food and History . Each of these s
+ub sites feature new articles published on the topic and contain other collections relating to the t

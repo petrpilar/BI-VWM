@@ -1,0 +1,10 @@
+person is charged to high voltages a spark can jump , delivering the high capacitor current without 
+actually touching anything . Flashtubes operate at high pressures and are known to explode , produci
+ng violent shockwaves . The explosion energy of a in just a few flashes ) is well defined , and to a
+void catastrophic failure , it is recommended that no more than 30% of the explosion energy be used 
+. Flashtubes should be shielded behind glass or in a reflector cavity . If not , eye and ear protect
+ion should be worn . Flashtubes produce very intense flashes , often faster than the eye can registe
+r , and may not appear as bright as they are . Quartz glass will transmit nearly all of the long and
+ short wave UV , including the germicidal wavelengths , and can be a serious hazard to eyes and skin
+ . This ultraviolet radiation can also produce large amounts of ozone , which can be harmful to peop
+le , animals , and equipment . Many compact cameras charge the flash capacitor immediately after pow

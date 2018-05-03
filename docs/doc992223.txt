@@ -1,0 +1,10 @@
+etric aspects of the PPR methodThe psychometric aspects of the PPR method was refined a procedure pr
+oposed by A. Kluger , Nir , &amp Y. Kluger . The authors analyze clients ' Personal Position Reperto
+ires by creating a bi-plot of the factors underlying their internal and external positions . A bi-pl
+ot provides a clear and comprehensible visual map of the relations between all the meaningful intern
+al and external positions within the self in such a way that both types of positions are simultaneou
+sly visible . Through this procedure clusters of internal and external positions and dominant patter
+ns can be easily observed and analyzed . The method allows researchers or practitioners to study the
+ general deep structures of the self . There , however , is to perform a standard principal componen
+t analysis ( PCA ) . To obtain a bi-plot , a PCA is once performed on the external positions and onc
+e on the internal positions , with the number of components in both PCAs restricted to two . Next , 

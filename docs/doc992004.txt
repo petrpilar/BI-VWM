@@ -1,0 +1,10 @@
+as the seat of the Compagnie des chemins de fer des Charentes in 1867 , then as the regional seat of
+ the VIIIth arrondissement of the Chemins de fer de l ' tat from 1911 to 1971 . The SNCF is still a 
+major employer in the city , and new depots and workshops have been opened in 2009 and 2010.Populati
+on From 1793 to 2007 648br Colors= id:lightgrey value:gray(0.9) id:darkgrey value:gray(0.7) id:sfond
+o value:rgb(1,1,1) id:barra value:rgb(0.7,0.9,0.7) ImageSize = width:800 height:350 PlotArea = left:
+50 bottom:30 top:30 right:50 DateFormat = x.y Period =from:0 till:30000 TimeAxis = orientation:verti
+cal AlignBars = justify ScaleMajor = gridcolor:darkgrey increment:5000 start:0 ScaleMinor = gridcolo
+r:lightgrey increment:1000 start:0 BackgroundColors = canvas:sfondo BarData= bar:1791 bar:1792 bar:1
+793 bar:1794 bar:1795 bar:1796 bar:1797 bar:1798 bar:1799 bar:1800 text:1800 bar:1801 bar:1802 bar:1
+803 bar:1804 bar:1805 bar:1806 bar:1807 bar:1818 bar:1819 bar:1820 text:1820 bar:1821 bar:1822 bar:1

@@ -1,0 +1,10 @@
+o provide appropriate billing for subscribers , based on whether or not the subscriber and call reci
+pient subscribe to the same long-distance carrier . This data is called Primary interexchange carrie
+r indicator ( PIC ) . In a direct-dialed long distance call , a call-related data and message record
+ , named automatic message account ( AMA ) , was generated . It includes further information , such 
+as the originating and terminating telephone numbers , and the length of time of the call . The reco
+rds with AMAs are computers and reformatted for processing and billing , which later comes to custom
+er in form of hard copy via mails.Opinion of the Federal Circuit CourtIn their analysis , the Federa
+l Court first refers to the definition of patentable invention in the language of , and found that A
+T&ampT 's business method fell in the process category and the patent claims fell within the judicia
+lly created mathematical algorithm exception to statutory subject matter . In addition , because the

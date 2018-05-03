@@ -1,0 +1,10 @@
+rent engine variants , fuel capacities , and weights . The MD-88 and later build versions of the oth
+er models Dimensions : The basic long body MD-80 versions ( MD-81 , MD-82 , MD-83 , and MD-88 ) have
+ an overall length of 147ft10 in , and a fuselage length of 136ft5 in that is 4.62 m longer than the
+ DC-9-50 and 13.51 m longer than the initial DC-9 , the Series 10 . Wingspan was also increased by 4
+.4 m in comparison with earlier DC-9s at 107ft10.2 in . The aircraft 's passenger cabin , from cockp
+it door to aft bulkhead , is 101ft0 in long and , as with all versions of the DC-9 , has a maximum c
+abin width ( trim-to-trim ) of 123.7 in . Powerplant : The initial production version of the MD-80 w
+as the Pratt and Whitney JT8D-209 18500lbf kN thrust powered MD-81 . Later build MD-81s have been de
+livered with more powerful JT8D-217 and -219 engines . APU : All versions of the MD-80 are equipped 
+with an AlliedSignal ( Garrett ) GTCP85-98D APU as standard , which is located in the aft fuselage .

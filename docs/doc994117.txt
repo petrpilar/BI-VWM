@@ -1,0 +1,10 @@
+ specifications . Furthermore , we all have different interests in a given system and different reas
+ons for examining the system 's specifications . A business executive will ask different questions o
+f a system make-up than would a system implementer . The concept of RM-ODP viewpoints framework , th
+erefore , is to provide separate viewpoints into the specification of a given complex system . These
+ viewpoints each satisfy an audience with interest in a particular set of aspects of the system . As
+sociated with each viewpoint is a viewpoint language that optimizes the vocabulary and presentation 
+for the audience of that viewpoint . Viewpoint modeling has become an effective approach for dealing
+ with the inherent complexity of large distributed systems . Current software architectural practice
+s , into several areas of concerns , each one focusing on a specific aspect of the system . Examples
+ include the 4+1 view model , the Zachman Framework , TOGAF , DoDAF and , of course , RM-ODP . A vie

@@ -1,0 +1,10 @@
+( Lcostheta , Lsintheta ) deltatheta . Thus , the virtual work is given by : delta W = -mgdelta y = 
+-mgLsinthetadeltatheta . Notice that the coefficient of y is the y-component of the applied force . 
+In the same way , the coefficient of is known as the generalized force along generalized coordinate 
+, given by : Ftheta = -mgLsintheta. Kinetic energyTo complete the analysis consider the kinetic ener
+gy T of the mass , using the velocity , : mathbfv= ( dotx , doty ) = ( Lcostheta , Lsintheta ) dotth
+eta , so , ) = frac12 m L2dottheta2. Lagrange 's equationsLagrange 's equations for the pendulum in 
+terms of the coordinates x and y are given by , : fracddtfracpartial Tpartial dotx - fracpartial Tpa
+rtial x = Fx + lambda fracpartial fpartial x , quad fracddtfracpartial Tpartial doty - fracpartial T
+partial y = Fy + lambda fracpartial fpartial y . This yields the three equations : mddotx = lambda(2
+x) , quad mddoty = -mg + lambda(2y) , quad x2+y2 - L2=0 , in the three unknowns , x , y and . Using 

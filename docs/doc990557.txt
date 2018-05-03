@@ -1,0 +1,10 @@
+inal NetBlazer was a standard PC with a serial card connected to user supplied external modems by se
+rial cables . Later smaller versions , the PN and STi , were offered which consisted of a small-form
+-factor PC combined with custom software and one of a variety of modems or other connection systems 
+( ISDN , etc. ) combined into a large modem-like box . Administrators connected to it via Ethernet ,
+ which was also used for maintenance commands and setup . In its first release the NetBlazer softwar
+e supported TCP/IP using SLIP , but a later upgrade added Point-to-Point Protocol ( PPP ) and suppor
+t for IPX and AppleTalk . The protocol stack was a commercially licensed version of KA9Q . Later ver
+sions of the hardware switched from the Intel 80386 to a low-cost microcontroller version of the Mot
+orola 68030 , the MC68EN360.Increasing speedsTelebit had their initial public offering in April 1990
+ , which raised about $20.2 million . It traded on NASDAQ with the symbol TBIT . The first multi-com

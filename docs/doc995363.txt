@@ -1,0 +1,10 @@
+is analysis compares the effect of various substituents on the ionization of benzoic acid with their
+ impact on diverse chemical systems . The parameters of the Hammett plots are sigma ( ) and rho ( ) 
+. The value of indicates the acidity of substituted benzoic acid relative to the unsubstituted form 
+. A positive value indicates the compound is more acidic , while a negative value indicates that the
+ substituted version is less acidic . The value is a measure of the sensitivity of the reaction to t
+he change in substituent , but only measures inductive effects . Therefore , two new scales were pro
+duced One is + , which concerns substituents that stabilize positive charges via resonance , and the
+ other is - which is for groups that stabilize negative charges via resonance . Hammett analysis can
+ be used to help elucidate the possible mechanisms of a reaction . For example , if it is predicted 
+that the transition state structure has a build-up of negative charge relative to the ground state s

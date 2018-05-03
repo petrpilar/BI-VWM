@@ -1,0 +1,10 @@
+on-mLAN devices can not share the same Firewire connection , so it or other sound devices on the sam
+e Firewire bus when mLAN Manager software is running . The transport layers of mLAN have been standa
+rdized as IEC 61883.End of lifeBy 2005 , over 100 manufacturers were part of the mLAN Alliance howev
+er very few actual products have surfaced . As of early 2008 , mLAN appeared to have reached the end
+ of its product life . Third party developers have discontinued or retracted their mLAN products fro
+m the market , and Yamaha itself ceased any new releases of mLAN hardware or updates to the mLAN sof
+tware and drivers . Even though recent FireWire based products from Yamaha can interoperate with ear
+lier mLAN devices using a computer , any mention of mLAN is notably absent from new product announce
+ments and driver updates over the last few years .Supporting products Yamaha 01X digital mixing hub 
+Yamaha i88x audio/MIDI interface Yamaha mLAN16E/mLAN16E2 options for Yamaha Motif , Yamaha Motif ES 

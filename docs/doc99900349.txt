@@ -1,0 +1,10 @@
+-learning features like file uploads/downloads , videos on subjects and experiments , discussion man
+ager and search facilities . The base of these traditional e-learning system is from Learning Manage
+ment System(LMS).Learning by miningThe source of knowledge in the system is by using the DISCUSSION 
+MANAGER component . The discussion manager acts as a source of knowledge . The knowledge can be mine
+d and can be processed to create notes for a particular topic in a subject . An efficient data minin
+g algorithm is formulated to create the concept of Learning by mining . A lot of extensive research 
+work is being carried out in this part of Knowledge Based Community Sharing System .GroupsThe GROUPS
+ are the backbone to the Knowledge Based Community Sharing System . The entire user set is divided i
+nto a well defined subset . The subsets are students/researchers , Faculty , Industry experts and HR
+ managers . The group the creation , deletion and group migrations . Migration of one group to other

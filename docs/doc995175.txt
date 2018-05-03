@@ -1,0 +1,10 @@
+ms for improving the performance of TCP . Many ADN implement these RFCs in order to provide enhanced
+ delivery of applications commonly implemented are : Delayed Acknowledgements Nagle Algorithm Select
+ive Acknowledgements Explicit Congestion Notification ECN Limited and Fast Retransmits Adaptive Init
+ial Congestion WindowsData compression and cachingADNs also provide optimization of application data
+ through caching and compression techniques . There are two types of compression used by ADNs today 
+: industry standard HTTP compression and proprietary data reduction algorithms . It is important to 
+note that the cost in CPU cycles to compress data when traversing a LAN can result in a negative per
+formance impact and therefore best practices are to only utilize compression when delivering applica
+tions via a WAN or particularly congested high-speed data link . HTTP compression is asymmetric and 
+transparent to the client . Support for HTTP compression is built into web servers and web browsers 

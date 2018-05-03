@@ -1,0 +1,10 @@
+e commands were based on the Hayes command set , like dialing a number or hanging up a phone , their
+ proprietary capabilities were supported by proprietary commands and syntax . Most of these took the
+ form of register= valuepairs , leading to extremely long and almost undecipherable setup strings . 
+In 1988 Telebit added the T1000 , essentially a TrailBlazer limited to a lower-speed 9600 bit/s vers
+ion of PEP , remaining compatible at that speed with existing TrailBlazers . The T2000 added support
+ for synchronous communications , typically used between mainframe computers . The original TrailBla
+zer , T1000 and T2000 were backwards-compatible with the 2400 bit/s V.22bis standard , allowing them
+ to connect with what was then the most common modem speed when talking to other brands of modems.Ne
+tBlazerAnother Telebit product was the first on-demand Internet dialup router , the NetBlazer . The 
+product was developed by a team led by Mike Ballard , formerly of , and president in 1992 . The orig

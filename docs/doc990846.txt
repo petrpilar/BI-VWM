@@ -1,0 +1,10 @@
+e for number and gender . cellPadding=7 cellSpacing=0 border=1 ! BGCOLOR= DBDBDB DEMONSTRATIVES ! BG
+COLOR= DBDBDB Proximal ! BGCOLOR= DBDBDB Medial ! BGCOLOR= DBDBDB Distal ! BGCOLOR= DBDBDB Masculine
+ singularesteeseaquel ! BGCOLOR= DBDBDB Masculine pluralestosesosaquellos ! BGCOLOR= DBDBDB Feminine
+ singularestaesaaquella ! BGCOLOR= DBDBDB Feminine pluralestasesasaquellas ! BGCOLOR= DBDBDB Neuter 
+singularestoesoaquello NOTE : When standing before the noun they qualify i.e. , when used as adjecti
+ves demonstratives never take an accent : esta casa( this house ), esos das( those days ). But demon
+stratives may also stand on their own , instead of the noun they refer to i.e. as demonstrative pron
+ouns . In that case , they usually carry a written accent : Quiero ste( I want this one ). Neuter de
+monstratives have the meaning of this ( or that ) thing , concept or idea : Eso est bien( That is ok
+ay ). In certain cases , neuter demonstratives can ' ( Take that out of there ). Neuter demonstrativ

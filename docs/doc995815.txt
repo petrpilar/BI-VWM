@@ -1,0 +1,10 @@
+ additional set of groups does n't grant additional access , but further restricts it : access to an
+ object is only allowed if it 's allowedalsoto one of these groups . Restricting groups can not be d
+eleted nor disabled . Restricting groups are a recent addition , and they are used in the implementa
+tion of sandboxes. the privileges , i.e. special capabilities the user has . Most privileges are dis
+abled by default , to prevent damage from non-security-conscious programs . Starting in Windows XP S
+ervice Pack 2 and Windows Server 2003 privileges can be permanently with the SEPRIVILEGEREMOVED attr
+ibute . the default owner , primary group and ACL for objects created by the subject associated to t
+he token . The Japan women 's national field hockey team represents Japan in the international field
+ hockey competitions . The team was ranked 9th in the world on Nov 1 , 2011.Results Olympic Games 19
+80did not compete1984did not compete1988did not compete1992did not qualify1996did not compete2000did

@@ -1,0 +1,10 @@
+ssively priced the V.32bis product line , allowing modems based on them to sell at price points arou
+nd $300 , the point formerly held by 2400 bit/s models capabilities . All of the 1st tier companies 
+had serious difficulties adapting to a market that was now filled with low-cost modems with similar 
+or better performance and features than their own high-end models . Telebit started slipping in term
+s of relative performance , while still trying to sell their products at their traditional high pric
+e points . They finally introduced the T3000 with V.32bis but without PEP , though a PEP upgrade was
+ planned . Instead , Telebit re-released it in early 1994 as the $1,099 WorldBlazer model essentiall
+y a T3000 with the new 23,000 bit/s TurboPEP mode . An upgrade from the T3000 to WorldBlazer was sol
+d , consisting of two firmware ROMs and a PAL chip . There were some design studies of a possible fu
+ll-duplex PEP using echo cancellation ( as is used in V.32 ) , and this technology was proposed to t

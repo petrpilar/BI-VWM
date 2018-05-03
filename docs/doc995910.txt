@@ -1,0 +1,10 @@
+ightblue 8 ! bgcolor= lightblue -3Group Eborder= 2 cellpadding= 2 cellspacing= 0 style= margin : sol
+id border-collapse : collapse font-size : 85% ! Position ! Team ! Points ! Played ! Won ! Drawn ! Lo
+st ! For ! Against ! Difference ! bgcolor= lightgreen 1 ! bgcolor= lightgreen Newell 's Old Boys ! b
+gcolor= lightgreen 8 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 2 ! bgcolor= lightgreen 4 ! bgcol
+or= lightgreen 0 ! bgcolor= lightgreen 9 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 3 ! bgcolor= 
+lightgreen 2 ! bgcolor= lightgreen San Lorenzo ! bgcolor= lightgreen 7 ! bgcolor= lightgreen 6 ! bgc
+olor= lightgreen 2 ! bgcolor= lightgreen 3 ! bgcolor= lightgreen 1 ! bgcolor= lightgreen 10 ! bgcolo
+r= lightgreen 5 ! bgcolor= lightgreen 5 ! bgcolor= lightblue 3 ! bgcolor= lightblue Huracn Las Heras
+ ! bgcolor= lightblue 7 ! bgcolor= lightblue 6 ! bgcolor= lightblue 2 ! bgcolor= lightblue 3 ! bgcol
+or= lightblue 1 ! bgcolor= lightblue 8 ! bgcolor= lightblue 8 ! bgcolor= lightblue 0 ! bgcolor= ligh

@@ -1,0 +1,10 @@
+or:TD text : Nine ( TD ) bar:Month width:5 align:center fontsize:S shift : ( 0 , -20 ) anchor:middle
+ color:canvas from:01/08/1977 till:01/09/1977 text:August from:01/09/1977 till:01/10/1977 text:Septe
+mber from:01/10/1977 till:01/11/1977 text:October from:01/11/1977 till:01/12/1977 text:November Text
+Data = pos : ( 570,30 ) text : ( From the pos : ( 617,30 ) text : Saffir-Simpson Hurricane Scale ) T
+he Atlantic hurricane season officially began on June 1 , 1977 . Activity began several days later w
+ith the formation of a tropical depression on June 13 . Although 16 tropical depressions formed , it
+ was a below average season because only 6 of them strengthened into tropical storms . In terms of n
+amed storms , this was the hurricane status . In addition , one tropical cyclone eventually attained
+ major hurricane status , which is Category 3 or higher on the SaffirSimpson hurricane wind scale . 
+The inactivity was attributed to a El Nio that began developing in August . Three hurricanes and one

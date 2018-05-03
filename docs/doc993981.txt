@@ -1,0 +1,10 @@
+provides direct access to the embedded filesystem in the phone . The remainder of the functionality 
+is via protocols provided by the handset manufacturers , but these usually only cover updating the p
+honebook . Because the sizes of fields in the protocols differ between every model ( even from the s
+ame handset manufacturer ) and even between the same model offered at different carriers , BitPim ha
+s code and field descriptions for every model . A big part of each approximately monthly release is 
+adding support for new phone models . birthplace=Orlando , Florida Peoria Pirates ( ) Greensboro Pro
+wlers ( ) Dallas Desperados ( ) Miami Dolphins ( ) Dallas Desperados ( ) Tampa Bay Storm ( ) Chicago
+ Rush ( ) Kansas City Chiefs ( ) Chicago Slaughter ( 2009 ) Detroit Lions ( ) California Redwoods ( 
+) Florida Tuskers ( ) Orlando Predators ( ) : Offseason and/or practice squad member only All-OVC ( 
+1999 ) Division I-AA All-American ( 2000 ) af2 Ironman of the Year ( 2003 ) ArenaBowl champion ( XX 

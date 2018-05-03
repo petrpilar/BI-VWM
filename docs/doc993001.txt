@@ -1,0 +1,10 @@
+tings, Grant Campbell , Piccolo ECW ( Enhanced Compression Wavelet ) is a proprietary wavelet compre
+ssion image format optimized for aerial and satellite imagery . It was developed by Earth Resource M
+apping , and is now owned by Intergraph . The lossy compression format efficiently compresses very l
+arge images with fine alternating contrast while retaining their visual quality . In 1998 ER Mapper 
+Ltd in Perth , Western Australia company founder Stuart Nixon , and two software developers Simon Co
+pe and Mark Sheridan were researching rapid delivery of terabyte sized images over the internet usin
+g inexpensive server technology . The outcome of that research was two products , Image Web Server (
+ IWS ) and ECW . ECW represented a fundamental mathematical breakthrough enabling Discrete Wavelet T
+ransforms ( DWT ) and inverse-DWT operations to be performed on very large images very quickly , whi
+le only using a tiny amount of RAM . For ECW patents , see and . For IWS patent , see . These patent

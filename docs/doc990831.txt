@@ -1,0 +1,10 @@
+= DBDBDB Singular ! BGCOLOR= DBDBDB Plural ! BGCOLOR= DBDBDB First person(yo) hablo(nosotros/-as) ha
+blamos ! BGCOLOR= DBDBDB Second person familiar(t) hablas(vosotros/-as) hablis ! BGCOLOR= DBDBDB Sec
+ond person familiar(vos) habls ! BGCOLOR= DBDBDB Second person formal(usted) habla(ustedes) hablan !
+ BGCOLOR= DBDBDB Third person ( l , ella ) habla ( ellos , ellas ) hablan Present indicative forms o
+f the regular-erverbcomer( ' to eat ' ) : cellPadding=7 cellSpacing=0 border=1 ! BGCOLOR= DBDBDB Pre
+sent indicative of 617402brcomer! BGCOLOR= DBDBDB Singular ! BGCOLOR= DBDBDB Plural ! BGCOLOR= DBDBD
+B First person(yo) como(nosotros/-as) comemos ! BGCOLOR= DBDBDB Second person familiar(t) comes(voso
+tros/-as) comis ! BGCOLOR= DBDBDB Second person familiar(vos) coms ! BGCOLOR= DBDBDB Second person f
+ormal(usted) come(ustedes) comen ! BGCOLOR= DBDBDB Third person ( l , ella ) come ( regular-irverbvi
+vir( ' to live ' ) : cellPadding=7 cellSpacing=0 border=1 ! BGCOLOR= DBDBDB Present indicative of 61

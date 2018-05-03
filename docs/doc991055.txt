@@ -1,0 +1,10 @@
+dation ( NSF ) and SURA universities , SURAnet was up and running in 1987 , and was part of the firs
+t phase of National Science Foundation Network ( NSFNET ) funding as the agency built a network to f
+acilitate scientific collaboration . SURAnet was one of the first and one of the largest Internet pr
+oviders in the United States . SURA sites first used a 56 kbit/s backbone in in 1989 , and to a 45 M
+bit/s ( DS3 ) backbone in 1991 . FIX East and MAE-East , both major peering points , were located at
+ the main SURA facilities . Large-scale collaboration among SURA-affiliated scientists became an eve
+ryday reality .Role of SURAnet in the development of the InternetSURAnet participated in the develop
+ment of Internet communications standards and telecommunications protocols that enabled researchers 
+and federal agencies to communicate and work in this early Internet environment . SURAnet was one of
+ the first NSFNET regional networks to become operational . SURAnet provided networking services for

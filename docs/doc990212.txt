@@ -1,0 +1,10 @@
+orrow / I did not come for to stay for ever . He is taken to the gallows in a wagon drawn by four gr
+ey horses . Commenting with heavy irony that the execution was a Very sad loss to Major Prosser the 
+verse concludes by describing Gabriel as the man who almost ruined old Virginny . In the mathematica
+l discipline of linear algebra , the Schur decomposition or Schur triangulation , named after Issai 
+Schur , is a matrix decomposition .StatementThe Schur decomposition reads as follows : ifAis an&ampt
+imes nsquare matrix with complex entries , thenAcan be expressed as : A = Q U Q-1 whereQis a unitary
+ matrix ( so that its inverseQ 1 is also the conjugate transposeQ ofQ) , andUis an upper triangular 
+matrix , which is called a Schur form ofA. SinceUis similar toA, it has the same multiset of eigenva
+lues , and since it is triangular , those eigenvalues are the diagonal entries ofU. ofA-invariant su
+bspaces 0 =V 0 V 1 ..V n = C n , and that there exists an ordered orthonormal basis ( for the standa

@@ -1,0 +1,10 @@
+ . The first digit specifies the number of carbon atoms in the molecule , the second is the number o
+f fluorine atoms , the third is the chlorine atoms , and the fourth is the number of bromine atoms .
+ If the number includes a fifth digit , the fifth number indicates the number of iodine atoms ( thou
+gh iodine in halon is rare ) . Any bonds not taken up by halogen atoms are then allocated to hydroge
+n atoms . For example , consider Halon 1211 : C F Cl Br 1 2 1 1 Halon 1211 has one carbon atom , two
+ fluorine atoms , one chlorine atom and one bromine atom . A single carbon only has four bonds , all
+ of which are taken by the halogen atoms , so there is no hydrogen . Thus its formula is CF 2  BrCl 
+, and its IUPAC name is therefore 2640726TOOLONGANSI/ASHRAE Standard 34-1992The refrigerant naming s
+ystem is mainly used for fluorinated and chlorinated short alkanes used as refrigerants . In 34-1992
+ , with additional annual supplements . The specified ANSI/ASHRAE prefixes were FC ( fluorocarbon ) 

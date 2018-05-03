@@ -1,0 +1,10 @@
+rd Hermitian form of C n ) such that the firstibasis vectors spanVi for eachioccurring in the nested
+ sequence . Phrased somewhat differently , the first part says that a linear operatorJon a complex f
+inite-dimensional vector space stabilizes a complete flag (V 1 , ... ,V n ) .ProofA constructive pro
+of for the Schur decomposition is as follows : every operatorAon a complex finite-dimensional vector
+ space has an eigenvalue&amplambda . LetV &amplambda  be its orthogonal complement . It is clear tha
+t , with respect to this orthogonal decomposition ,Ahas matrix representation ( one can pick here an
+y orthonormal basesZ 1 andZ 2 spanningV &amplambda andV &amplambda  respectively ) : beginbmatrix Z1
+ &amp Z2 endbmatrix A beginbmatrixZ1 &amp Z2endbmatrix = beginbmatrix lambda , Ilambda &amp A12 0 &a
+mp A22 endbmatrix : beginmatrix Vlambda oplus Vlambdaperp endmatrix rightarrow beginmatrix Vlambda o
+plus Vlambdaperp endmatrix whereI &amplambda is the identity operator onV &amplambda . The above mat

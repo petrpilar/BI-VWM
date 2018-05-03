@@ -1,0 +1,10 @@
+hed the stage where easy to use automated thermometric titration systems can in many applications of
+ thermometric titrimetry discussed on this page are by no means exhaustive . The reader is referred 
+to the bibliography for further reading on the subject .Comparison between potentiometric and thermo
+metric titrations.Potentiometric titrimetry has been the predominant automated titrimetric technique
+ since the 1970s , so it is worthwhile considering the basic differences between it and thermometric
+ titrimetry . 25578TOOLONG titrations rely on a free energy change in the reaction system . Measurem
+ent of a free energy dependent term is necessary . :G 0 = -RTlnK( 1 ) Where : : G 0 = change on free
+ energy :R= universal gas constant :T= temperature in kelvins ( K ) or degrees Rankine ( R ) :K= equ
+ilibrium constant at temperatureT: ln is the natural logarithm function In order for a reaction to b
+e amenable to potentiometric titrimetry , the free energy change a significant inflection ( or kink 

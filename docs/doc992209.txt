@@ -1,0 +1,10 @@
+olumn to the right the first element of the row is zero . the followingn&ampminus 2 rows are obtaine
+d the same way , still filling the first column with a zero . the (n+ 1 ) th row is : : beginpmatrix
+ qn &amp qn-1 &amp cdots &amp q1 &amp q0 &amp 0 &amp cdots &amp 0 endpmatrix. the following rows are
+ obtained the same way as before . Thus , ifm= 4 andn= 3 , the matrix is : : Sp , q=beginpmatrix p4 
+&amp p3 &amp p2 &amp p1 &amp p0 &amp 0 &amp 0 0 &amp p4 &amp p3 &amp p2 &amp p1 &amp p0 &amp 0 0 &am
+p 0 &amp p4 &amp p3 &amp p2 &amp p1 &amp p0 q3 &amp q2 &amp q1 &amp q0 &amp 0 &amp 0 &amp 0 0 &amp q
+3 &amp &amp 0 &amp q3 &amp q2 &amp q1 &amp q0 &amp 0 0 &amp 0 &amp 0 &amp q3 &amp q2 &amp q1 &amp q0
+ endpmatrix. ApplicationsThese matrices are used in commutative algebra , e.g. to test if two polyno
+mials have a ( non constant ) common factor . In such a case , the determinant of the associated Syl
+vester matrix ( which is named the resultant of the two polynomials ) equals zero . The converse is 

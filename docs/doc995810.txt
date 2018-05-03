@@ -1,0 +1,10 @@
+at ek - smaller xylophone Roneat thung - larger xylophone Roneat dek - smaller metallophone Roneat t
+hong larger metallophone no longer usedGongsKong vong - single suspended gongClappersKrap - pair of 
+flat bamboo or hardwood sticksCymbalsChing - pair of small cymbals used to mark time Chap - pair of 
+flat cymbalsWoodblocksPan - woodblock Nay pay - Pellow Sindang - In computer systems , an access tok
+en contains the security credentials for a login session and identifies the user , the user 's group
+s , the user 's privileges , and , in some cases , a particular application .OverviewAnaccess tokeni
+s an object encapsulating the security identity of a process or thread . A token is used to make sec
+urity decisions and to store tamper-proof information about some system entity . While a token is ge
+nerally used to represent only security information , it is capable of holding additional free-form 
+data that can be attached while the token is being created . Tokens can be duplicated without specia

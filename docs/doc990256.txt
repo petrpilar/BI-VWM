@@ -1,0 +1,10 @@
+chniques , like external and series , and can produce square wave pulses . It can even be used with 
+simmer voltage to produce a modulated continuous wave output , with repetition rates over 300 hertz 
+several kilowatts of average power output can be obtained .Electrical requirementsThe electrical req
+uirements for a flashtube can vary , depending on the desired results . The usual method , once maxi
+mum power and the safe amount of operating energy is determined , is to pick a current density that 
+will emit the desired spectrum , and let the lamp 's resistance determine the necessary combination 
+of voltage and capacitance to produce it . The resistance in flashtubes varies greatly , depending o
+n pressure , shape , dead volume , current density , time , and flash duration , and therefore , is 
+usually referred to as impedance . The most common symbol used for lamp impedance is K o , which is 
+expressed as ohms ( amps 0.5 ) . K o is determined by the internal diameter , arc length , and gas t

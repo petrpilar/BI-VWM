@@ -1,0 +1,10 @@
+ of Boeing Integrated Defense Systems . Early A160s were powered by modified Subaru automotive engin
+es , but newer versions use Pratt &amp Whitney PW207D turboshaft engines . The A160 continued with d
+evelopmental flight tests in 2010 , but test flights have already demonstrated greater endurance , h
+igher altitudes , more extensive autonomy , and greater payload . The program has ambitious goals of
+ a 2500 mi range , 24-hour endurance , and 30000 ft altitude . Flights are largely autonomous , with
+ the aircraft making its own decisions about how to fly itself so as to meet certain objectives , ra
+ther than relying on . The aircraft is 35ft m from nose to tail and has a rotor diameter of 36ft m.D
+esign and development Maverick and Renegade UAVsDuring the initial development of the A160 airframe 
+and rotor system in 1999-2000 , Frontier Systems simultaneously designed theMaverickVTOL UAV as a te
+stbed for avionics , software and flight control systems . The Maverick was a highly modified versio

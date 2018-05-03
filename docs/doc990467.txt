@@ -1,0 +1,10 @@
+a generalized coordinate is the angle that locates a point moving on a circle . The adjective genera
+lized distinguishes these parameters from the traditional use of the term coordinate to refer to Car
+tesian coordinates : for example , describing the location of the point on the circle using x and y 
+coordinates . Although there may be many choices for generalized coordinates for a physical system ,
+ parameters are usually selected which are convenient for the specification of the configuration of 
+the system and which make the solution of its equations of motion easier . If these parameters are i
+ndependent of one another , then number of independent generalized coordinates is defined by the num
+ber of degrees Generalized coordinates are usually selected to provide the minimum number of indepen
+dent coordinates that define the configuration of a system , which simplifies the formulation of Lag
+range 's equations of motion . However , it can also occur that a useful set of generalized coordina

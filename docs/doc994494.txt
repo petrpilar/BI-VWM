@@ -1,0 +1,10 @@
+pan= 2 Run 4 ! colspan= 2 Total ! Time ! Rank ! Time ! Rank ! Time ! Rank ! Time ! Rank ! Time ! Ran
+k class= wikitable border= 1 style= font-size:90% ! rowspan= 2 Sled ! rowspan= 2 Athletes ! rowspan=
+ 2 Event ! colspan= 2 Run 3 ! colspan= 2 Run 4 ! colspan= 2 Total ! Time ! Rank ! Time ! Rank ! Time
+ ! Rank ! Time ! Rank ! Time ! RankCross-country skiing Men class= wikitable border= 1 style= font-s
+ize:90% ! rowspan=2Event ! rowspan=2Athlete ! colspan=2Race ! Time ! Rank Men 's 4 x 10 km relay cla
+ss= wikitable border= 1 style= font-size:90% ! rowspan=2Athletes ! colspan=2Race ! Time ! RankFigure
+ skating Pairs class= wikitable border= 1 style= font-size:90% ! Athletes ! Points ! Score ! Final r
+ankIce hockey Group BTop two teams advanced to semifinals border=1 cellpadding=5 cellspacing=0 ! bgc
+olor= efefef width= 120 ! bgcolor= efefef width= 20 Pld ! bgcolor= efefef width= 20 W ! bgcolor= efe
+fef width= 20 L ! bgcolor= efefef width= 20 T ! bgcolor= efefef width= 20 GF ! bgcolor= efefef width

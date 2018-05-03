@@ -1,0 +1,10 @@
+ucing a spectrum very close to that of daylight , and xenon flashtubes became standard in most large
+ photography sets . It was not until the 1970s that strobe units became portable enough to use inven
+ted the ruby laser , a new demand for flashtubes began for use in lasers , and new interest was take
+n in the study of the lamps .SafetyFlashtubes operate at high voltages , with currents high enough t
+o be deadly . Under certain conditions , shocks as low as 1 joule have been reported to be lethal . 
+The energy stored in a capacitor can remain surprisingly long after power has been disconnected . A 
+flashtube will usually shut down before the capacitor has fully drained , and it may regain part of 
+its charge through a process called dielectric absorption . In addition , the charging system itself
+ can be equally deadly . The trigger voltage can deliver a painful shock , usually not enough to kil
+l , but which can often startle a person into bumping or touching something more dangerous . When a 

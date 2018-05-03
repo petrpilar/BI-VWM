@@ -1,0 +1,10 @@
+at deacetylates intracellular phosphatidylcholine to produce glycerophosphocholine . It is thought t
+o function in neurite outgrowth and process elongation during neuronal differentiation . The protein
+ is anchored to the cytoplasmic face of the endoplasmic reticulum in both neurons and non-neuronal c
+ells .FunctionNeuropathy target esterase is an enzyme with phospholipase B activity : It sequentiall
+y hydrolyses both fatty acids from the major membrane lipid phosphatidylcholine , which generates wa
+ter-soluble glycerophosphocholine . In cells of eukaryotes from yeast to humans , NTE is anchored to
+ the cytoplasmic face of the endoplasmic reticulum membrane and is particularly abundant in neurons 
+, the placenta , and the kidney . Loss of NTE activity results in abnormally elevated levels of phos
+phatidylcholine in brain and impairment of the constitutive secretory pathway in neurons . In kidney
+ , the expression of neuropathy target esterase is regulated by TonEBP as part of Clinical significa

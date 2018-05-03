@@ -1,0 +1,10 @@
+device is usually a combination of both analog machine and analog media that can together measure , 
+record , or reproduce ( emit ) continuous information , for example , the almost infinite number of 
+grades of transparency , voltage , resistance , rotation , or pressure . In theory , the continuous 
+information ( also analog signal ) has an infinite number of possible values with the only limitatio
+n on resolution being the accuracy of the analog device .Examples Non-electricalThere are notable no
+n-electrical analog devices , such as clocks ( sundials , water clocks , pendulum clocks , analog wa
+tches ) , the astrolabe , slide rules , the governor of a steam engine , the planimeter ( a simple d
+evice that measures the area of a closed shape ) , Kelvin 's mechanical tide predictor , acoustic ra
+ngefinders , servomechanisms ( e.g. the thermostat ) , a simple mercury thermometer , a bathroom sca
+le , and the speedometer of a car .ElectricalThe telautograph is an analogue precursor to the modern

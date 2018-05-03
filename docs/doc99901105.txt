@@ -1,0 +1,10 @@
+ngerprint ( both visible and invisible ) when projecting the digital movie on the screen in a non-in
+trusive manner . Using this technology security feature , it is possible to trace , from a pirated C
+D or DVD , the name and location of the theatre where the film was illegally videographed , along wi
+th other co-ordinates like time , date , etc. , thus helping to crack down on Piracy .Innovative 3D 
+solutionsBlock Diagram of 3D technology to convert existing 2D screens into 3D . At the theatres whe
+re this technology is implemented , there is a dual projection setup for 3D projection along with a 
+playback server , 3D format converter , polarized filters , silver screen and 3D glasses . Video out
+put from the server is connected to a 3D format converter .Live delivery of IPL Matches at 3D Theatr
+esUFO brought cricket matches of the Indian Premier League ( IPL ) live to over 700 cinema screens i
+n high definition in 2010 . The last four matches of the Indian Premier League ( IPL ) 2010 were bro

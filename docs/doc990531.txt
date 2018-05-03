@@ -1,0 +1,10 @@
+ Flight Rules . Any hold short instructions the controller gives you need to be read back to the con
+troller to confirm you have received them properly . Finally , inform the controller that you have i
+nformation Bravo ( i.e. this information ) when you first talk to him or her .System operationThe AT
+IS at an airport is usually given by an automated voice , this allows ATIS message instead of making
+ a time-consuming voice recording , although at some smaller , less busy airports with a control tow
+er , it may be made by a controller and not a computer . Most airports in a certain country will oft
+en have the same ATIS format or layout with the same automated voice . For example , all ATIS inform
+ation at major airports in the United Kingdom such as Heathrow , Gatwick , Manchester , Birmingham ,
+ Edinburgh and even smaller ones , such as East Midlands and Newcastle , have a similar format or la
+yout and are all given by the same automated voice .Luton information Oscar , time 1250 . Runway in 

@@ -1,0 +1,10 @@
+application , implementation , support and management of computer and non-computer based technologie
+s for the express purpose of communicating , using various mediums , product design intent and const
+ructability as well as to facilitate product operation and maintenance and to ultimately improve ove
+rall product design realization , construction , operation and maintenance . At times there is cross
+-over between D.T. and Information Technology , however , whereas I.T . is primarily focused on over
+all network infrastructure , hardware &amp software requirements , and implementation , D.T. is spec
+ifically focused on supporting , maintaining and training design and engineering applications and to
+ols and working closely with I.T . to provide necessary infrastructure , for the most effective use 
+of these applications and tools . Within the building design , construction and maintenance industry
+ ( also known as AEC/O/FM ) , the product is the building and the role of D.T. , is the effective ap

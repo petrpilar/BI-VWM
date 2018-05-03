@@ -1,0 +1,10 @@
+or R ( refrigerant ) , but today most are prefixed by a more specific classification : CFC list of c
+hlorofluorocarbons HCFC list of hydrochlorofluorocarbons HFC list of hydrofluorocarbons FC list of f
+luorocarbons PFC list of perfluorocarbons ( completely fluorinated ) The decoding system for CFC-012
+34a is : 0 = Number of double bonds ( omitted if zero ) 1 = Carbon atoms -1 ( omitted if zero ) 2 = 
+Hydrogen atoms +1 3 = Fluorine atoms 4 = Replaced by Bromine ( B prefix added ) a = Letter added to 
+identify isomers , the normal isomer in any number has the smallest mass difference on each carbon ,
+ and a , b , or c are added as the masses diverge from normal . Other coding systems are in use as w
+ell .Hydrofluoro compounds ( HFC )Hydrofluorocarbons ( HFCs ) contain no chlorine . They are compose
+d entirely of carbon , hydrogen , and fluorine . They have no known effects on the , HFCs and perflu
+orocarbons ( PFCs ) are greenhouse gases , which cause global warming . Two groups of haloalkanes , 

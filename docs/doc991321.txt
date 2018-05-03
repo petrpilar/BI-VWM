@@ -1,0 +1,10 @@
+n activated satellite cells , but not in quiescent satellite cells . Although MyoD marks myoblast co
+mmitment , muscle development is not dramatically ablated in mouse mutants lacking the MyoD gene . T
+his is likely to be due to functional redundancy from Myf5 . Nevertheless , the combination of MyoD 
+and Myf5 is vital to the success of myogenesis.Functions of MyoDThe function of MyoD in development 
+is to commit mesoderm cells to a skeletal lineage , and then to regulate that process . MyoD may als
+o play a role in regulating muscle repair . MyoD mRNA levels are also reported to be elevated in agi
+ng skeletal muscle . One from the cell cycle ( halt proliferation ) by enhancing the transcription o
+f p21 . MyoD is inhibited by cyclin dependent kinases ( CDKs ) . CDKs are in turn inhibited by p21 .
+ Thus MyoD enhances its own activity in the cell .InteractionsMyoD has been shown to interact with H
+DAC1 , ID1 , ID2 , Retinoblastoma protein , STAT3 , CSRP3 , Cyclin-dependent kinase 4 , CREB-binding

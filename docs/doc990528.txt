@@ -1,0 +1,10 @@
+, Yamaha S90 ES , Yamaha Motif XS , Yamaha Motif-Rack XS Yamaha MY16-mLAN option for Yamaha digital 
+mixers Korg EXB-mLAN option for audio/MIDI interface Kurzweil KMLN8 8 Channel mLAN I/O option for KS
+P-8 Multi-Channel effects processorSee also ADAT Audio over Ethernet MADI MIDI Open Sound Control RT
+P MIDI ZIPI Automatic Terminal Information Service , or ATIS , is a continuous broadcast of recorded
+noncontrolaeronautical information in busier terminal ( i.e. airport ) areas . ATIS broadcasts conta
+in essential information , such as weather information , which runways are active , available approa
+ches , and any other information required by the pilots , such as important NOTAMs . Pilots usually 
+listen to an available ATIS broadcast before contacting the local control unit , in order to reduce 
+the controllers ' workload and relieve frequency congestion . The recording is updated in fixed inte
+rvals or when there is a significant change in the information , e.g. a change in the active runway 

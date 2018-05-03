@@ -1,0 +1,10 @@
+ to control . The players are each dealt a number of system tiles which they place one at a time to 
+construct the galaxy map , with Mecatol Rex at the center . The players ' home systems are placed ar
+ound the periphery of the map . A first player is chosen randomly . That player is given the speaker
+ token and is allowed to choose a strategy card for the turn first . In future turns the first choic
+e of strategy card is given to the player who chose the Initiative strategy card in the last round a
+ strategy card for the current turn ( two cards if there are 3 or 4 players ) . The strategy card ch
+osen determines the order in which the players will act during the current turn , provides a primary
+ ability that the holder of the strategy card will use during the turn , and a secondary ability tha
+t the other players may use when the primary ability is activated . There are eight strategies - Ini
+tiative , Diplomacy , Political , Logistics , Trade , Warfare , Technology , and Imperial . Any unch

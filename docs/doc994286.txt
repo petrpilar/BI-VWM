@@ -1,0 +1,10 @@
+ bar:1911 from : 0 till:467 bar:1936 from : 0 till:450 bar:1951 from : 0 till:451 bar:1961 from : 0 
+till:414 bar:1971 from : 0 till:288 bar:1981 from : 0 till:229 bar:1991 from : 0 till:208 bar:2001 f
+rom : 0 till:205 PlotData= bar:1861 at:568 fontsize:XS text : 568 shift : ( -8,5 ) bar:1871 at:641 f
+ontsize:XS text : 641 shift : ( -8,5 ) bar:1881 at:627 fontsize:XS text : 627 shift : ( -8,5 ) bar:1
+901 at:559 fontsize:XS text : 559 shift : ( -8,5 ) bar:1911 at:541 fontsize:XS text : 541 shift : ( 
+-8,5 ) bar:1921 at:546 fontsize:XS text : 546 shift : ( -8,5 ) bar:1931 at:467 fontsize:XS text : 46
+7 shift : ( -8,5 ) bar:1936 at:450 fontsize:XS text : 450 shift : ( -8,5 ) bar:1951 at:451 fontsize:
+XS text : 451 shift : ( -8,5 ) bar:1961 at:414 fontsize:XS text : 414 shift : ( -8,5 ) bar:1971 at:2
+88 fontsize:XS text : 288 shift : ( -8,5 ) bar:1981 at:229 fontsize:XS text : 229 shift : ( -8,5 ) b
+ar:1991 at:208 fontsize:XS text : 208 shift : ( -8,5 ) bar:2001 at:205 fontsize:XS text : 205 shift 

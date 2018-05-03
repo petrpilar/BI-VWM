@@ -1,0 +1,10 @@
+to catch the rats . With them trapped the player then must take the rats to the ' Destructor Pad ' ,
+ located in each of the rat filled rooms , to dispose of them . If the player is bumped by a rat or 
+other damaging item in the room , the rats can escape the trap until they 've been eliminated by the
+ ' Destructor ' . At the end of each level the player receives bonuses reflecting how well they had 
+done . Such as receiving Damage Bonuses for how much the room got damaged ( the less damage , the hi
+gher points ) , time bonuses ( the less time taken , the higher the bonus ) , and perfect bonuses ( 
+if none of the items in the room got destroyed , the player obtains these points . ) In most of the 
+rooms various power-ups will occasionally appear to help the player , they can also be found of rats
+ at the same time . These power-ups allow such things as , some of the damage done by the rats to be
+ reversed , allowing the player to avoid taking damage for a short time , or get back one energy tha

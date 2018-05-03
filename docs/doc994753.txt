@@ -1,0 +1,10 @@
+niques where endpoints can be located accurately and precisely without a subjective interpretation o
+n the part of the analyst as to their location . Enthalpy change is arguably the most fundamental an
+d universal property of chemical reactions , so the observation of temperature change is a natural c
+hoice in monitoring their progress . It is not a new technique , with possibly the first recognizabl
+e thermometric titration method reported early in the 20th century ( Bell and Cowell , 1913 ) . In s
+pite of its attractive features , and in spite of the considerable research that has been conducted 
+in the field and a large body of applications that have been developed it has been until now an unde
+r-utilized technique in the critical area of industrial process and quality control . Automated pote
+ntiometric titration systems have pre-dominated in this area since the 1970s . With the advent of ch
+eap computers able to handle the powerful thermometric titration software , development has now reac

@@ -1,0 +1,10 @@
+a degenerate elliptic orbit . Consider a point mass m a distance R from a point source of mass M whi
+ch falls radially inward to it . Crucially , Kepler 's Third Law depends only on the semi-major axis
+ of the orbit , and does not depend on the eccentricity . A purely radial trajectory is an example o
+f a degenerate ellipse with an eccentricity of 1 and semi-major axis R/2 . Therefore , the time it w
+ould take a body to fall inward is the same as the period of a circular orbit of radius R/2 , or : t
+orbit = frac2 pisqrt G(M+m) 27107995TOOLONG R3/2sqrt2 G(M+m) . To see that the semi-major axis is R/
+2 , we must examine properties of orbits as they become increasingly elliptical . Kepler 's First La
+w states that an orbit is an ellipse with the center of mass as one focus . In the case of a very sm
+all mass falling toward a very large mass M , the center of mass is within the larger mass . The foc
+us of an ellipse is increasingly off-center with increasing ellipticity . In the limiting case of a 

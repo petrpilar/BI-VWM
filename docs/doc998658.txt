@@ -1,0 +1,10 @@
+38,035 ! style= text-align:right background-color : cfb 282,482 ! style= text-align:right background
+-color : cfb 318,530Installed wind energy capacity 1991-2000Installed Wind Energy Capacity ( in mega
+watts , MW ) ( cumulative for year ) : class= wikitable sortable style= text-align:right ! style= ba
+ckground-color : cfb Nation ! style= background-color : cfb 1991 ! style= background-color : cfb 199
+2 ! style= background-color : cfb 1993 ! style= background-color : cfb 1994 ! style= background-colo
+r : cfb 1995 ! style= background-color : cfb 1996 ! style= background-color : cfb 1997 ! style= back
+ground-color : cfb 1998 ! style= background-color : cfb 1999 ! style= background-color : cfb 2000Ins
+talled in megawatts , MW ) ( cumulative for year ) : class= wikitable sortable style= text-align:rig
+ht ! style= background-color : cfb Nation ! style= background-color : cfb 1981 ! style= background-c
+olor : cfb 1982 ! style= background-color : cfb 1983 ! style= background-color : cfb 1984 ! style= b

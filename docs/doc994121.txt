@@ -1,0 +1,10 @@
+-neutral manner to increase their use and flexibility . However , this makes more difficult , among 
+other things , the development of industrial tools for modeling the viewpoint specifications the pos
+sible derivation of implementations from the system specifications . In order to address these issue
+s , ISO/IEC and the ITU-T started a joint project in 2004 : ITU-T Rec . X.906ISO/IEC 19793 : Informa
+tion technology - Open distributed processing - Use of UML for ODP system specifications . This docu
+ment ( usually referred to as ) defines use of the Unified Modeling Language 2 ( UML 2 ISO/IEC 19505
+ ) , for expressing the specifications of open distributed systems in terms of the viewpoint specifi
+cations defined by the RM-ODP . It defines a set of UML Profiles , one for each viewpoint language a
+nd one to express the correspondences between viewpoints , and an approach for structuring them acco
+rding to the RM-ODP principles . The purpose of UML4ODP to allow ODP modelers to use the UML notatio

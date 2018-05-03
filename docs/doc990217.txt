@@ -1,0 +1,10 @@
+ly computed ahead in order to obtain its Schur decomposition . Conversely , QR algorithm can be used
+ to compute the roots of any given characteristic polynomial by finding the Schur decomposition of i
+ts companion matrix . Similarly , QR algorithm is used to compute the eigenvalues of any given matri
+x , which are the diagonal entries of the upper triangular matrix of the Schur decomposition . See t
+he Nonsymmetric Eigenproblems section in LAPACK Users ' Guide .ApplicationsLie theory applications i
+nclude : Every invertible operator is contained in a Borel group . Every operator fixes a point of t
+he flag manifold .Generalized Schur decompositionGiven square matricesAandB, the generalized Schur d
+ecomposition factorizes both matrices as A=QSZ and andZare unitary , andSandTare upper triangular . 
+The generalized Schur decomposition is also sometimes called the QZ decomposition . The generalized 
+eigenvalues lambda that solve the generalized eigenvalue problem Ax=lambda Bx ( wherexis an unknown 

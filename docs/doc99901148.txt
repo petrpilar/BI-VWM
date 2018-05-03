@@ -1,0 +1,10 @@
+ign= center 295607span D ! bgcolor=ffe5b4 align= center 295638span L ! bgcolor=ffe5b4 align= center 
+295669span GF ! bgcolor=ffe5b4 align= center 295700span GA ! bgcolor=ffe5b4 align= center 295731span
+ GD ! bgcolor=FF8C00 align= center 275762span 1 ! bgcolor=FF8C00 align= center 275791span 2 ! bgcolo
+r=FF8C00 align= center 275820span 3 ! bgcolor=DCDCDC align= center 275849span 4 ! bgcolor=DCDCDC ali
+gn= center 275878span 5 ! bgcolor=DCDCDC align= center 275907span 6 width=60% ! colspan= 10 bgcolor=
+B8860B 275936span Group C ! colspan= 2 bgcolor=ffe5b4 295965span Team ! G ! bgcolor=ffe5b4 align= ce
+nter 296058span W ! bgcolor=ffe5b4 align= center 296089span D ! bgcolor=ffe5b4 align= center 296120s
+pan L ! bgcolor=ffe5b4 align= center 296151span GF ! bgcolor=ffe5b4 align= center 296182span GA ! bg
+color=ffe5b4 align= center 296213span GD ! bgcolor=FF8C00 align= center 276244span 1 ! bgcolor=FF8C0
+0 align= center 276273span 2 ! bgcolor=DCDCDC align= center 276302span 3 ! bgcolor=DCDCDC align= cen

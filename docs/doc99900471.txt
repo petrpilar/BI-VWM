@@ -1,0 +1,10 @@
+which package . : We also want to keep in mind that when we depend on a package , we want to make su
+re that the classes are inseparable , and interdependent , which is also handy when culling out clas
+ses that do or do nt belong . 3 . Common-closure principle ( CCP ) : CCP states that the package sho
+uld not have more than one reason to change . If change were to happen in an application dependent o
+n a number of packages , ideally we only want changes to occur in one package , rather than in a num
+ber of them . : This helps us determine classes that are likely to change and package them together 
+for the same reasons . If the classes are tightly coupled , put them in the same package .Principles
+ of package coupling1 . Acyclic dependencies principle ( ADP ) : In a development cycle with multipl
+e developers , cooperation and integration needs to happen can be no cycles in the dependency struct
+ure , and that when an incremental release is made , the other developers can adopt and build upon i

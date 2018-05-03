@@ -1,0 +1,10 @@
+esulting in $10 million ( 1977 USD ) in damage . , Louisiana , Mississippi , and South Carolina . In
+ addition to Anita and Babe , five other tropical cyclones &ampndash hurricanes Clara , Dorothy , an
+d Evelyn , as well as Tropical Storm Frieda and Tropical Depression Nine &ampndash left only minor i
+mpacts on land . Overall , the tropical cyclones of the season collectively caused 11 fatalities and
+ at least $13 million in damage , excluding the remnants of Tropical Depression Nine , which led to 
+53 deaths and $203 million in losses due to flooding in the Southeastern United States , New Jersey 
+, and New York . TOCSeason summary ImageSize = width:800 height:200 PlotArea = top:10 bottom:70 righ
+t:20 left:20 Legend = columns:3 left:30 top:50 columnwidth:270 AlignBars = early DateFormat = dd/mm/
+yyyy Period = from:01/08/1977 till:01/01/1978 TimeAxis = orientation:horizontal ScaleMinor = grid:bl
+ack unit:month increment:1 start:01/08/1977 Colors = id:canvas value:gray(0.88) id:GP value:red id:T

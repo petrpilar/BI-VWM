@@ -1,0 +1,10 @@
+t more natural gait than with direct proportional control flexor inhibition also allows subjects to 
+walk much more easily with combined knee and ankle exoskeletons with bi-directional actuators at eac
+h joint .Applications Performance EnhancementPerformance enhancement deals with increasing typical h
+uman capabilities , such as strength or endurance . Many full-body robotic exoskeletons currently in
+ development use controllers based on joint torques and angles instead of electromyography . See pow
+ered exoskeletons.Long Term AssistanceOne application of a robot lower limb exoskeleton is to assist
+ in the movement of a disabled individual in order to walk . Individuals with spinal cord injury , w
+eakened leg muscles , poor neuromuscular control , or who have suffered a stroke could benefit from 
+wearing such a device . The exoskeleton provides torque about a joint in the same direction that EMG
+ data indicate the joint is rotating . For example , high EMG signals in the vastus medialis ( a qua

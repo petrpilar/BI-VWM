@@ -1,0 +1,10 @@
+ , Uni XS and other devices ) Due to their high-intensity and relative brightness at short wavelengt
+hs ( extending into the ultraviolet ) and short pulse widths , flashtubes are also ideally suited as
+ light sources for pumping atoms in a laser to excited states where they can subsequently be stimula
+ted to emit coherent monochromatic light . Proper selection of the filler gas is crucial here , so t
+he maximum of radiated output energy is concentrated in the bands that are the best absorbed by the 
+lasing medium e.g. krypton flashtubes are more suitable than xenon flashtubes for pumping Nd:YAG las
+ers , as krypton emission in near infrared is better matched to the absorption spectrum of Nd:YAG . 
+Xenon flashtubes have been used to produce an intense flash of white light , some of which is absorb
+ed by Nd:glass that produces the laser power for inertial confinement fusion . In total about 1 to 1
+.5% of the electrical power fed into the flashtubes is turned into useful laser light for this appli

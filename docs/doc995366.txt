@@ -1,0 +1,10 @@
+ticularly important for improved selectivity in asymmetric synthesis .Quantum chemistryMany aspects 
+of the structure-reactivity relationship in organic chemistry can be rationalized through resonance 
+, electron pushing , induction , the eight electron rule , and s-p hybridization , but these are onl
+y helpful formalisms and do not represent physical reality . Due to these limitations , a true under
+standing of physical organic chemistry requires a more rigorous approach grounded in particle physic
+s . Quantum chemistry provides a rigorous theoretical framework capable of predicting the properties
+ of molecules through calculation of a molecules electronic structure , and it has become a readily 
+available tool in physical organic chemists in the form of popular software packages . The power of 
+quantum chemistry is built on the wave model of the atom , in which the nucleus is a very small , po
+sitively charged sphere surrounded their associated wavefunction , an equation which contains all in

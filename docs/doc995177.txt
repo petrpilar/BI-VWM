@@ -1,0 +1,10 @@
+ is correct and should be delivered to the client . This feature enables other reliability features 
+in the ADN , such as resending a request to a different server if the content returned by the origin
+al server is found to be erroneous .Load balancing algorithmsThe load balancing algorithms found in 
+today 's ADN are far more advanced than the simplistic round-robin and least connections algorithms 
+used in the early 1990s . These algorithms were originally loosely based evolved to factor in condit
+ions peculiar to networking and application environments . It is more accurate to describe today 's 
+load balancing algorithms as application routing algorithms , as most ADN employ application awarene
+ss to determine whether an application is available to respond to a request . This includes the abil
+ity of the ADN to determine not only whether the application is available , but whether or not the a
+pplication can respond to the request within specified parameters , often referred to as an service 

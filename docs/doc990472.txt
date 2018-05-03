@@ -1,0 +1,10 @@
+the parameter , Lagrange 's equations take the form : fracddtfracpartial Tpartial dottheta - fracpar
+tial Tpartial theta = Ftheta , which becomes , : mL2ddottheta = -mgLsintheta , or : ddottheta + frac
+gLsintheta=0 . This formulation yields one equation because there is a single parameter and no const
+raint equation . This shows that the parameter is a generalized coordinate that can be used in the s
+ame way as the Cartesian coordinates x and y to analyze the pendulum .Example : Double pendulumThe b
+enefits double pendulum . For the two masses m i , i=1 , 2 , let r i = ( x i , y i ) , i=1 , 2 defin
+e their two trajectories . These vectors satisfy the two constraint equations , : f1 ( x1 , y1 , x2 
+, y2 ) = mathbfr1cdot mathbfr1 - L12 = 0 , quad f2 ( x1 , y1 , x2 , y2 ) = ( mathbfr2-mathbfr1 ) cdo
+t ( mathbfr2-mathbfr1 ) - L22 = 0 . The formulation of Lagrange 's equations for this system yields 
+six equations in the four Cartesian coordinates x i , y i i=1 , 2 and the two Lagrange multipliers i

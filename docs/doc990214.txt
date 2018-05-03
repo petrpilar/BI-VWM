@@ -1,0 +1,10 @@
+rix would be upper-triangular except for theA 22 block . But exactly the same procedure can be appli
+ed to the sub-matrixA 22 , viewed  , and its submatrices . Continue this way n times . Thus the spac
+e C n will be exhausted and the procedure has yielded the desired result . The above argument can be
+ slightly restated as follows : let&amplambda be an eigenvalue ofA, corresponding to some eigenspace
+V &amplambda .Ainduces an operatorTon the quotient space C n moduloV &amplambda . This operator is p
+recisely theA 22 submatrix from above . As before ,Twould have an eigenspace , sayW &ampmu C n modul
+oV &amplambda . Notice the preimage ofW &ampmu under the quotient ' that containsV &amplambda . Cont
+inue this way until the resulting quotient space has dimension 0 . Then the successive preimages of 
+the eigenspaces found at each step form a flag thatAstabilizes.NotesAlthough every square matrix has
+ a Schur decomposition , in general this decomposition is not unique . For example , the eigenspaceV

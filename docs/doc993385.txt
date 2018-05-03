@@ -1,0 +1,10 @@
+or , 2007 . The aircraft flew for 12 hours while carrying a 500-pound payload , simulating a multi-s
+ensor military recon mission on October 12 . This latter flight used up less than 60% of the Humming
+bird 's maximum fuel load . On December 10 , 2007 , one of the A160T prototypes crashed during a fli
+ght test at Boeing Advanced Systems ' test facility in Victorville . A Boeing investigation determin
+ed the incident was caused when sensor data stopped being updated to the flight computer . With the 
+feedback loop for the control system effectively cut , the helicopter departed controlled flight and
+ impacted the ground at a near-vertical angle . Much of the forensic evidence was burned in the post
+-crash fire . A number of potential areas that could have caused the software feedback update thread
+ to stop were found , and those known problem areas have been addressed . Flight testing resumed on 
+March 26 , 2008 . On May 9 , 2008 , at Yuma Proving Ground in Arizona , the A160T demonstrated its a

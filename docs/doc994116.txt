@@ -1,0 +1,10 @@
+tical framework for normalized description of ( arbitrary ) distributed processing systems . It intr
+oduces the principles of conformance to ODP standards and the way in which they are applied . In onl
+y 18 pages , this standard sets the basics of the whole model in a clear , precise and concise way .
+Architecture : Contains the specification of the required characteristics that qualify distributed p
+rocessing as open . These are the constraints to which ODP standards must conform . This recommendat
+ion also defines RM-ODP viewpoints , subdivisions of the specification of pieces of information rele
+vant to some particular area of concern .Architectural Semantics : Contains a formalization of the O
+DP modeling concepts by interpreting many concepts in terms of the constructs of the different stand
+ardized formal description techniques .Viewpoints modeling and the RM-ODP frameworkMost complex syst
+em specifications are so extensive that no single individual can fully comprehend all aspects of the

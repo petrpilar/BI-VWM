@@ -1,0 +1,10 @@
+tes may bedependent, which means that they are related by one or more constraint equations .Holonomi
+c constraintsIf the constraints introduce relations between the generalized coordinatesq i , i=1 , .
+.. , n and time , of the form , : fj ( q1 , ... , qn , t ) = 0 , j=1 , ... , k , they are calledholo
+nomic. These constraint equations define a manifold in the space of generalized coordinatesq i , i=1
+ , ... , n , known as the configuration space It can be advantageous to choose independent generaliz
+ed coordinates , as is done in Lagrangian mechanics , because this eliminates the need for constrain
+t equations . However , an unconstrained set . For example , when dealing with nonholonomic constrai
+nts or when trying to find the force due to any constraint , holonomic or not , dependent generalize
+d coordinates must be employed . Sometimes independent generalized coordinates are called internal c
+oordinates because they are mutually independent , otherwise unconstrained , and together give the p

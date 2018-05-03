@@ -1,0 +1,10 @@
+system , possibly among other sensors . Since being acquired by the military , most Maverick operati
+ons have remained unpublicized . March 2006 saw the completion of the Software Enabled Control progr
+am sponsored by the Defense Advanced Research Projects Agency(DARPA) . With the help of researchers 
+from UC Berkeley , MIT , and Georgia Tech , Boeing developed a variant of its Maverick UAV platform 
+, which became known as theRenegadeUAV . This aircraft successfully performed various maneuvers and 
+flew routes without real-time human input .A160The development program for the A160 began when DARPA
+ awarded a 30-month technology demonstration contract to San Diego-based Frontier Systems in March 1
+998 . In June 1999 , Frontier tested the autonomous flight control system with the Maverick-A , was 
+lost during an accident in 2000 , after having flown for 215 hours . The first prototype , a three-b
+laded A160 , demonstrated a brief hover on December 7 , 2001 and performed its first forward flight 

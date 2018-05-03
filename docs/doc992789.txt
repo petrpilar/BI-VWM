@@ -1,0 +1,10 @@
+ause there are list of all nodes reachable fromn start by one edge :n 1 ,n 2 , ... ,ni .Removen star
+t and all edges connected to it fromGto formG1.For each nodenj in the listn 1 , ... ,ni , callM( 217
+3344''G''1'',j ) .If all of these calls returnaccept, then no matter which decisionP 1 makes ,P 2 ha
+s a strategy to win , so returnreject. Otherwise)P 1 has a choice that will deny any successful stra
+tegies forP 2 , so returnaccept. The algorithmMclearly decides GG . It is in PSPACE because the only
+ non-obvious polynomial workspace consumed is in the recursion stack . The space consumed by the rec
+ursion stack is polynomial because each level of recursion adds a single node to the stack , and the
+re are at mostnlevels , wherenis the number of nodes inG.Generalized geography is PSPACE-hardTo esta
+blish the PSPACE-hardness of GG , we can reduce the FORMULA-GAME problem ( which is known to be PSPA
+CE-hard ) to GG in polynomial time ( P ) . In brief , an instance of the FORMULA-GAME problem consis

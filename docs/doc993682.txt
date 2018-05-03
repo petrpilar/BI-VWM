@@ -1,0 +1,10 @@
+ese electrons and holes depends on the potential of the bias voltage charge . As the holes are repla
+ced with electrons , the resultant charge pattern in the selenium layer is read out by a TFT array ,
+ active matrix array , electrometer probes or microplasma line addressing .High-density composed of 
+a photostimulable barium fluorobromide doped with europium ( BaFBr:Eu ) or caesium bromide ( CsBr ) 
+phosphor . The phosphor detector records the X-ray energy during exposure and is scanned by a laser 
+diode to excite the stored energy which is released and read out by a digital image capture array of
+ a CCD.Radiological examinations MedicalMedical Uses for Digital Radiography ( DR ) can be broken in
+to two subcategories , Dental , and the rest of the body . Dental The radiological examinations in d
+entistry may be classified intointraoralwhere the film or sensor is placed in the mouth , the purpos
+e being to focus on a small region of the oral-maxillofacial region andextraoralwhere the film or se

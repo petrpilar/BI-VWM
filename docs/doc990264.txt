@@ -1,0 +1,10 @@
+he spectral line emission . Free-bound transitions happen when an ion captures a free electron . Thi
+s method produces the continuum emission , and is more prominent at higher current densities . Some 
+of the continuum is also produced when an electron accelerates toward an ion , called free-free tran
+sitions , producing bremsstrahlung radiation .Intensity and duration of flashThe only real electrica
+l limit to how short a pulse can be is the total-system inductance , including that of the capacitor
+ , wires , be minimized . This is typically done using special capacitors , the shortest wires avail
+able , and electrical-leads with a lot of surface area but thin cross-sections . For extremely fast 
+systems , low-inductance axial-leads , such as copper tubing , plastic-core wires , or even hollowed
+ electrodes , may be used to decrease the total-system inductance . Dye lasers need very short pulse
+s and sometimes use axial flashtubes , which have an annular shape with a large outer diameter , rin

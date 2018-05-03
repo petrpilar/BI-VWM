@@ -1,0 +1,10 @@
+by scalar equations , and rigid dynamics by vectorial equations . In this division the dimensions fo
+r dynamics arespace, time and mass , and for energetics ,length, time and mass ( Villamil 1928 , p. 
+9 ) . This division is made according to fundamental presuppositions about the properties of bodies 
+which can be expressed according to how one answers to together ? 2 . Is there any machinery for sto
+pping moving bodies ? In Villamil 's classification system , dynamics says yes to 1 and no to 2 , wh
+ereas energetics says no to 1 and yes to 2 . Therefore , Villamil 's in system , dynamics assumes th
+at particles are rigidly fixed together and can not vibrate , and consequently must all be at zero k
+elvin . The conservation of momentum is a consequence of this view , however it is considered valid 
+only in logic and not to be a true representation of the facts ( Villamil , p. 96 ) . In contrast en
+ergetics does not assume that particles are rigidly fixed together , particles are therefore free to

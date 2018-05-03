@@ -1,0 +1,10 @@
+almost complete disappearance of the low-drag range of all the airfoils except that of 18% thickness
+ .LiftThe no variation with RN . Throughout the range of RN of this investigation , the values of th
+e lift-curve slope for the smooth sections are very close to that predicted by thin-airfoil theory (
+ 2 per radian , or 0.110 per degree ) . The effects of increasing RN on the maximum lift showed two 
+general trends : for airfoils of 12% thickness or less , the maximum lift remains relatively constan
+t over the lower range of RN . Increasing the RN , however , causes a rapid increase in maximum lift
+ the 18% thick airfoils demonstrated a steady increase of maximum lift as RN is increased .Concludin
+g remarksThe 18% thick section had a type of maximum-lift variation with the RN that was entirely di
+fferent from the thinner sections . Any comparison of airfoil maximum-lift characteristics can be ma
+de only if the data for the group of airfoils under consideration are available at the same RN . The

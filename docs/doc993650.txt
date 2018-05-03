@@ -1,0 +1,10 @@
+criterion : repeat the steps until maxzi - minzi is sufficiently small or no longer decreases . Thes
+e bounds indicate the progress .VariantsSometimes more than one sample point is replaced at the same
+ time with the locations of nearby maximum absolute differences . Sometimes relative error is used t
+o measure the difference between the approximation and the function , especially if the approximatio
+n will be used to compute the function on a computer which uses floating point arithmetic . Robert A
+lway ( 1790 &ampndash August 6 , 1840 ) was a farmer and political figure in Upper Canada . He was b
+orn in Gloucester , Gloucestershire , England in 1790 and arrived in Upper Canada around 1816 . He r
+epresented Oxford in the Legislative Assembly of Upper Canada from 1834 to 1841 as a Reformer . He s
+erved in the local militia but was dismissed in 1838 . He was arrested after the Upper Canada Rebell
+ion but later released because there was insufficient evidence of any wrongdoing . He left the count

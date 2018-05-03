@@ -1,0 +1,10 @@
+le= font-size:95% ! rowspan= 2 Place ! colspan= 3 Men ! colspan= 3 Women ! Name ! ! Nation ! ! Time 
+! Name ! ! Nation ! ! TimeKitzbuehelclass=wikitable style= font-size:95% ! rowspan= 2 Place ! colspa
+n= 3 Men ! colspan= 3 Women ! Name ! ! Nation ! ! Time ! Name ! ! Nation ! ! TimeSalfordclass=wikita
+ble style= font-size:95% ! rowspan= 2 Place ! colspan= 3 Men ! colspan= 3 Women ! Name ! ! Nation ! 
+! Time ! Name ! ! Nation ! ! TimeTiszaujvarosclass=wikitable style= font-size:95% ! rowspan= 2 Place
+ ! colspan= 3 Men ! colspan= 3 Women ! Name ! ! Nation ! ! Time ! Name ! ! Nation ! ! TimeBeijingcla
+ss=wikitable style= font-size:95% ! rowspan= 2 Place ! colspan= 3 Men ! colspan= 3 Women ! Name ! ! 
+Nation ! ! Time ! Name ! ! Nation ! ! TimeRhodesclass=wikitable style= font-size:95% ! rowspan= 2 Pl
+ace ! colspan= 3 Men ! colspan= 3 Women ! ! Nation ! ! TimeCancnclass=wikitable style= font-size:95%
+ ! rowspan= 2 Place ! colspan= 3 Men ! colspan= 3 Women ! Name ! ! Nation ! ! Time ! Name ! ! Nation

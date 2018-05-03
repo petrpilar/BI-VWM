@@ -1,0 +1,10 @@
+e amount of data queued for transmission in each modem . While this adaptive duplex scheme was able 
+to send large files quickly , for users accustomed to having the distant computer echo characters , 
+the delay associated with having the DSPs take turns using the bandwidth tended make interactive typ
+ing difficult , as there could be as much as a second and a half delay for a single character echo .
+ This also caused problems for file transfer protocols , e.g. , UUCP ' g ' or Kermit , where a small
+ packet of data was sent by one computer , followed by a wait for acknowledgment from the receiver (
+ send and wait ) . The TrailBlazer addressed this problem through a technique known as protocol spoo
+fing . When the local computer sent a packet to the modem for ACK message , generated locally . This
+ fooled the computer into thinking the packet had already reached the far end , prompting it to send
+ another packet . The error correction normally being applied in the protocol was instead handled us

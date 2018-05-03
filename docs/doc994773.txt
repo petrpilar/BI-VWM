@@ -1,0 +1,10 @@
+he determination of ammonium ion . This is an alternative to the classical approach of ammonia disti
+llation from basic solution and consequent acid-base titration . The thermometric titration is carri
+ed out in bicarbonate ) .Complexometric ( EDTA ) titrationsThermometric titrations employing sodium 
+salts of 27605TOOLONG acid ( EDTA ) have been demonstrated for the determination of a range of metal
+ ions . Reaction enthalpies are modest , so titrations are normally carried out with titrant concent
+rations of 1 mol/L . This necessitates the use of the tetra-sodium salt of EDTA rather than the more
+ common di-sodium salt which is saturated at a concentration of only approximately 0.25 mol/L . An e
+xcellent application is the sequential determination of calcium and magnesium . Although calcium rea
+cts exothermically with EDTA ( heat of chelation -23.4 kJ/mol ) , magnesium reacts endothermically w
+ith a heat of chelation of +20.1 kJ/mol . This is illustrated in the titration plot of EDTA with cal

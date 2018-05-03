@@ -1,0 +1,10 @@
+ugh its is a sphere , a good choice of coordinates would be : : lbrace q1 , q2 rbrace = lbrace theta
+ , phi rbrace , where and are the angle coordinates familiar from spherical coordinates . Thercoordi
+nate has been effectively dropped , as a particle moving on a sphere maintains a constant radius . -
+-Generalized velocities and kinetic energyEach generalized coordinate qi is associated with a genera
+lized velocity dot qi , defined as : : dot qi=dqi over dt The kinetic energy of a particle is : T = 
+frac m2 left ( dot x2 + dot y2 + dot z2 right ) . In more general terms , for a system of p particle
+s with n degrees of freedom , this may be written : T =sumi=1 p frac mi2 left ( dot xi2 + dot yi2 + 
+dot zi2 right ) . If the transformation equations between the Cartesian and generalized coordinates 
+: xi = xi left ( q1 , q2 , yi = yi left ( q1 , q2 , ... , qn , t right ) : zi = zi left ( q1 , q2 , 
+... , qn , t right ) are known , then these equations may be differentiated to provide the time-deri

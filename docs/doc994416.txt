@@ -1,0 +1,10 @@
+ritical to the success of communications servers , including :AdvancedTCAThe Advanced Telecommunicat
+ions Computing Architecture ( ATCA ) is a series of PCI Industrial Computers Manufacturers Group ( P
+ICMG ) specifications , targeted to meet the requirements for carrier grade communications equipment
+ . This series of specifications incorporates the latest trends in high speed interconnect technolog
+ies , next generation processors and improved reliability , manageability and serviceability.Advance
+dMCThe PICMG Advanced Mezzanine Card specification defines the base-level requirements for a wide li
+mited to , AdvancedTCA Carriers . AdvancedMC enhances AdvancedTCAs flexibility by extending its high
+-bandwidth , multi-protocol interface to individual hot-swappable modules .MicroTCAThis PICMG specif
+ication provides a framework for combining AdvancedMC modules directly , without the need for an Adv
+ancedTCA or custom carrier . MicroTCA is aimed at smaller equipment such as wireless base stations ,

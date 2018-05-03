@@ -1,0 +1,10 @@
+ exist even after users have exited the world and that changes made to the world state by its users 
+remain intact . The term is frequently used in definitions of virtual worlds , massively multiplayer
+ online role-playing games ( MMORPGs ) and in conjunction with pervasive games , having gained popul
+arity with the rise of MMORPGs . The concept of world persistence should not be confused with simila
+r persistence concepts such as persistent network connectivity or data persistence .OverviewA persis
+tent world can be achieved by developing and maintaining a single or dynamic instance state of the g
+ame world that is shared and viewed by all players around the clock . Quite unlike other types of ga
+mes , the plot and events in a persistent world game continue to develop even while some of the play
+ers are not playing their characters . The real world is persistent , always available and where cha
+nges made by a particular person remain can speak of physical persistence where the game world is pe

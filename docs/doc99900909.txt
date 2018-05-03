@@ -1,0 +1,10 @@
+deasInformal inferential reasoning involved the following related ideas of distributions , signal ( 
+a stable component of population/process such as averages ) and noise ( a variable component of popu
+lation/process such as the deviations of individual value around an average ) and types of ' noise '
+ or variability ( measurement variability , natural variability , sampling variability ) . Sample si
+ze. Bigger samples are better because they provide a more accurate estimate of the population/proces
+s signals . Controlling for bias. The use of random sampling to be sure not to introduce bias in the
+ sampling process and thus increase the chance that the sample we get is representative of the popul
+ation Tendency. Distinguish between claims that are always true and that are often or sometimes true
+ .Tasks that Involve Informal Inferential ReasoningZieffler et al . ( 2008 ) suggest three types of 
+tasks that have been used in studies of students ' informal inferential reasoning and its developmen

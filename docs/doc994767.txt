@@ -1,0 +1,10 @@
+ mol/L ) permits a reduction often be directly and accurately dispensed into the titration vessel pr
+ior to titration. Titration of weak acids Weakly dissociated acids yield sharp thermometric endpoint
+s when titrated with a strong base . For instance , bicarbonate can be unequivocally determined in t
+he company of carbonate by titrating with hydroxyl ( 0 H r =-40.9 kJ/mol ) .Titration of acid mixtur
+esMixtures of complex acids can be resolved by thermometric titration with standard NaOH in aqueous 
+solution . In a mixture of nitric , acetic and phosphoric acids used in the fabrication of semi-cond
+uctors , three endpoints could be predicted on the basis of the dissociation constants of the acids 
+: The key to determine the amount of each acid present in the mixture is the ability to obtain an ac
+curate value for the amount of phosphoric acid present , as revealed by titration of the third proto
+n of H 3 PO 4 . Figure 10 illustrates a titration plot of this mixture , showing 3 sharp endpoints .

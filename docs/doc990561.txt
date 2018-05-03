@@ -1,0 +1,10 @@
+ny in Massachusetts . Octocom had a V.34 modem in development which was expected to be ready for shi
+pment quickly . Almost all modem engineering activities at Telebit 's California offices ceased , th
+ough NetBlazer engineering continued to be based in California until the end of 1995 . The Telebit F
+astBlazer 8840 V.34 modem first introduced it did not include V.34 support , with management stating
+ that they could n't do so because the standard was not yet ratified . Although this was true ( for 
+one month anyway , it was ratified in June ) , the FastBlazer did not ship with an interim standard 
+either even AT&ampT 's largely ignored 19,200 bit/s V.32terbo would only be available as a post-rele
+ase upgrade in July , there were no plans to support the widespread V.FC at all , and no date was se
+t for full V.34 support other than two or three months . Making matters worse , the FastBlazer did n
+'t include fax support . While Telebit stated that an upgrade to add this would be available , they 

@@ -1,0 +1,10 @@
+ns servers are open , standards-based computing systems that operate as a carrier-grade common platf
+orm for a wide range of communications applications and allow equipment providers to add value at ma
+ny levels of the system architecture . Based on industry-managed standards such as AdvancedTCA , Mic
+roTCA TM , Carrier Grade Linux and Service Availability TM Forum specifications , communications ser
+vers are the foundational platform upon which equipment providers build network infrastructure eleme
+nts for deployments such as IP Multimedia Subsystem ( IMS ) , IPTV and wireless broadband ( e.g. WiM
+AX ) . Support for communications servers as a category of server is developing rapidly throughout t
+he communications industry . Standards bodies , industry associations , vendor alliance programs , h
+ardware and software manufacturers , communications server vendors and users are all part of an incr
+easingly robust communications server ecosystem . Regardless of their specific , differentiated feat

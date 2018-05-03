@@ -1,0 +1,10 @@
+, the Curtin-Hammett principle , and the theory of microscopic reversibility are often applied to or
+ganic chemistry . Chemists have also used the principle of thermodynamic lawsThe study of chemical k
+inetics is used to determine the rate law for a reaction . The rate law provides a quantitative rela
+tionship between the rate of a chemical reaction and the concentrations or pressures of the chemical
+ species present . Rate laws must be determined by experimental measurement and generally can not be
+ elucidated from the chemical equation . The experimentally determined rate law refers to the stoich
+iometry of the transition state structure relative to the ground state structure . Determination of 
+the rate law was historically accomplished by monitoring the concentration of a reactant during a re
+action through gravimetric analysis , but today it is almost exclusively done through fast and unamb
+iguous spectroscopic techniques . In most cases , the determination of rate equations is simplified 

@@ -1,0 +1,10 @@
+. A Zernike velocity moment Amnmugamma is defined by : Amnmugamma = frac m + 1pi sumi=2images sumx=1
+ sumy=1 U ( i , mu , gamma ) Vmn ( r , theta ) Pixy where images is again the number of images in th
+e sequence , and Pixy is the intensity of the pixel at the point ( x , y ) on the unit disc mapped f
+rom image i . U ( i , mu , gamma ) introduces velocity into the equation in the same way as in the C
+artesian velocity moments and the Zernike moments equation above . Like the Cartesian velocity momen
+ts , Zernike velocity moments can be normalised by : overlineAmnmugamma = frac AmnmugammaA I where A
+ is the average area of the object , in pixels , and I is the number of images . As Zernike velocity
+ moments are based on the orthogonal Zernike moments , they produce less correlated and more compact
+ descriptions than Cartesian velocity moments . Zernike velocity moments also provide translation an
+d scale invariance ( even when the scale changes within the sequence ) .Comparison of methods Refere

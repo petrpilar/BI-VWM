@@ -1,0 +1,10 @@
+ bgcolor= lightblue 5 ! bgcolor= lightblue 6 ! bgcolor= lightblue 1 ! bgcolor= lightblue 3 ! bgcolor
+= lightblue 2 ! bgcolor= lightblue 4 ! bgcolor= lightblue 14 ! bgcolor= lightblue -10 ! bgcolor= lig
+htblue 4 ! bgcolor= lightblue Belgrano de Crdoba ! bgcolor= lightblue 3 ! bgcolor= lightblue 6 ! 3 !
+ bgcolor= lightblue 8 ! bgcolor= lightblue 14 ! bgcolor= lightblue -6Group Gborder= 2 cellpadding= 2
+ cellspacing= 0 style= margin : 0 background : f9f9f9 border : 1px aaa solid border-collapse : colla
+pse font-size : 85% ! Position ! Team ! Points ! Played ! Won ! Drawn ! Lost ! For ! Against ! Diffe
+rence ! bgcolor= lightgreen 1 ! bgcolor= lightgreen San Martn Tucumn ! bgcolor= lightgreen 8 ! bgcol
+or= lightgreen 6 ! bgcolor= lightgreen 3 ! bgcolor= lightgreen 2 ! bgcolor= lightgreen 1 ! bgcolor= 
+lightgreen 12 ! bgcolor= lightgreen 4 ! bgcolor= lightgreen 8 ! bgcolor= lightgreen 2 ! bgcolor= lig
+htgreen Vlez Srsfield ! bgcolor= lightgreen 8 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 2 ! bgco

@@ -1,0 +1,10 @@
+r ! bgcolor= DDDDFF width= 9% G ! bgcolor= DDDDFF width= 9% AB ! bgcolor= DDDDFF width= 9% H ! bgcol
+or= DDDDFF width= 9% Avg. ! bgcolor= DDDDFF width= 9% HR ! bgcolor= DDDDFF width= 9% RBIPitchingStar
+ting pitchersNote : G = Games pitched IP = Innings pitched W = Wins L = Losses ERA = Earned run aver
+age SO = Strikeoutsborder= 1 cellpadding= 2 cellspacing= 0 class= wikitable sortable ! bgcolor= DDDD
+FF width= 16% Player ! bgcolor= DDDDFF width= 9% G ! bgcolor= DDDDFF width= 9% IP ! bgcolor= DDDDFF 
+width= 9% W ! bgcolor= DDDDFF width= 9% L ! bgcolor= DDDDFF width= 9% ERA ! bgcolor= DDDDFF width= 9
+% SO Other pitchersNote : G = Games pitched IP = Innings pitched W = Wins L = Losses ERA = Earned ru
+n average SO class= wikitable sortable ! bgcolor= DDDDFF width= 16% Player ! bgcolor= DDDDFF width= 
+9% G ! bgcolor= DDDDFF width= 9% IP ! bgcolor= DDDDFF width= 9% W ! bgcolor= DDDDFF width= 9% L ! bg
+color= DDDDFF width= 9% ERA ! bgcolor= DDDDFF width= 9% SO Relief pitchersNote : G = Games pitched W

@@ -1,0 +1,10 @@
+wn as Windows Live Profile ) is the website for Windows Live users to manage their profile informati
+on . It is a profile feature which displays information about the particular user , their recent act
+ivities , and their relationship with other Windows Live users . The profile is associated with a us
+er 's Microsoft account . It also provides the ability to connect with other social networks such as
+ Facebook , MySpace , and LinkedIn.FeaturesFeatures of Windows Live Profile include : display and sh
+are a user 's profile information , including their personal information such as interests and hobbi
+es , and social information such as their favorties quote , hometown , or places lived previously di
+splay information from the Messenger social feed which shows a list of recent activities the particu
+lar user had made on other Windows Live services allow users to comment on another user 's Messenger
+ social updates modify the user profile 's privacy settings and what information to share or not sha

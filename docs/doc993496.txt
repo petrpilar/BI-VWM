@@ -1,0 +1,10 @@
+ based on the Metonic cycle like they did later ) , but started a new month based on observations of
+ the New Moon . This made it very tedious to compute the time interval between events . What Hipparc
+hus may have done is transform these records to the Egyptian calendar , which uses a fixed year of a
+lways 365 days ( consisting of 12 months of 30 days and 5 extra days ) : this makes computing time i
+ntervals much easier . Ptolemy dated all observations in this calendar . He also writes that All tha
+t he ( =Hipparchus ) did was to make a compilation of the planetary observations arranged in a more 
+useful way (AlmagestIX.2 ) . Pliny states (Naturalis HistoriaII.IX(53) on eclipse predictions : Afte
+r their time ( =Thales ) the courses of both stars ( =Sun and Moon ) for 600 years were prophesied b
+y Hipparchus , .. . period of 600 years , but considering the enormous amount of computation require
+d , this is very unlikely . Rather , Hipparchus would have made a list of all eclipses from Nabonass

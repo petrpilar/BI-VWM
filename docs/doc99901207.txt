@@ -1,0 +1,10 @@
+n performance , which typically deals with increasing strength or endurance ( see powered exoskeleto
+ns ) Long-term assistance , which aims to provide impaired individuals with the ability to walk by t
+hemselves while wearing an exoskeleton Study of human locomotion , which utilizes robotic exoskeleto
+ns to better understand human neuromuscular control , energetics , and/or kinematics of locomotion P
+ost-injury rehabilitation , which is intended to help an individual recover from an injury ( such as
+ disabilities ) by wearing an exoskeleton for a short time during training in order to perform bette
+r later without the use of the exoskeleton Robotic lower limb exoskeletons can be controlled by seve
+ral methods , including a footswitch ( a pressure sensor attached to the bottom of the foot ) , gait
+ phase estimation ( using joint angles to determine the current phase of walking ) , and myoelectric
+ control ( using electromyography ) . This article focuses on myoelectric control .Control MethodsSe

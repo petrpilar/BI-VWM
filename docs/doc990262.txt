@@ -1,0 +1,10 @@
+y into work , is higher for heavier gases , and as such , the heavier gases are much more efficient 
+than the lighter ones . Helium and neon are far too light to produce an efficient flash . Krypton ca
+n be as good as 40% efficient , but requires up to a 70% increase in pressure to achieve this . Argo
+n can be up to 30% efficient , but requires an even voltage drop between the electrodes , formed by 
+the spark streamer , may be greater than the capacitor voltage . These lamps often need a boost volt
+age during the trigger phase , to overcome the extremely high trigger impedance . Nitrogen , in the 
+form of air , has been used in flashtubes in home made dye lasers , but the nitrogen and oxygen pres
+ent form chemical reactions with the electrodes , and themselves , causing premature wear and the ne
+ed to adjust the pressure for each flash . Some research has been done on mixing gases to alter the 
+spectral output . The effect on the output spectrum is negligible , but the effect on efficiency is 

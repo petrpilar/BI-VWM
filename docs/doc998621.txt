@@ -1,0 +1,10 @@
+. In 1988 , the company released its first version of Design-Expert software , which provided the to
+ols for response surface methods ( RSM ) for process optimization . This package complemented Design
+-Ease , which handled factorial designs , and also provided statistical tools for optimizing mixture
+s in added the features of Design-Ease into Design-Expert version 5 and translated it from DOS to Wi
+ndows . Both packages are still marketed today . In 1996 ,ForbesMagazine said the new mantra for pro
+cess improvement is multivariate testing ( MVT ) and added : A Minneapolis software firm , Stat-Ease
+ , sells most of the software these MVT types use . Felix Grant , reviewing Design-Expert version 7.
+1.3 inScientific Computing Magazinesaid : In a mature , well-established product which dominates its
+ market , upgrades should be expected to reflect developing practice and display evolutionary growth
+ rather than piling on attention-seeking gimmicks and so it is here ... Core functions have been ext

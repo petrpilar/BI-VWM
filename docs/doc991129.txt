@@ -1,0 +1,10 @@
+ssenger RNA by leaky translation at an in frame AUG at codon 30 : glycophorin D = glycophorin C resi
+dues 30 to 128 . This leaky translation appears to be a uniquely human trait . Glycophorin C ( GPC )
+ is a single polypeptide chain of 128 amino acids and is encoded by a gene on the long arm of chromo
+some 2 ( 2q14-q21 ) . The gene was first cloned in 1989 by Highet al .. The GPC gene is organized in
+ four exons distributed over 13.5 kilobase pairs of DNA . Exon 1 encodes residues 1-16 , exon 2 resi
+dues 17-35 , exon 3 residues 36-63 and highly homologous , with less than 5% nucleotide divergence .
+ These exons also differ by a 9 amino acid insert at the 3 ' end of exon 3 . The direct repeated seg
+ments containing these exons is 3.4 kilobase pairs long and may be derived from a recent duplication
+ of a single ancestral domain . Exons 1 , 2 and most of exon 3 encode the N-terminal extracellular d
+omain while the remainder of exon 3 and exon 4 encode transmembrane and cytoplasmic domains . Two is

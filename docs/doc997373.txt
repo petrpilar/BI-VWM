@@ -1,0 +1,10 @@
+htarrowab + overrightarrowbc = overrightarrowac . Definition : Two bipoints ( a , b ) and ( c , d ) 
+of ExE are equipollent if overrightarrowab = overrightarrowcd , when K=R ( or K is a field of charac
+teristic different from 2 ) then ( a , b ) and ( c , d ) are equipollent if and only if ( a , d ) an
+d ( b , c ) have the same midpoint . The concept of equipollence of bipoints can be also defined axi
+omatically. LIFT Productions ( an acronym for Louisiana Institute of Film Technology ) was the first
+ concerted private sector effort to combat Runaway production of film and television from the United
+ States . In the 1990s the U.S. market lost over 100,000 production-related jobs , as motion picture
+ and television programming increasingly became manufactured offshore . The outflow of work was in l
+arge part due to lucrative incentives offered by Canada , its provinces , and European Union members
+ . In 2002 , at the urging of LIFT founders Malcolm Petal and John J Anderson , Louisiana passed a f

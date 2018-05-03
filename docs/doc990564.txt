@@ -1,0 +1,10 @@
+t serial card for PCs . Digi was primarily interested in Telebit 's ISDN product family and eventual
+ly other product inventory was liquidated in March 1999.LegacyWhile the Trailblazers have generally 
+been displaced by modems implementing the higher-rate V.34/V.90 series standards , and although they
+ have been out of production since the mid-1990s , many TrailBlazers continue to be in operation to 
+this date , and repair services are still available . Orthogonal frequency-division multiplexing ( O
+FDM ) , which is used in both the ITU Asymmetric Digital Subscriber Line ( ADSL ) and IEEE 802.11 Wi
+reless LAN standards , . In particular , these protocols reuse PEP 's concept of carrying a single d
+ata link over many lower rate frequency-division multiplexing sub-carriers . In 1995 , a Silicon Val
+ley engineer sent a Worldblazer to an NGO in Somalia , which promptly put it to work connecting that
+ remote country to the Internet , at first by UUCP , then by other means .ModelsIn the Roman Catholi

@@ -1,0 +1,10 @@
+the sharpness of the endpoint is dependent on the magnitude of the enthalpy change . If it is unfavo
+urable , the endpoint will be rounded regardless of the magnitude of the enthalpy change . Reactions
+ where non-stoichiometric equilibria are evident can be used to obtain satisfactory results using a 
+thermometric titration approach . If the portions of the titration curve both prior to and after the
+ endpoint are reasonably linear , then the intersection of tangents to these lines will accurately l
+ocate the endpoint . This is illustrated in Figure 2 . Consider the reaction for the equationaA +bno
+n-stoichiometric at equilibrium . Let A represent the titrant , and B the titrand . At the beginning
+ of the titration , the titrand B is strongly in excess , and the reaction is pushed towards complet
+ion . Under these conditions , for a constant rate of titrant addition the temperature increase is c
+onstant and the curve is essentially linear until the endpoint is approached . In a similar manner ,

@@ -1,0 +1,10 @@
+0 DrugBank = ChemSpiderID = 59144 UNII = 1199LEX5N8 KEGG = D07247 StdInChI = 48257028TOOLONG ( 4-3-9
+ ) 42257078TOOLONG , ( H , 17,19 ) ( H , 18,20 ) /b15-5+,16-6+ StdInChIKey = 27257122TOOLONG Terizid
+one is a drug used in the treatment of tuberculosis . birthplace = Roselle Park , New Jersey deathpl
+ace = Belchertown , Massachusetts Gregory Joseph Gillespie ( November 29 , 1936 April 26 , 2000 ) wa
+s an American magic realist painter .Life and careerHe was born in Roselle Park , New Jersey . After
+ graduating from high school , he became a nondegree student at Cooper Union in New York . In 1959 h
+e married Frances Cohen ( 19391998 ) , who was also an artist , and the following year they moved to
+ San Francisco where Gillespie studied at the San Francisco Art Institute . In 1962 he received the 
+first of two Fulbright-Hays grants , for travel to Italy to study the work of Masaccio . He lived an
+d worked in Florence for two years , and in Rome for six years , studying the works of such Renaissa

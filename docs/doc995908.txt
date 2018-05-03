@@ -1,0 +1,10 @@
+1 ! bgcolor= lightgreen 2 ! bgcolor= lightgreen 11 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 5 !
+ bgcolor= lightgreen 2 ! bgcolor= lightgreen Talleres de Crdoba ! bgcolor= lightgreen 7 ! bgcolor= l
+ightgreen 6 ! bgcolor= lightgreen 3 ! bgcolor= lightgreen 1 ! bgcolor= lightgreen 2 ! bgcolor= light
+green 6 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 0 ! bgcolor= lightblue 3 ! bgcolor= lightblue 
+Guaran Antonio Franco ! bgcolor= lightblue 7 ! bgcolor= lightblue 6 ! bgcolor= lightblue 3 ! bgcolor
+= lightblue 1 ! bgcolor= lightblue 2 ! bgcolor= lightblue 6 ! bgcolor= lightblue 8 ! bgcolor= lightb
+lue -2 ! bgcolor= lightblue 4 ! bgcolor= lightblue Huracn ! bgcolor= lightblue 3 ! bgcolor= lightblu
+e 6 ! bgcolor= lightblue 0 ! bgcolor= lightblue 3 ! bgcolor= lightblue 3 ! bgcolor= lightblue 7 ! bg
+color= lightblue 10 ! bgcolor= lightblue -3Group Dborder= 2 cellpadding= 2 cellspacing= 0 style= mar
+gin : 0 background : f9f9f9 border : 1px aaa solid border-collapse : collapse font-size : ! Won ! Dr

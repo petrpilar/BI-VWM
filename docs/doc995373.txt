@@ -1,0 +1,10 @@
+e , phosphorus , boron , and a host of other elements . In addition to simple absorption experiments
+ , it is also possible to determine the rate of fast atom exchange reactions through suppression exc
+hange measurements , interatomic distances through multidimensional nuclear overhauser effect experi
+ments , and through-bond spin-spin coupling through homonuclear correlation spectroscopy . In additi
+on to the spin excitation properties of nuclei , it is also possible to study the properties of orga
+nic radicals through the same fundamental technique . Unpaired electrons also have a net spin , and 
+an external magnetic field allows for the extraction of similar information through electron paramag
+netic resonance ( EPR ) spectroscopy.Vibrational spectroscopyVibrational spectroscopy , or infrared 
+( IR ) spectroscopy , allows for the identification of functional groups and , due to its low expens
+e and robustness , is often used in teaching labs and the real-time monitoring of reaction progress 

@@ -1,0 +1,10 @@
+roaching 4000 A/cm 2 , tend to favor black-body radiation . As current densities become even higher 
+, xenon 's output spectrum will begin to settle on that of a blackbody radiator with a color tempera
+ture of 9800 kelvins ( a rather sky-blue shade of white ) . Blackbody radiation from within the arc 
+can be absorbed before reaching the surface , impairing output efficiency . Due to its high efficien
+t white output , xenon is used extensively for photographic applications , despite its great expense
+ . In lasers , spectral line emission is usually favored , as these lines tend to better match absor
+ption lines of the lasing media . Krypton is also occasionally used , although it is even more expen
+sive . At low current densities , krypton 's spectral line output in the near-IR range is better mat
+ched to the absorption profile of neodymium based laser media than xenon emission , and very closely
+ matches the narrow absorption profile of Nd:YAG.Krypton and other gasesAll gases produce spectral l

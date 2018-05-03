@@ -1,0 +1,10 @@
+the air to become ionised even at fairly low altitudes . At these low altitudes , the density of the
+ air is great and thus the electron density of ionised air is very large . Due to this heavy ionisat
+ion , there is strong absorption of electromagnetic waves caused by electron friction . Thus in tran
+smissions over any distance , there will be no reflections as any waves apart from the one at ground
+ level will be absorbed rather than reflected . However , when the sun sets , the molecules slowly s
+tart to recombine with their electrons and the free electron density levels drop . This means absorp
+tion rates diminish and waves can be reflected with sufficient strengths to be noticed , leading int
+erference patterns to occur though , there must not simply be the presence of a reflected wave but a
+ change in the reflected wave . Otherwise the interference is constant and fadings would not be hear
+d . The received signal would simply be louder or softer than during the day . This suggests the hei

@@ -1,0 +1,10 @@
+1 ! bgcolor= lightblue 3 ! bgcolor= lightblue Racing de Crdoba ! bgcolor= lightblue 5 ! bgcolor= lig
+htblue 6 ! bgcolor= lightblue 2 ! bgcolor= lightblue 1 ! bgcolor= lightblue 3 ! bgcolor= lightblue 5
+ ! bgcolor= lightblue 8 ! bgcolor= lightblue -3 ! bgcolor= lightblue 4 ! bgcolor= lightblue Platense
+ ! bgcolor= lightblue 5 ! bgcolor= lightblue 6 ! bgcolor= lightblue 2 ! bgcolor= lightblue 1 ! bgcol
+or= lightblue 3 ! bgcolor= lightblue 5 ! bgcolor= lightblue 9 ! bgcolor= lightblue -4Group Bborder= 
+2 cellpadding= 2 cellspacing= 0 style= margin : 0 background : f9f9f9 border : 1px aaa solid border-
+collapse : collapse font-size : 85% ! Position ! Team ! Points ! Played ! Won ! Drawn ! Lost ! For !
+ Against ! Difference ! bgcolor= lightgreen 1 ! bgcolor= lightgreen Boca Juniors ! bgcolor= ! bgcolo
+r= lightgreen 2 ! bgcolor= lightgreen 1 ! bgcolor= lightgreen 13 ! bgcolor= lightgreen 6 ! bgcolor= 
+lightgreen 7 ! bgcolor= lightgreen 2 ! bgcolor= lightgreen Estudiantes Ro Cuarto ! bgcolor= lightgre

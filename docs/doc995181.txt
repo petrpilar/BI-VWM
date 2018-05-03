@@ -1,0 +1,10 @@
+ were the right one in the first place .Application firewallIn recent years commercial ADNs have beg
+un to include application firewall functionality to further secure applications during the delivery 
+process . This is a hotly debated subject with many security professionals arguing that the function
+ality included in an application firewall are unnecessary and should be handled by the application w
+hile others consider employing as much security as possible , regardless of position in the delivery
+ network , to be the best practice . Many commercial ADN companies have acquired and integrated thes
+e functions and present such features as part of a defense in depth strategy often cited by security
+ professionals .Network layer securityThe ADN is most often deployed in the DMZ at the edge of the n
+etwork . This results in exposure to potential network layer attacks including Denial of Service ( D
+oS , the ADN must necessarily protect not only itself but the applications it is delivering from suc

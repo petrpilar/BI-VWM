@@ -1,0 +1,10 @@
+re than 2 quanta to finish ( this is the reason process the opportunity to finish within this newly 
+designated time . If the process does not finish after this , it is then preempted and moved to the 
+end of the background list . The advantage of the foreground-background algorithm is that it gives p
+rocess the opportunity to execute immediately after its creation , but scheduling in the background 
+list is pure round-robin scheduling . Broadway Metrolink station is a tram stop on the Eccles Line o
+f Greater Manchester 's light rail Metrolink system . It opened to passengers on 12 June 1999 as par
+t of Phase 2 of the network 's expansion , and is located in the Salford Quays area of the City of S
+alford , in North West England .ServicesBroadway is located on the Eccles Line with trams towards Ma
+nchester Piccadilly or Eccles stopping every 12 minutes during the day Monday-Saturday . Trams run e
+very 12 minutes Monday-Saturday evenings and Sunday daytime and every 15 minutes Sunday evenings bet

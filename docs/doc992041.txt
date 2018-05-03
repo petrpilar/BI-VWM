@@ -1,0 +1,10 @@
+ll bouncing across the level , snowflakes falling from the sky , a series of radar masts interfering
+ with the controls , or teleports that send the player to a random location . The taxi also has a li
+mited fuel supply . The fuel level resets at the end of each level , but on some of the more complic
+ated screens it is necessary to refuel . This is accomplished by flying to a special platform marked
+ with an F and containing a gas pump . The player must pay for fuel out of the money he has earned .
+ Passengers do not make allowances for pitstops , and their tip will continue to decrease as the pla
+yer tanks up . The taxi 's fuel consumption is based upon the time are used , so if a player needs t
+o get from one side of the screen to the other , it consumes less fuel ( though is more dangerous ) 
+to accelerate halfway across the screen and then reverse thrust , than to use one small thrust to mo
+ve slowly across the screen and occasional upward thrusts to maintain altitude . After completing al

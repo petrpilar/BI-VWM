@@ -1,0 +1,10 @@
+rentials when considering virtual displacements and generalized forces . --Examples Double pendulumA
+ double pendulum constrained to move in a plane may be described by the four Cartesian coordinates 1
+ ,x 2 ,y 2 , but the system only has two degrees of freedom , and a more efficient system would be t
+o use : lbrace q1 , q2 rbrace = lbracetheta1 , theta2 rbrace , which are defined via the following r
+elations : : lbrace x1 , y1 rbrace = lbrace L1sintheta1 , L1costheta1 rbrace : lbrace x2 , y2 rbrace
+ = lbrace L1sintheta1+L2sintheta2 , L1costheta1+L2costheta2 rbrace Example : Bead on a wireA bead co
+nstrained to move on a wire has only one degree of freedom , and the generalized coordinate used to 
+describe its motion is often : q1= l , wherelis the distance along the wire from some reference poin
+t on the wire . Notice that a motion embedded in three dimensions has been reduced to only one dimen
+sion .Motion on a surfaceA point mass constrained to a surface has two degrees of freedom , even tho

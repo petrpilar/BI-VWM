@@ -1,0 +1,10 @@
+ These energy states are found to be quantised , meaning they can assume only some discrete values o
+f energy . When electromagnetic radiation is shined on a sample of a molecule , the molecules can ab
+sorb energy from the electromagnetic radiation and change their vibrational energy state . However ,
+ the molecules can absorb energy from radiation only in the electric dipole moment of the molecule w
+hen it is vibrating . This change in the electric dipole moment of the molecule leads to the transit
+ion dipole moment of the molecule , for transition from the lower to higher energy state , being non
+-zero which is an essential condition for any transition ( process , change ) to take place in the v
+ibrational state of the molecule , as is the law of nature , explained thoroughly in Quantum mechani
+cs . It has been found that , when the bonds are considered vibrating simple-harmonically , the tran
+sition dipole moment is non-zero only for the transition where v=1 . Hence for the ideal , non-exist

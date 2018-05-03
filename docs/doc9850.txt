@@ -1,0 +1,10 @@
+ side of the decimal point and to put the number of half bathrooms to the right of the decimal point
+ ( e.g. , 2.1 would mean 2 full baths and 1 half bath 3.2 would mean 3 full baths and 2 half baths )
+ .Design considerationsThe design of a bathroom must account for the use of both hot and cold water 
+, in significant quantities , for cleaning the human body . The water is also used for moving tank .
+ Water may be splashed on the walls and floor , and hot humid air may cause condensation on cold sur
+faces . From a decorating point of view the bathroom presents a challenge . Ceiling , wall and floor
+ materials and coverings should be impervious to water and readily and easily cleaned . The use of c
+eramic or glass , as well as smooth plastic materials , is common in bathrooms for their ease of cle
+aning . Such surfaces are often cold to the touch , however , and so water-resistant bath mats or ev
+en bathroom carpets may be used on the floor to make the room more comfortable . Alternatively , the

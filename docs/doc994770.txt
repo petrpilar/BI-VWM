@@ -1,0 +1,10 @@
+ds ( FFA ) in edible fats and oils . Automated potentiometric titration procedures have been granted
+ standard method status , for example by ASTM for TAN and AOAC for FFA . The methodology is similar 
+in both instances . The sample is dissolved in a suitable solvent mixture say a hydrocarbon and an a
+lcohol which also must intended to enhance the electrical conductivity of the solution . The trace a
+cids are titrated with standard base in an alcohol . The sample environment is essentially hostile t
+o the pH electrode used to sense the titration . The electrode must be taken out of service on a reg
+ular basis to rehydrate the glass sensing membrane , which is also in danger of fouling by the oily 
+sample solution . A recent thermometric titrimetric procedure for the determination of FFA developed
+ by Cameiroet al .( 2002 ) has been shown to be particularly amenable to automation . It is fast , h
+ighly precise , and results agree very well with those obtained by the official AOAC method . The te

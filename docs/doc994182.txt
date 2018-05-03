@@ -1,0 +1,10 @@
+40 start:0 PlotData= color:yellowgreen width:42 mark : ( line , white ) align:center bar:1531 from:s
+tart till:108 bar:1531 at:118 fontsize:S text : 27 Hearths shift : ( 7,5 ) bar:1750 from:start till:
+146 text : 146 bar:1850 from:start till:402 text : 402 bar:1860 from:start till:428 text : 428 bar:1
+870 from:start till:444 text : 444 bar:1880 from:start till:420 text : 420 bar:1888 from:start till:
+427 text : 427 bar:1900 from:start till:492 text : 492 bar:1910 from:start till:500 text : 500 bar:1
+920 from:start till:558 text : 558 bar:1930 from:start till:527 text : 527 bar:1941 from:start till:
+412 text : 412 bar:1950 from:start till:442 text : 442 bar:1960 from:start till:495 text : 495 bar:1
+970 from:start till:514 text : 514 bar:1980 from:start till:738 text : 738 bar:1990 from:start till:
+949PoliticsIn the 2007 federal election the most popular party was the SP which received 28.22% of t
+he vote . The next three most popular parties were the SVP ( 27.24% ) , the LPS Party ( 14.48% ) and

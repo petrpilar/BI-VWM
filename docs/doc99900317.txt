@@ -1,0 +1,10 @@
+paratusAll the tests were made in the Langley two-dimensional measures 3 x 7.5 feet , and the model 
+completely spanned the 3-foot dimension . Seals were installed between the ends of the model and the
+ tunnel walls to prevent air leakage .Test results DragThe reaction of the minimum drag coefficient 
+of smooth airfoils to increasing RN is attributed to the relative strengths of two interacting bound
+ary-layer changes . A thinning of the boundary layer with increasing RN gives a gradual decrease of 
+minimum drag . As the RN is increased beyond a certain value , however , the transition point begins
+ to move forward and the drag increases . The flow conditions of the thicker airfoils are more favor
+able for delaying the forward movement of transition . The addition of standard roughness to the NAC
+A 63-009 section causes a large increase in the minimum drag at all RN , but increasing the RN has a
+ favorable effect in reducing the drag . Increasing the RN from 9.0 to 15.0 million resulted in the 

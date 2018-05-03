@@ -1,0 +1,10 @@
+tries to generate while walking . Assistive exoskeletons produce some of the torque needed to move o
+ne or more leg joints while walking , which allows a healthy individual to generate less muscle torq
+ue in those joints and use less metabolic energy . The muscle torque is reduced enough to keep the w
+alking without an exoskeleton . The net torque about each joint is the muscular torque plus the actu
+ator torque . Disabled individuals do not see much of a decrease , if any , in muscular torque while
+ walking with an exoskeleton because their muscles are not strong enough to walk with a normal gait 
+, or at all the exoskeleton provides the remaining torque needed for them to walk .Examples Vanderbi
+lt exoskeleton ReWalk HAL 5 Ekso BionicsSee also Orthotics Neural control of limb stiffness Powered 
+exoskeleton ReferencesGKZ= DE/23728 HHENBEZUG-QUELLE= DE-NN The Erlenbach is a stream , over 9 km lo
+ng , in the South Palatine Wasgau region of the German state of Rhineland-Palatinate . It is a left 

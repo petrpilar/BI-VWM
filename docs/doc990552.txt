@@ -1,0 +1,10 @@
+ns in the 1980s and 1990s.StartupTelebit was founded by Paul Baran , one of the inventors of the pac
+ket switching networking concept . Baran had recently started a networking company known as Packet T
+echnologies on Bubb Road in Cupertino , California , which was working on systems for interactive te
+levision . While working there , he hit on the idea for a new way to implement high-speed modems , a
+nd started Telebit across the street . Packet Technologies was a major beta customer for Telebit in 
+late 1985 . Packet Technologies later failed , and several of their employees were folded into Teleb
+it , while most of the others formed StrataCom , makers of the first Asynchronous Transfer TrailBlaz
+ernegotiating and communicating In contrast to then-existing ITU Telecommunication Standardization S
+ector ( ITU-T ) V-series protocols , such as the common 2400 bit/s V.22bis , the TrailBlazers ' prop
+rietaryPacketized Ensemble Protocol( PEP ) modulation employed a large number ( initially up to 512 

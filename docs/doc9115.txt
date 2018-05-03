@@ -1,0 +1,10 @@
+ would be maximized rather than minimized ) . Tasks that fall within the paradigm of unsupervised le
+arning are in general estimation problems the applications include clustering , the estimation of st
+atistical distributions , compression and filtering .Reinforcement learningusually not given , but g
+enerated by an agent 's interactions with the environment . At each point in time scriptstyle t , th
+e agent performs an action scriptstyle yt and the environment generates an observation scriptstyle x
+t and an instantaneous cost scriptstyle ct , according to some ( usually unknown ) dynamics . The ai
+m is to discover apolicyfor selecting actions that minimizes some measure of a long-term cost i.e. ,
+ the expected cumulative cost . The environment 's dynamics and the long-term cost for each policy a
+re usually unknown , but can be estimated . More formally the environment is modelled as a Markov de
+cision process ( MDP ) with states scriptstyle s1 , ... , snin S and actions scriptstyle a1 , ... , 

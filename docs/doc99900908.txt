@@ -1,0 +1,10 @@
+Given the importance of reasoning about statistical inference and difficulties that students have wi
+th this type of reasoning , statistics educators and researchers have been exploring alternative app
+roaches towards teaching statistical inference . Recent research suggests that students have some so
+und intuitions about data and these intuitions can be refined and nudged towards prescriptive theory
+ of inferential reasoning . ) .Three essential characteristicsAccording to Statistical Reasoning , T
+hinking and Literacy forum , three essential principles to informal inference are :generalizations (
+ including predictions , parameter estimates , and conclusions ) that go beyond describing the given
+ data the use of data as evidence for those generalizations andconclusions that express a degree of 
+uncertainty , whether or not quantified , accounting for the variability or uncertainty that is unav
+oidable when generalizing beyond the immediate data to a population or a process .Core Statistical I

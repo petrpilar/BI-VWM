@@ -1,0 +1,10 @@
+tructure , then electron-donating groups would be expected to increase the rate of the reaction . Ot
+her LFRE scales have been developed . Steric and polar effects are analyzed through Taft Parameters 
+. Changing the solvent instead of the reactant can provide insight into changes in charge during the
+ reaction . The Grunwald-Winstein Plot provides quantitative insight into these effects .Solvent eff
+ectsSolvents can have a powerful effect on solubility , stability , and reaction rate . A change in 
+solvent can also allow a chemist to influence the thermodynamic or kinetic control of the reaction .
+ Reactions proceed at different rates in different solvents due to the change in charge distribution
+ during a chemical transformation transition state structures . A prime example of the effect of sol
+vent is the comparison of S N 1 and S N 2 reactions . Solvent can also have a significant effect on 
+the thermodynamic equilibrium of a system . A common example of this is keto-enol tautomerization . 

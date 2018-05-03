@@ -1,0 +1,10 @@
+d primary structural levels . Comparisons are restricted to that part of the sequence directly invol
+ved in the reaction , which in the case of a peptidase must include the active site , and for a prot
+ein inhibitor the reactive site . The classification is hierarchical : sequences are assembled into 
+families , and families are assembled into clans . A family is assembled around atype example, the s
+equence of a well-characterized peptidase or inhibitor . All other sequences in the family must be r
+elated to the family type example , either directly or through a transitive relationship involving o
+ne or more sequences already shown to be family members . Typically , FastA or BlastP are used to es
+tablish sequence relationships , with statistically significant . A clan is also assembled around a 
+type example , this being the structure of a well-characterized peptidase or inhibitor . A family is
+ included in a clan if the tertiary structure of a family member can be shown to be related to that 

@@ -1,0 +1,10 @@
+FO Moviez has MPEG-4 technology based Digital Cinema System , which allows films to get delivered to
+ the theatres through satellite transmission .UFO Ticketing Platform ( IMPACT )UFO launched a settle
+ment platform called IMPACT to bring transparency , efficiency and accountability in the Media and E
+ntertainment connected to the back-end via satellite . IMPACT exchange mediates the transaction betw
+een the exhibition centers on one hand , and the government and the distributors on the other hand .
+ In consideration , a commission fee is to be paid by the distributors , government and a small equi
+pment fee from the exhibitors . IMPACT supports multi-terminal , multi-user transactions with a user
+-friendly interface . It has a faster printing facility for tickets to reduce transaction time and c
+ustomized screen configuration of ticket sales for operational ease .UFO security solutions ( Waterm
+arking )UFO follows the concept of Invisible Watermarking . Each theatre-server displays a unique fi

@@ -1,0 +1,10 @@
+A of matrices can be simultaneously triangularized , i.e. there exists a unitary matrixQsuch that , 
+for everyA i in the given family ,Q A i Qis upper triangular . This can be readily deduced from the 
+above proof . Take elementAfromA i and again consider an eigenspaceV A . ThenV A is invariant under 
+all matrices inA i . Therefore all matrices inA i must share one common eigenvector inV A . Inductio
+n then proves the claim . As a corollary , we have that every commuting family of normal matrices ca
+n be simultaneously diagonalized . In the infinite dimensional setting , not every bounded operator 
+on a Banach space has an invariant subspace . However , the upper-triangularization of an arbitrary 
+operator on a complex Banach space has a nest of closed invariant subspaces.ComputationSchur decompo
+sition of a given matrix is known to be numerically computed by QR algorithm or its variants . In ot
+her words , the roots of the characteristic polynomial corresponding to the matrix are not necessari

@@ -1,0 +1,10 @@
+from CPRD . At its launch in April 2012 , CPRD was established as the new , England-wide NHS observa
+tional and interventional research service . It has built on the research developments of ( HRSS ) p
+reviously managed by the NIHR Research Capability Program . The GPRD was a large primary care databa
+se , containing anonymised primary care data and links to a number of NHS and other data sources . T
+he GPRD specialised in providing anonymised data and research service capabilities to a variety of m
+edical and public health studies . The HRSS was a pilot service to demonstrate the feasibility of re
+search using a range of health-care information . The HRSS used its analyses and expertise linking l
+arge sets of anonymised data for research studies .Work of the CPRDThe CPRD builds on its predecesso
+rs ' capabilities and aims to provide a range of services and products in the areas of medical resea
+rch and public health care . Fundamental to the work of the CPRD is the collection and linkage of an

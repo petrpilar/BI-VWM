@@ -1,0 +1,10 @@
+commune in Timi County , Romania . It is composed of three villages : Snmihaiu German , Snmihaiu Rom
+n and Utvin.DemographicsOf the 4389 inhabitants in 2002 , 4117 Romanians , 131 Hungarians , 66 Germa
+ns , 43 Roma and 32 other ethnic groups . The figure below shows the evolution of the population sin
+ce 1880. class= toccolours style= margin-right : 1em font-size : 85% ! colspan= 9 style= background 
+: badbad Development of the population ImageSize = width:450 height:200 PlotArea = left:40 right:10 
+top:10 bottom:20 TimeAxis = orientation:horizontal AlignBars = justify Colors = id:gray1 value:gray(
+0.9) DateFormat = yyyy Period = from:1880 till:2010 ScaleMajor = unit:year increment:10 start:1880 P
+lotData = bar:7500 color:gray1 width:1 from:start till:end bar:5000 color:gray1 from:start till:end 
+bar:2500 color:gray1 from:start till:end bar:0 color:gray1 LineData = layer:front points : ( 40,118 
+) ( 70,128 ) color:blue width:2 1880 tot 1890 points : ( 70,128 ) ( 100,134 ) color:blue width:2 190

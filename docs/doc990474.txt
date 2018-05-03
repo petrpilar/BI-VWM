@@ -1,0 +1,10 @@
+heta1 = -(m1+m2)gL1sintheta1 , quad Ftheta2 = -m2gL2sintheta2. Kinetic energyCompute the kinetic ene
+rgy of this system to be : T= frac12m1 mathbfv1cdotmathbfv1 + frac12m2 mathbfv2cdotmathbfv2 = 261003
+TOOLONG + frac12m2L22dottheta22 + m2L1L2 361031TOOLONG equations in the unknown generalized coordina
+tes i i=1 , 2 , given by : ( m1+m2 ) 481069TOOLONG + 351119TOOLONG = -(m1+m2)gL1sintheta1 , and : 50
+1156TOOLONG + 511208TOOLONG . The use of the generalized coordinates i i=1 , 2 provides an alternati
+ve to the Cartesian formulation of the dynamics of the double pendulum . Constraints on the velocity
+ system with m degrees of freedom ( physics and chemistry ) : mathbfr1=mathbfr1 ( q1 , q2 , ... , qm
+ , t ) , : mathbfr2=mathbfr2 ( q1 , q2 , ... , qm , t ) , ... : mathbfrn=mathbfrn ( q1 , q2 , ... , 
+qm , t ) . This transformation affords the flexibility in dealing with complex systems to use the mo
+st convenient and not necessarily inertial coordinates . These equations are used to construct diffe

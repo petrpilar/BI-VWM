@@ -1,0 +1,10 @@
+ upon the aerodynamic characteristics of a number of NACA 6-series airfoil sections was published by
+ the United States National Advisory Committee for Aeronautics in 1950 . It contained a series of gr
+aphs showing the resulting lift and drag of several NACA 6-series airfoil sections from tests perfor
+med in a variable-density wind tunnel , in which the Reynolds number ( RN ) was set at three differe
+nt values .SummaryResults are presented of an investigation made to determine the two-dimensional li
+ft and drag characteristics of nine NACA 6-series airfoil sections at RN of 15.0 , 20.0 , and 25.0 m
+illion . Also presented are data from NACA Rep. 824 for the same airfoils at RN of 3.0 , 6.0 , and 9
+.0 million . The airfoils selected represent sections having variations in the airfoil thickness , t
+hickness form , and camber . The characteristics of an airfoil with a split flap were determined in 
+one instance , as was the flow behavior are advanced for the observed types of scale effect .Introdu

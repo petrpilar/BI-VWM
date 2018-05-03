@@ -1,0 +1,10 @@
+. Therefore , because the trigger-transformer has very low impedance , the transformer , triggering 
+circuit , and silicon controlled rectifier ( SCR ) must be able to handle very high peak currents , 
+often in excess of 1500 amps.Simmer voltage triggeringSimmer voltage triggering is the least common 
+method . In this technique , the capacitor voltage is not initially applied to the electrodes , but 
+instead , a high voltage spark streamer is maintained between the electrodes . The high current from
+ the capacitor is delivered to the electrodes using a thyristor or a spark gap . This type of trigge
+ring is used mainly in very fast rise time systems , typically those that discharge in the microseco
+nd regime , such as used in high speed stop-motion photography or dye lasers . The simmering spark s
+treamer causes the arc to develop in the exact center of the lamp , increasing the lifetime dramatic
+ally . If external triggering is used , the spark streamers may still be in through the tube , causi

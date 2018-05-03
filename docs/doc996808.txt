@@ -1,0 +1,10 @@
+ border-collapse:collapse font-size:90% text-align:center cellpadding=3 cellspacing=0 width=100% ! r
+owspan=2 width=25%Home ! rowspan=2 width=6%Score ! rowspan=2 width=25%Away ! colspan=6Match Informat
+ion ! width=22%Date ! width=22%VenueFinalborder=1 style= border-collapse:collapse font-size:90% text
+-align:center cellpadding=3 cellspacing=0 width=100% ! rowspan=2 width=25%Home ! rowspan=2 width=6%S
+core ! rowspan=2 width=25%Away ! colspan=6Match Information ! width=22%Date ! width=22%VenueStatisti
+csSo far this season there have been 1559 points scored over 36 games with an average of 43.3 points
+ per game , there have also been 167 tries scored . North Otago has scored the most points this seas
+on with 206 points , they have also , along with Wanganui , have scored the most tries with 29 while
+ Wairarapa Bush have given up the least points so far with 84. class= 4 ! colspan= 4 style= font-siz
+e : medium 2009 Heartland Championship StatisticsPointsThe table showing how many points scored by e

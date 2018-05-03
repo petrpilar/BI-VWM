@@ -1,0 +1,10 @@
+Titration of complex alkaline solutionsThe thermometric in the production of alumina from bauxite is
+ accomplished in an automated two titration sequence . This is an adaptation of a classic thermometr
+ic titration application ( VanDalen and Ward , 1973 ) . In the first titration , tartrate solution i
+s added to an aliquot of liquor to complex aluminate , releasing one mole of hydroxyl for each mole 
+of aluminate present . This is titrated acidimetrically along with free hydroxyl present and the car
+bonate content ( as a second endpoint ) . The second titration is preceded by the automatic addition
+ of fluoride solution . The alumina-tartrate complex is broken in favour of the formation of an alum
+inium fluoride complex and the concomitant release of three moles of hydroxyl for each mole of alumi
+nium present , which are then titrated acidimetrically . The whole determination can be completed in
+ less than 5 minutes .Non-aqueous acid-base titrationsNon-aqueous acid-base titrations can be carrie

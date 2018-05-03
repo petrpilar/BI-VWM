@@ -1,0 +1,10 @@
+padding= 3 border= 1 ! bgcolor= DDDDDD colspan= 4 Los Angeles ! HomeConference semifinalscellspacing
+= 10 cellpadding= 3 border= 1 ! bgcolor= DDDDDD colspan= 4 Ottawa vs . Washington ! Date ! ! Away ! 
+! Home cellpadding= 3 border= 1 ! bgcolor= DDDDDD colspan= 4 Montreal vs . Buffalo ! Date ! ! Away !
+ ! Home cellspacing= 10 cellpadding= 3 border= 1 ! bgcolor= DDDDDD colspan= 4 Edmonton vs . Dallas !
+ Date ! ! Away ! ! Home cellpadding= 3 border= 1 ! bgcolor= DDDDDD colspan= 4 St. Louis vs . Detroit
+ ! Date ! ! Away ! ! HomeConference finalscellspacing= 10 cellpadding= 3 border= 1 ! bgcolor= DDDDDD
+ colspan= 4 Buffalo vs . Washington ! Date ! ! Away ! ! Home cellpadding= 3 border= 1 ! bgcolor= DDD
+DDD colspan= 4 Detroit vs . Dallas ! Date ! ! Away ! ! HomeStanley Cup finalThe 1998 Stanley Cup Fin
+als were played in the 105th year of the Stanley Cup . The series was played between the Western Con
+ference champion Detroit Red Wings and the Eastern Conference champion Washington Capitals . The Red

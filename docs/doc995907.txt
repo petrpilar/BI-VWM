@@ -1,0 +1,10 @@
+en 7 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 3 ! bgcolor= lightgreen 1 ! bgcolor= lightgreen 2
+ ! bgcolor= lightgreen 12 ! bgcolor= lightgreen 12 ! bgcolor= lightgreen 0 ! bgcolor= lightblue 3 ! 
+bgcolor= lightblue Temperley ! bgcolor= lightblue 5 ! bgcolor= lightblue 6 ! bgcolor= lightblue 2 ! 
+bgcolor= lightblue 1 ! bgcolor= lightblue 3 ! bgcolor= lightblue 8 ! bgcolor= lightblue 11 ! bgcolor
+= lightblue -3 ! bgcolor= lightblue 4 ! bgcolor= lightblue Altos Hornos Zapla ! bgcolor= lightblue 4
+ ! bgcolor= lightblue 6 ! bgcolor= lightblue 2 ! bgcolor= lightblue 0 ! bgcolor= lightblue 4 ! bgcol
+or= lightblue 5 ! bgcolor= lightblue 9 ! bgcolor= lightblue -4Group Cborder= 2 cellpadding= 2 cellsp
+acing= 0 style= margin : 0 background : f9f9f9 border : 1px aaa solid border-collapse : collapse fon
+t-size : 85% ! Position ! Team ! Points ! Played ! Won ! Drawn ! Lost ! bgcolor= lightgreen Independ
+iente ! bgcolor= lightgreen 7 ! bgcolor= lightgreen 6 ! bgcolor= lightgreen 3 ! bgcolor= lightgreen 

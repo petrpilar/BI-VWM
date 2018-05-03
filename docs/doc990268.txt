@@ -1,0 +1,10 @@
+parate mechanisms : energy and heat . When too much energy is used for the pulse duration , structur
+al failure of the glass envelope can occur . Flashtubes produce an electrical arc flash contained in
+ a glass tube . As the arc develops a supersonic shock-wave forms , traveling radially from the cent
+er of the arc and impacting the inner wall of the tube . If the energy level is low enough , a soft 
+tap against the glass is all that will be heard . However , if the energy level used equals the expl
+osion energy rating of the lamp , the impacting shock wave will fracture the glass , rupturing the t
+ube . The resulting explosion creates a loud , sonic shock-wave , and may throw shattered glass seve
+ral feet . The explosion energy is calculated by multiplying the internal surface-area of the lamp t
+he glass . Power loading is determined by the type and thickness of the glass , and the cooling meth
+od that is used . Power loading is measured in watts per centimeter squared . However , since the pu

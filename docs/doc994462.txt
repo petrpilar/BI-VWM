@@ -1,0 +1,10 @@
+ the case in the neurons expressing the peptide . As a result , these cells have minimal dendritic a
+rbors . This is because without AMPA receptors , the neuron ca n't cause neighboring neurons to fire
+ action potentials , therefore disallowing their synapses to strengthen . As described previously , 
+the pattern of dendritic branching depends on the initial contact of filopodia with afferent axons .
+ The hypothesis predicts that regions with numerous prospective presynaptic terminals will attract m
+ore growing dendrites . Researchers have used the developing mouse spinal cord to test this hypothes
+is . A computer-assisted three-dimensional reconstruction system has been used with Golgi 's method 
+preparations of mouse spinal cords . The relative dendritic lengths and densities at various zones i
+n the spinal cord indicate that dendritic growth is initially primarily towards the marginal zone th
+is biased distribution is lost as synapses form in the intermediate zone . This study is consistent 

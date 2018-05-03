@@ -1,0 +1,10 @@
+er 4X for the evolutionary approach . Computer manufacturers found address multiplexing to be a comp
+elling feature as they saw a future 64Kb DRAM chip would save 8 pins if implemented with address mul
+tiplexing and subsequent generations even more integrated circuits , plus the multiplexed approach u
+sed less silicon area , which further reduces chip cost . The MK4096 was produced using an NMOS alum
+inum-gate process with an added interconnect layer of polysilicon ( dubbed the SPIN process ) The fe
+ar , uncertainty and doubt put up by the competition regarding address multiplexing was dispelled by
+ the actual performance of the MK4096 which proved solid and robust in all types of computer memory 
+designs . In 1976 Mostek introduced the silicon-gate MK4027 ( an improved version of the metal-gated
+ MK4096 ) , and the new MK4116 16kb double-poly silicon-gate DRAM . They were designed by Paul Schro
+eder , who later left Mostek to co-found Inmos . From this point until the late 1970s Mostek was a c

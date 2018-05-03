@@ -1,0 +1,10 @@
+ ( -8,5 ) bar:1981 at:1571 fontsize:XS text : 1571 shift : ( -8,5 ) bar:1991 at:1393 fontsize:XS tex
+t : 1393 shift : ( -8,5 ) bar:2001 bar:2011 at:1395 fontsize:XS text : 1395 shift : ( -8,5 ) TextDat
+a= fontsize:S pos : ( 20,20 ) text:Data from ISTAT Name = Sattler&amp39 s layer Latin = lamina vascu
+losa GraySubject = GrayPage = Image = Caption = Image2 = Caption2 = System = Precursor = MeshName = 
+MeshNumber = DorlandsPre = l05 DorlandsSuf = 12481039 Sattler 's layer is a layer of medium-diameter
+ blood vessels of the choroid , a layer of the eye . owner = PJ Droulliard , Courtney Doron , David 
+Ryan The South Muskoka Shield are a Canadian Junior ice hockey team based in Gravenhurst , Ontario .
+ They are members of the Greater Metro Junior A Hockey League .HistoryThe Shield are a community-bas
+ed team with a number of corporate sponsors helping the team to be a viable club . Based on the atte
+ndance at the home opener and since , this club has been successful from a fan support standpoint . 

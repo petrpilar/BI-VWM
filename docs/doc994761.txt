@@ -1,0 +1,10 @@
+ Prior to filter ) the temperature curve in order to obtain sharp , symmetrical second derivative pe
+aks which will accurately locate the correct inflection point . This is illustrated in Figure 5 . Th
+e degree of digital smoothing is optimized for each determination , and is stored as a method parame
+ter for application every time a titration for that particular analysis is run . Because enthalpy ch
+ange is a universal characteristic of chemical reactions , thermometric endpoint sensing can be appl
+ied to a wide range of titration types , e.g. Acid/base Redox Complexometric ( EDTA ) and Precipitat
+ion Further , since the sensor is not required to interact with the titration solution electrochemic
+ally , titrations in non-conducting media can be performed , as can titrations using reactions for w
+hich no convenient or cost-effective potentiometric sensor is available . Thermometric titrations ge
+nerally demand rapid reaction kinetics in order to obtain sharp reproducible endpoints . Where react

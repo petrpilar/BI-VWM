@@ -1,0 +1,10 @@
+ formula for the falling time as a function of position . Note that torbit in the above equation , i
+s the time for the mass to fall in a highly eccentric orbit , make a hairpin turn at the central mas
+s at nearly zero radius distance , and then returns to R when it repeats the motion back and from di
+stance R to distance 0 . As noted above , this orbit has only half as long a semimajor axis ( R/2 ) 
+as a circular orbit with radius R ( where the semimajor axis is R ) , and thus the period for the sh
+orter high-eccentricity orbit is that for one with an axis of R/2 and a total orbital pathlength of 
+only twice the infall distance . Thus , by Kepler 's third law , with half the semimajor axis radius
+ it thus takes only ( 1/2 ) 3/2 = ( 1/8 ) 1/2 as long a time period , as the corresponding circular 
+orbit that has a constant radius the same as the maximal radius of the eccentric orbit ( which goes 
+to essentially zero radius from the primary at its other extreme ) . The time to traverse half the d

@@ -1,0 +1,10 @@
+vatives to use in the above kinetic energy equation : : dot xi = frac ddt xi left ( q1 , q2 , ... , 
+qn , t right ) . It is important to remember that the kinetic energy must be measured relative to in
+ertial coordinates . If the above method is used , it means only that the Cartesian coordinates need
+ to be inertial , even though the generalized coordinates need not be . This is another considerable
+ convenience of the use of generalized coordinates . --Applications of generalized coordinatesSuch c
+oordinates are helpful principally in Lagrangian mechanics , where the forms of the principal equati
+ons describing the motion of the system are unchanged by a shift to generalized coordinates from any
+ other coordinate system . The amount of virtual work done along any coordinate = Fqi cdot delta qi 
+, where Fqi is the generalized force in the qi direction . While the generalized force is difficult 
+to construct ' a priori ' , it may be quickly derived by determining the amount of work that would b

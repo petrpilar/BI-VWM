@@ -1,0 +1,10 @@
+ called BBC iPlayer , was launched in December 2007 , which allows users to download both radio and 
+TV content for up to seven days after broadcast . The television version allows users to either stre
+am programmes or to download them using peer-to-peer and DRM technology . Initially streams were gen
+erally broadcast in the RealAudio and RealVideo formats controlled by RealNetworks and the BBC drew 
+criticism with some for using those closed formats which , at the time , could only be played using 
+RealPlayer . In response to such criticisms , the BBC negotiated a deal with RealNetworks a ' cut-do
+wn ' version of RealPlayer which did not contain as much advertising and marketing . Windows Media h
+as also been adopted and since Autumn 2006 , a Windows Media stream of all national BBC radio statio
+ns has been available . More recently , the BBC has been experimenting with MP3 downloads and podcas
+ting facilities for an increasing number of radio shows , with a high level streams for certain prog

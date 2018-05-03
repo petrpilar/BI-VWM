@@ -1,0 +1,10 @@
+istry where kinetic data is unavailable or difficult to acquire .Spectroscopy , spectrometry , and c
+rystallographyPhysical organic chemistry often entails the identification of molecular structure , d
+ynamics , and the concentration of reactants in the course of a reaction . The interaction of molecu
+les with light can afford a wealth of data about such properties through nondestructive spectroscopi
+c experiments , with light absorbed when the energy of a photon matches the difference in energy bet
+ween two states in a molecule and emitted when an excited state in a molecule collapses to a lower e
+nergy state . Spectroscopic techniques are broadly classified by the type of excitation being probed
+ , such as vibrational , rotational , electronic , nuclear magnetic resonance ( NMR ) , and electron
+ structure determination is often aided by complementary data collected from X-Ray diffraction and m
+ass spectrometric experiments .NMR and EPR spectroscopyOne of the most powerful tools in physical or

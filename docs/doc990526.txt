@@ -1,0 +1,10 @@
+tocol for synchronized transmission and management of multi-channel digital audio , video , control 
+signals and multi-port MIDI over a network .DescriptionThe mLAN protocol was originally developed by
+ Yamaha Corporation , and publicly introduced in January 2000 . It was available under a royalty-fre
+e license to anyone interested in utilizing the technology . mLAN exploits several features of the I
+EEE 1394 ( FireWire ) standard such as isochronous transfer and intelligent connection management . 
+There are two versions of the mLAN protocol . Version 1 requires S200 rate , while Version 2 require
+s S400 rate and supports synchronized streaming of digital audio at up to 24 bit word length and 192
+ kHz sample rate , MIDI and wordclock at a bitrate up to 400 Megabits per second . With the proper d
+river software , a computer-based digital audio workstation can interact with mLAN-compliant hardwar
+e via any OHCI-compliant FireWire port . mLAN consumes the entire bus bandwidth when operating and n

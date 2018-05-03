@@ -1,0 +1,10 @@
+-(Cd) ( C ) ( H ) 2 -4.80 C-(Cd) ( C ) 2(H) -1.67 C-(Cd) ( C ) 3 +1.77 C-(Cd)2(H)2 -4.30 cis correct
+ion isomer is always less stable than the trans isomer by 1.10 kcal/mol . More group additivity tabl
+es exist for a wide range of functional groups .Gronert modelAn alternative model has been developed
+ by S. Gronert based not on breaking molecules into fragments but based on 1,2 and 1,3 interactions 
+The Gronert equation reads : Delta Hf = -146.0nC-C -124.2nC-H - 66.2nC=C + 10.2nC-C-C + 9.3nC-C-H + 
+6.6nH-C-H + f ( C , H )  f ( C , H ) = ( 231.3nC + 52.1nH ) The pentanes are now calculated as : n-p
+entane = 4CC + 12CH + 9HCH + 18HCC + 3CCC + ( 5C + 12H ) = - 35.1 kcal/mol isopentane = 4CC + 12CH +
+ 10HCH + 16HCC + 4CCC + ( 5C + 12H ) = - 36.7 kcal/mol neopentane = 4CC + 12CH + 12HCH + 12HCC + 6CC
+C + ( 5C + 12H ) = -40.1 kcal/mol Key in this treatment is the introduction of 1,3-repulsive and des
+tabilizing interactions and this type of steric hindrance should exist considering the molecular geo

@@ -1,0 +1,10 @@
+ depend on the medium that it is traveling through . While ultrasound waves propagate through a medi
+um , the amplitude of the wave is continually reduced or weakened with the distance it travels . Thi
+s is known as attenuation and is due to the scattering or deflecting of some of the energy to heat e
+nergy within the medium . A medium that changes the mechanical energy from the vibrations of the ult
+rasound energy into thermal or heat energy is called viscoelastic . The properties of ultrasound wav
+es traveling through the medium of biological tissues has been extensively studied in recent years a
+nd implemented into many important medical tools .Common Medical Applications of Ultrasound Energy D
+iagnostic ImagingAs stated above , properties of ultrasound energy traveling through biological tiss
+ues has been extensively studied in recent years . The attenuation due to scattering of energy in di
+fferent tissues can be measured by a device called a transducer . Recorded information from transduc

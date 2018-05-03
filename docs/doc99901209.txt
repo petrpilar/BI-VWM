@@ -1,0 +1,10 @@
+ EMG reading is generated when a muscle is fully contracted . An alternative method to normalization
+ is to proportionally match the actuator power to the EMG signal between a minimum activation thresh
+old and an upper saturation level .Direct Proportional Myoelectric ControlWith a proportional myoele
+ctric controller , the power sent to an actuator is proportional to the amplitude of the normalized 
+EMG signal from a muscle . When the muscle is inactive , the actuator receives no power from the con
+troller , and when the muscle is fully contracted , the actuator produces maximum torque about the j
+oint it controls . For example , an powered ankle-foot orthosis ( AFO ) could employ a pneumatic art
+ificial level of the soleus ( one of the calf muscles ) . This control method enables the exoskeleto
+n to be controlled by the same neural pathways as the wearer 's biological muscles and has been show
+n to allow individuals to walk with a more normal gait than other control methods , such as using a 

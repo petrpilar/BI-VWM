@@ -1,0 +1,10 @@
+ height of reflection compatible with the frequency modulation method . We will not go into this met
+hod in detail because it involves fairly complex calculations using Maxwells electromagnetic theory 
+. Far from being conclusive , the success of the Oxford-Bournemouth experiment revealed a vast new f
+ield of study to be explored . It showed that there was indeed a reflecting layer high above the ear
+th but it also posed many new questions . What was the constitution of this layer , how did it refle
+ct the waves , was it the same so dramatically between day and night , did it change throughout the 
+year ? Appleton would spend the rest of his life answering these questions . He developed a magneto-
+ionic theory based on the previous work of Lorentz and Maxwell to model the workings of this part of
+ the atmosphere . Using this theory and further experiments , he showed that the so-called Kennelly-
+Heaviside layer was heavily ionised and thus conducting . This led to the term ionosphere . He showe

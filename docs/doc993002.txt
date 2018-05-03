@@ -1,0 +1,10 @@
+s were assigned to ERDAS ( under a former name of Leica Geosystems Geospatial Imaging ) July 29 , 20
+07 . After JPEG2000 became an image standard data into the ECW SDK to form the ECW JPEG2000 SDK . Af
+ter subsequent purchase by ERDAS ( themselves subsequently merged into Intergraph ) , the software d
+evelopment kit was renamed to the ERDAS ECW/JP2 SDK. of the SDK was released on 2 July 2013.Properti
+esMap projection information can be embedded into the ECW file format to support geospatial applicat
+ions . Image data of up to 65,535 bands ( layers or colors ) can be compressed into the ECW v2 file 
+format at a rate of over 25 MB per second on an i7 740QM ( 4-cores ) 1.731 GHz processor using v4.2 
+of the ECW/JP2 SDK . Data flow compression allows for compression of large images with small RAM req
+uirements . The file format can achieve typical compression ratios from 1:2 to 1:100 . The ECW Proto
+col ( ECWP ) is an efficient streaming protocol used to transmit ECW and JPEG2000 images over networ

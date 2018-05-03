@@ -1,0 +1,10 @@
+l privilege , for example to create a new token with lower levels of access rights to restrict the a
+ccess of a launched application . An access token is used by Windows when a process or thread tries 
+to interact with objects that have security descriptors (securable objects) . An access token is rep
+resented by the system object of type Token . An user logs on to the system and the credentials prov
+ided by the user are authenticated against the authentication database . The authentication database
+ contains credential information required to construct the initial token for the logon session , inc
+luding its user id , primary group id , all other groups it is part of , and other information . The
+ token is attached to the initial process created in the user session and inherited by subsequent pr
+ocesses created by the initial process . Whenever such a process opens a handle to any resource whic
+h has access control enabled , Windows reconciles the data in the target object 's security descript

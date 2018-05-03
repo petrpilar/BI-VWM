@@ -1,0 +1,10 @@
+( -1 ) i E in this equation makes sense only if the nodes x0 , ... , xn+1 areordered, either strictl
+y increasing or strictly decreasing ( As is well known , not every linear system has a solution . ) 
+Also , the solution can be obtained with only O(n2) arithmetic operations while a standard solver fr
+om the library would take O(n3) operations . Here is the simple proof : Compute the standardn-th deg
+ree interpolant p1(x) to f(x) at the firstn+1 nodes and also the standardn-th degree interpolant p2(
+x) to the ordinates ( -1 ) i : p1(xi) = f(xi) , p2(xi) = ( -1 ) i , i = 0 , ... , n . To this end us
+e each time Newton 's interpolation formula with the divided differences of order 0 , ... , n and O(
+n2) arithmetic operations . The polynomial p2(x) has itsi-th zero between xi-1 and xi , i=1 , ... , 
+n , and thus no further zeroes between xn p2(xn+1) have the same sign ( -1 ) n . The linear combinat
+ion p(x) : = p1 ( x ) - p2(x) ! cdot ! E is also a polynomial of degreenand : p(xi) = p1(xi) - p2(xi

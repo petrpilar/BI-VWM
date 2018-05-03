@@ -1,0 +1,10 @@
+imitrie Pompeiu by constructing an explicit example these functions are therefore named after him .P
+ompeiu 's constructionPompeiu 's construction is described here . Let sqrt3x denote the real cubic r
+oot of the real number x . Let qjjin N be an enumeration of the rational numbers in the unit interva
+l 0 , , 1 . Let ajjin N be positive real numbers with textstylesumj aj 16473 Define , for all xin 0 
+, , 1 : g(x) : =sumj=0infty , aj sqrt3x-qj . Since for any xin0 , than or equal toa j in absolute va
+lue , the series uniformly converges to a continuous , strictly increasing function g(x) , due to th
+e Weierstrass M-test . Moreover , it turns out that the functiongis differentiable , with : gprime(x
+) : =frac13sumj=0infty fracajsqrt3(x-qj)20 , at any point where the sum is finite also , at all othe
+r points , in particular , at any of the qj , one has textstyle gprime(x) : =+infty . Since the imag
+e of g is a closed bounded interval with left endpoint 0=g(0) , up to a multiplicative constant fact

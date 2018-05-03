@@ -1,0 +1,10 @@
+t be decreased along with the pulse duration , to keep the pulsed power levels from rising too high 
+. Quartz glass ( 1 millimeter thick per 1 second discharge ) can usually withstand a maximum of 160 
+watts per square centimeter of internal surface-area . Other glasses have a much lower threshold . E
+xtremely fast systems , with inductance below critical damping ( 0.8 microhenries ) , usually requir
+e a shunt diode across the capacitor , to prevent current reversal ( ringing ) from destroying the l
+amp . If the pulse is allowed to ring through the lamp it will lengthen the flash , so the diode tra
+ps the ringing , allowing the lamp shut down at the correct time . The limits to the anode , sputter
+ caused by ion bombardment at the cathode , and the temperature gradients of the glass . Pulses that
+ are too long can vaporize large amounts of metal from the cathode , while overheating the glass wil
+l cause it to crack lengthwise . For continuous operation the cooling is the limit . Discharge durat

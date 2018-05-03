@@ -1,0 +1,10 @@
+urcing rights to the Zilog family . Mostek produced MK3880 , the Zilog Z80 and a series of Z80 suppo
+rt chips , until Zilog built their own fab . The Z80 eventually became the most popular microcompute
+r family as it was used in millions of embedded devices as well as in many home computers and comput
+ers using the de facto standard CP/M operating system , such as the Osborne , Kaypro , and TRS-80 mo
+dels . When Vin Prothro , President , and L. J. Sevin , Chairman of the Board , discovered that Zilo
+g had modified the recipe for Z80 chips to keep the yields low , thereby buying Zilog time to partne
+r . They negotiated a deal with Intel to gain second sourcing rights to the Intel 8086 microprocesso
+r family and the future x86 designs . After Sevin left to become a venture capitalist ( founding Com
+paq and many other companies ) , Prothro signed another pivotal deal with Motorola to gain the right
+s to the Motorola 68000 and VME computers . The Intel x86 microprocessors would go on to become the 

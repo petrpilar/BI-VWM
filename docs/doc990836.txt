@@ -1,0 +1,10 @@
+omais ! BGCOLOR= DBDBDB Second person formal(usted) coma(ustedes) coman ! BGCOLOR= DBDBDB Third pers
+on ( l , ella ) coma ( ellos , ellas ) coman Imperfect forms of the regular-irverbvivir( ' to live '
+ ) : cellPadding=7 cellSpacing=0 border=1 ! BGCOLOR= DBDBDB Imperfect ofvivir! BGCOLOR= DBDBDB Singu
+lar ! BGCOLOR= DBDBDB Plural ! BGCOLOR= DBDBDB First person(yo) viva(nosotros/-as) vivamos ! BGCOLOR
+= DBDBDB Second person familiar ( t , vos ) vivas(vosotros/-as) vivais ! BGCOLOR= DBDBDB Second pers
+on formal(usted) viva(ustedes) vivan ! BGCOLOR= DBDBDB Third person ( l , ella ) viva ( ellos , ella
+s ) vivan Note that ( 1 ) for all verbs in the imperfect , the first- and third-person singular shar
+e the same form and ( 2 ) ' verbs share the same set of endings .Using preterite and imperfect toget
+herThe preterite and the imperfect can be combined in the same sentence to express the occurrence of
+ an event in one clause during an action or state expressed in another clause . For example : Ellos 

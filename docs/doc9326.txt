@@ -1,0 +1,10 @@
+h extends the idea of length from intervals to a very large class of sets , called measurable sets (
+ so , more precisely , simple functions are functions that take a finite number of values , and each
+ value is taken on a measurable set ) . Lebesgue 's technique for turning a measure into an integral
+ generalises easily to many other situations , leading to the deficient in one respect . The Riemann
+ integral generalises to the improper Riemann integral to measure functions whose domain of definiti
+on is not a closed interval . The Lebesgue integral integrates many of these functions ( always repr
+oducing the same answer when it did ) , but not all of them . For functions on the real line , the H
+enstock integral is an even more general notion of integral ( based on Riemann 's theory rather than
+ Lebesgue 's ) that subsumes both Lebesgue integration and improper Riemann integration . However , 
+the Henstock integral depends on specific ordering features of the real line and so does not general

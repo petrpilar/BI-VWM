@@ -1,0 +1,10 @@
+will generally have the glass shrunk around the electrodes , to provide a direct thermal conductor b
+etween them and the cooling water . The cooling medium should flow also across the entire length of 
+the lamp and electrodes . High average power or continuous-wave arc lamps must have the water flow a
+cross the ends of the lamp , and across the exposed ends of the electrodes as well , so the deionize
+d water is used to prevent a short circuit . Above 15 W/cm 2 forced air cooling is required liquid c
+ooling if in a confined space . Liquid cooling is generally necessary above 30 W/cm 2 . Thinner wall
+s can survive higher average-power loads due to lower mechanical strain across the thickness of the 
+material , which is caused by a ( e.g. 1 mm thick doped quartz has limit of 160 W/cm 2 , 0.5 mm thic
+k one has limit of 320 W/cm 2 ) . For this reason , thinner glass is often used for continuous-wave 
+arc-lamps . Thicker materials can generally handle more impact energy from the shock wave that a sho

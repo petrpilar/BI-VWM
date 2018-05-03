@@ -1,0 +1,10 @@
+rammes was less successful , and has now been discontinued . During major events , the BBC often fea
+tures liveblogs which publish the most recent text and image posts from BBC correspondents particula
+rly significant political events may pair live blogs with live video streams or recorded video loops
+ relevant to the event .MessageboardsIn February 2001 , BBC Online incorporated Douglas Adams ' prev
+iously independent h2g2 project into its group of web sites , and eventually replaced all its existi
+ng message boards , which used an archaic system called Howerd , with the DNA software derived from 
+that project . The site 's now archived Collective magazine also used the DNA software along with nu
+merous other sites created after the BBC 's acquisition of h2g2.DevelopersThe website has extensive 
+technical information available about its operation . The BBC also made some of the content on bbc.c
+o.uk and the BBC News Website available in XML format on the former developer network backstage.bbc.

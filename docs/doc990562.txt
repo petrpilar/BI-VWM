@@ -1,0 +1,10 @@
+also stated they would be charging for it . Nor would the FastBlazer support PEP , which , although 
+by then a minor consideration for most potential buyers , was still a differentiator for Telebit 's 
+existing installed base . For sites with a Telebit modem on at least one end of a link , a PEP-capab
+le upgrade might be worthwhile . Without PEP V.34 modem . All this for an introductory price of $1,3
+99 , when V.32bis faxmodems were available for $200 or less , and industrial-quality V.34 designs we
+re soon available for under $500 . It took seven months before Telebit introduced V.34 support in Ja
+nuary 1995 , also releasing the $399 TeleBlazer low-end model at the same time . By this point even 
+long-time supporters were publicly pooh-poohing the company on the UseNet , the medium that original
+ly drove the widespread adoption of the TrailBlazer.Next phaseLate in 1993 Telebit completed their m
+erger with Octocom , the idea being to use Octocom 's Chelmsford , Massachusetts manufacturing capab

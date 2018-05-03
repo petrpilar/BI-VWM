@@ -1,0 +1,10 @@
+, so care must be taken with this type of system . ) The short , high voltage pulse creates a rising
+ electrostatic field , which ionizes the gas inside the tube . The capacitance of the glass couples 
+the trigger pulse into the envelope , where it exceeds the breakdown voltage of the gas surrounding 
+one or both of the electrodes , forming spark streamers . The streamers propagate via capacitance al
+ong the glass at a speed of 1 centimeter in 60 nanoseconds ( 170 km/s ) . ( A trigger pulse must hav
+e a long enough duration to allow one streamer to reach the opposite electrode , or erratic triggeri
+ng will result . ) The triggering can be enhanced by applying the trigger pulse to a reference plane
+ , which may be in the form of a metal band or reflector affixed to the glass , a conductive paint ,
+ or a thin wire capacitor voltage is greater than the voltage drop between the cathode and the anode
+ , when the internal spark streamers bridge the electrodes the capacitor will discharge through the 
