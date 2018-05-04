@@ -1,10 +1,10 @@
-most astonishing monuments in Egyptian history . Once thriving with the Nile that flowed right into 
-the Giza Plateau , the pyramids of Giza were built overlooking the ancient Egyptian capital city of 
-Memphis , which at the other Giza Plateau is also home to many other ancient Egyptian monuments , in
-cluding the tomb of Pharaoh Djet of the First Dynasty , as well as that of Pharaoh Ninetjer of the S
-econd Dynasty .InfrastructureGiza has seen many changes over time . Changes in infrastructure during
- the different occupations of Egypt by various rulers , including the British in the 18th and early 
-20th century , focused on the construction of roads , streets , and buildings in the area . Giza is 
-a thriving centre of Egyptian culture and is quite heavily populated , with many facilities and buil
-dings in the current area . Giza saw much attention in particular to its vast amount of ancient Egyp
-tian monuments found on the Giza Plateau , and has astonished thousands of visitors and tourists ove
+request , version : 1.0 , methodname : listUsers , args : namefilter : jack Response 262358source ty
+pe : jsonwsp/response , version : 1.0 , servicename : UserService , method : listUsers , result : us
+ername : jackp , userid : 153 , mobile : 555-377843 , age : 34 , givenname : Jack , surname : Peters
+en , username : bradj , userid : 321 , mobile : 555-437546 , age : 27 , givenname : Brad , surname :
+ Jackson AttachmentsThe attachment type is new in JSON-WSP . It can be used anywhere in the descript
+ion as a primitive type . In requests and responses that involve attachments , the message format mu
+st be multipart/related where the attachments are transported as mimeparts of media type : with no 2
+52386TOOLONG ( only raw binary ) . Mimeparts must have a unique CONTENT-ID in their entity headers .
+ Attachment values in the JSON-WSP request/response objects must match the regular expression cid : 
+( . + ) $ 's CONTENT-ID.Attachment service description exampleThe following example shows what a sim

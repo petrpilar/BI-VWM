@@ -1,10 +1,10 @@
-equently held by Lib Dem councillor Eric Gotts . The deputy leader and deputy provost were the Conse
-rvative councillors Billy Hendry and Anne Jarvis . The 2012 council is controlled by a three-way 276
-5186TOOLONG coalition due to no single party having overall control . The leader of the council rema
-ins Rhondda Geekie , but Labour councillor Una Walker is now the provost . The deputy leader and dep
-uty provost are the Lib Dem councillor Ashay Ghai and the Conservative councillor Anne Jarvis . EDIA
- councillor Charles Kennedy , of the Campsie and Kirkintilloch North ward , died on 13 July 2012 . T
-he subsequent by-election took place on 13 elected . Thereafter the EDIA was voluntarily deregistere
-d , its remaining councillor , Jack Young , continuing as an independent . class= wikitableCouncil L
-eadership Provosts Depute Provosts Council Leaders Depute Council Leaders Group Leadersclass= wikita
-bleDepute Group Leadersclass= wikitableChief Executives Towns and villagesAuchenhowie Auchinairn Auc
+on a specific server . doclines : Each doc-string contained in a doclines list reflects a single lin
+e of documentation that relates to the parent object of the doclines ..Request objectThe request obj
+ect contains information about which method to invoke and what arguments to invoke the method with .
+ It also The optional mirror value can be used to send information from the client which will then b
+e reflected by the server and returned unchanged in the response object 's reflection value . This f
+eature allows clients to send multiple requests to a method and send request identification values t
+hat can be intercepted by the client 's response handler . This is often necessary from javascript i
+f more than one request is being processed simultaneously by the server and the response order is un
+known by the client . Specification 262098source type : jsonwsp/request , version : 1.0 , methodname
+ : , args : ( : , ) ( , mirror : ) ? Response objectSpecification The reflection value is an unchang

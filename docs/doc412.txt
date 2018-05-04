@@ -1,0 +1,10 @@
+ions satisfaisant a une condition de Lipschitz deals with the Fourier series of functions satisfying
+ a Lipschitz condition , with an evaluation of the order of magnitude of the remainder term . He als
+o proves that the RiemannLebesgue lemma is a best possible result for continuous functions , and giv
+es some treatment to Lebesgue constants . Lebesgue once wrote , Rduites des thories gnrales , les ma
+thmatiques seraient une belle forme sans contenu . ( Reduced to general theories , mathematics would
+ be a beautiful form without content . ) In measure-theoretic analysis and related branches of mathe
+matics , the LebesgueStieltjes integral generalizes RiemannStieltjes and Lebesgue integration , pres
+erving the many advantages of the latter in a more general measure-theoretic framework . During the 
+course of his career , Lebesgue also made forays into the realms of complex analysis and topology . 
+He also had a disagreement with Borel ( calledteilweise heftig) with regards to effective calculatio

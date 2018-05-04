@@ -1,0 +1,10 @@
+er could weld the artery perfectly .VisualizationTracking movement can help determine how well drugs
+ are being distributed or how substances are metabolized . It is difficult to track a small group of
+ cells throughout the body , so scientists used to dye the cells . These dyes needed to be excited b
+y light of a certain wavelength in order for them to light up . While different color dyes absorb di
+fferent frequencies of light , there was a need for as many light sources as cells . A way around th
+is problem is with luminescent tags . These tags are quantum dots attached to proteins that penetrat
+e cell membranes . The dots can be random in size , can be made of bio-inert material , and they dem
+onstrate the nanoscale property that color is size-dependent the frequency of light used to make a g
+roup of quantum dots fluoresce is an even multiple of the frequency required to make another group i
+ncandesce . Then both groups can be lit with a single light source . They have also found a way to i

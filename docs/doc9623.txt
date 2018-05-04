@@ -1,10 +1,10 @@
-of prepositions in Yeshivish and standard English : The prepositionbyhas a wide array of meanings in
- Yeshivish : :Are you eating by Rabbi Fischer ?( at the house of ) :By Chabad , it 's different .( w
-ith , among ) A possible cause for this is that the Yiddish prepositionbeidefines as : at , beside o
-r by . The similar sounding English prepositionbyhas come to encompass these meanings . Prepositions
- are often dropped : :Her bus gets in 10:15 . 20 years . East Dunbartonshire ( ) is one of the 32 co
-uncil areas of Scotland . It borders onto the north-west of the City of Glasgow . It contains many o
-f the suburbs of Glasgow as well as many of the city 's commuter towns and villages . East Dunbarton
-shire also shares a border with North Lanarkshire , Stirling and West Dunbartonshire . The council a
-rea covers part of the historic counties of Dunbartonshire , Lanarkshire and Stirlingshire . The cou
-ncil area was formed in 1996 , as a result of the Local Government etc . ( Scotland ) Act 1994 , fro
+ut the lack of a service description specification with documentation in JSON-RPC sparked the design
+ of JSON-WSP . The description format has the same purpose for JSON-WSP as WSDL has for SOAP or IDL 
+for CORBA , which is to describe the types and methods used in a given service . It also describes i
+nter-type relations ( i.e. nested types ) and defines which types are expected as method arguments a
+nd which types the user can expect to receive as method return values . Finally the description open
+s the possibility to add documentation on service , method , parameter and return levels . Communica
+tion between clients and a JSON-WSP server is carried out using HTTP POST requests and responses , w
+ith the JSON objects as data with the content-type application/json.SpecificationsJSON-WSP consists 
+of four JSON object specifications : NOTE notationBuilding blocks If the name of the building-block 
+being defined starts with rx- , it means that the definition is a regular expression . In these defi

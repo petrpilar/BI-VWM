@@ -1,10 +1,10 @@
-he population density was 31.8 people per square mile ( 12.3/km ) . There were 241 housing units at 
-an average density of 11.2 per square mile ( 4.3/km ) . The racial makeup of the town was 97.82% Whi
-te , 0.15% Asian , 1.60% from other races , and 0.44% from two or more races . Hispanic or Latino of
- any race were 1.60% of the population . There were age of 18 living with them , 69.2% were married 
-couples living together , 7.3% had a female householder with no husband present , and 19.7% were non
--families. 13.2% of all households were made up of individuals and 6.8% had someone living alone who
- was 65 years of age or older . The average household size was 2.94 and the average family size was 
-3.27 . In the town the population was spread out with 29.3% under the age of 18 , 7.4% from 18 to 24
- , 29.5% from 25 to 44 , 22.7% from 45 to 64 , and 11.1% who were 65 years of age or older . The med
-ian age was 35 years . For every 100 females there were 110.7 males . For every 100 females age 18 a
+ended usefully .. the design editor in Design-Expert ( DX ) has long been a strong point , providing
+ a central cockpit from which to intuitively refine and test most aspects , but various new control 
+features have now been added to the package , small in themselves but significantly enhancing produc
+tive control.Statistical design of experimentsMinimum-Run Resolution IV and Minimum-Run Resolution V
+ experimental designs . Minimum-run resolution IV ( MR4 ) factorial designs estimate all main effect
+s , clear of two-factor or higher interactions , in a minimum of experimental runs . MR4 designs wor
+k well for factor screening . Minimum-run resolution V ( MR5 ) factorial designs estimate all main e
+ffects and two-factor interactions in a minimum of experimental runs . MR5 designs are typically don
+e after screening to a vital few factors , which then need to be studied in more depth in case they 
+interact . Whitcomb and Oehlert won the Shewell award in 2008 for invention of the half-normal plot 

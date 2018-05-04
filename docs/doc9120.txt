@@ -1,10 +1,10 @@
-hole , these systems use algorithms in their programming to determine control and organization of th
-eir functions . Most systems use weights to change the parameters of the throughput and the varying 
-connections to the neurons . Artificial neural networks can be autonomous and learn by input from ou
-tside teachers or even self-teaching from written-in rules .Theoretical properties Computational pow
-erThe multi-layer perceptron ( MLP ) is a universal function approximator , as proven by the Cybenko
- theorem . However , the proof is not constructive regarding the number of neurons required or the s
-ettings of the weights . Work by Hava Siegelmann and Eduardo D. Sontag has provided a proof that a s
-pecific recurrent architecture with rational valued weights ( as opposed to full precision real numb
-er-valued weights ) has the full power of a Universal Turing Machine to detecting credit card fraud 
-. Technology writer Roger Bridgman commented networks , for instance , are in the dock not only beca
+would end up paying more in taxes than their degrees actually cost , while others would pay less . T
+he Russell Group claims that this situation would be unreasonable and likely to be seen by many as u
+nfair . Because individual universities will not derive any direct financial benefit from becoming m
+ore attractive to students , the graduate to drive up quality according to the Russell Group . Criti
+cisms include the transitional problems which exist where students are going through university but 
+not paying the tax . Free-market thinkers have criticised the graduate tax for not creating a market
+ based element in higher education . Alistair Jarvis of the 1994 Group of research universities has 
+stated : Any mechanism that prevents variable fees and the functioning of a regulated market would b
+e damaging to the sector ... We strongly support a regulated market because this is the best way to 
+drive up excellence in research and teaching , and to deliver student satisfaction . A system of var

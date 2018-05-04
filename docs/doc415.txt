@@ -1,0 +1,10 @@
+olve this problem . Instead of using the areas of rectangles , which put the focus on the domain of 
+the function , Lebesgue looked at the codomain of the function for his fundamental unit of area . Le
+besgue 's idea was to first define measure , for both sets build the integral for what he called sim
+ple functions measurable functions that take only finitely many values . Then he defined it for more
+ complicated functions as the least upper bound of all the integrals of simple functions smaller tha
+n the function in question . Lebesgue integration has the property that every function defined over 
+a bounded interval with a Riemann integral also has a Lebesgue integral , and for those functions th
+e two integrals agree . Furthermore , every bounded function on a closed bounded interval has a Lebe
+sgue integral and there are many functions with a Lebesgue integral that have no Riemann integral . 
+As part of the development of Lebesgue integration , Lebesgue invented the concept of measure , whic

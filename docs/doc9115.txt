@@ -1,10 +1,10 @@
- would be maximized rather than minimized ) . Tasks that fall within the paradigm of unsupervised le
-arning are in general estimation problems the applications include clustering , the estimation of st
-atistical distributions , compression and filtering .Reinforcement learningusually not given , but g
-enerated by an agent 's interactions with the environment . At each point in time scriptstyle t , th
-e agent performs an action scriptstyle yt and the environment generates an observation scriptstyle x
-t and an instantaneous cost scriptstyle ct , according to some ( usually unknown ) dynamics . The ai
-m is to discover apolicyfor selecting actions that minimizes some measure of a long-term cost i.e. ,
- the expected cumulative cost . The environment 's dynamics and the long-term cost for each policy a
-re usually unknown , but can be estimated . More formally the environment is modelled as a Markov de
-cision process ( MDP ) with states scriptstyle s1 , ... , snin S and actions scriptstyle a1 , ... , 
+ are challenging to learn to operate but once mastered one of the most seaworthy boats the Coast Gua
+rd has used . A graduate tax is a proposed method of financing higher education . It has been propos
+ed in the United Kingdom and Ireland .BackgroundUnder the Higher Education Act 2004 British and Euro
+pean Union students at publicly funded universities in England , Wales and Northern Ireland are char
+ged tuition fees ( called top-up fees ) directly by the universities . The amount of the fees is lim
+ited by law and the fees can be funded by government-backed student loans issued by a government-bac
+ked company . The loans need only be repaid when the graduate is earning a sufficient amount of mone
+y to do so . Non-EU students can be charged an unlimited fee by the universities , and these are usu
+ally considerably higher . In 2009 the National Union of Students ( NUS ) proposed a tax on graduate
+s who have received academic degrees over a period of years after the granting of the degree . Four 

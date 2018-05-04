@@ -1,0 +1,10 @@
+. Efficiency is important because many diseases depend upon processes within the cell and can only b
+e impeded by drugs that make their way into the cell . Triggered response is one way for drug molecu
+les to be used more efficiently . Drugs are placed in the body and only activate on encountering a p
+articular signal . For example , a drug with poor solubility will be replaced by a drug delivery sys
+tem where both hydrophilic and hydrophobic environments exist , improving the solubility . Also , a 
+drug may cause tissue damage , but with drug delivery , regulated drug release can eliminate the pro
+blem . If a drug is cleared too quickly from the body , this could force a patient to use high doses
+ , but with drug delivery systems clearance can be reduced by altering the pharmacokinetics of the d
+rug . Poor biodistribution is a problem the particulates from drug delivery systems lower the volume
+ of distribution and reduce the effect on non-target tissue . Potential nanodrugs will work by very 

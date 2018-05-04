@@ -1,0 +1,10 @@
+justify DateFormat = dd/mm/yyyy Period = from:01/08/1982 till:31/12/2014 TimeAxis = orientation:hori
+zontal format:yyyy Legend = position:bottom columns:4 Colors = id:Lines value:black legend:Studio re
+leases id:voc value:red legend:Vocals id:g value:green legend:Guitars id:bj value:purple legend:Banj
+o , Saxophone id:acc value:rgb(0.5,0.35,0.3) legend:Accordion , Piano , Mando. id:tw value:yellow le
+gend:Tinwhistle id:b value:blue legend:Bass , Backingvoc. id:dr value:orange legend:Drums , Harmonic
+a id:cit value:brightgreen legend:Cittern , Mandolin id:acc/tw value:gray(0.4) legend:Accordion , Wh
+istles , Percussion id:man value:lightpurple start:1983 ScaleMinor = unit:year increment:1 start:198
+3 LineData = at:01/10/1984 color:black layer:back at:01/08/1985 color:black layer:back at:01/01/1988
+ color:black layer:back at:01/07/1989 color:black layer:back at:06/11/1990 color:black layer:back at
+:01/09/1993 color:black layer:back at:27/02/1996 color:black layer:back BarData = bar:macgowan text 

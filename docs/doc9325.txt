@@ -1,10 +1,10 @@
-olve this problem . Instead of using the areas of rectangles , which put the focus on the domain of 
-the function , Lebesgue looked at the codomain of the function for his fundamental unit of area . Le
-besgue 's idea was to first define measure , for both sets build the integral for what he called sim
-ple functions measurable functions that take only finitely many values . Then he defined it for more
- complicated functions as the least upper bound of all the integrals of simple functions smaller tha
-n the function in question . Lebesgue integration has the property that every function defined over 
-a bounded interval with a Riemann integral also has a Lebesgue integral , and for those functions th
-e two integrals agree . Furthermore , every bounded function on a closed bounded interval has a Lebe
-sgue integral and there are many functions with a Lebesgue integral that have no Riemann integral . 
-As part of the development of Lebesgue integration , Lebesgue invented the concept of measure , whic
+s of echinoderm which existed in what is now China during the Middle Cambrian period . It was named 
+by Yuanlong Zhao , Colin D. Sumrall , Ronald L. Parsley and Jin Peng in 2010 , and the type and only
+ species isKailidiscus chinensis. Abdul Halim Jaffer Khan is an Indiansitarplayer . Khan received th
+e national awards Padma Shri ( 1970 ) and Padma Bhushan ( 2006 ) and was awarded the Sangeet Natak A
+kademi Award for 1987.LifeAbdul Halim Jaffer Khan regarded as one of the ' Sitar Trinity ' of India 
+along with Ravi Shankar and Vilayat Khan and is the youngest of them . He was born in 1929 , in Jawr
+a , Madhya Pradesh , as the son of Jaffer Khan , a versatile vocalist , sitarist and beenkar . He ha
+ils from the Beenkar Gharana of Indore . He has been a distinguished All India Radio Artiste since t
+he early 1940s . A few years before the Beatles met Ravi Shankar , in 1958 , Khan collaborated with 
+jazz pianist and composer Dave Brubeck . Brubeck who was in Bombay through the state sponsored jazz 

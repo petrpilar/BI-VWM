@@ -1,10 +1,10 @@
-r the years . Giza 's infrastructure saw much attention from both the British government prior to th
-e 1952 coup d'etat , as well as the current Egyptian government due to the city 's importance in tou
-rism . The city hosts the first zoo on the entire African continent and one of the oldest addition ,
- there are several parks , the most famous among them is Orman Park which means Forest Park in the T
-urkish language .HealthGiza has advanced level of medical care just like its elder twin Cairo . A li
-st of famous hospitals in Giza : Agooza in Agouza district . Al Salam in Mohandessin neighbourhood .
- Badran in Dokki district . El Safa. Haram Hospital in Haram. El Shoruk Hospital . Cairo Medical Lab
- In addition to hospitals there are numerous medical facilities , private clinics , medical check la
-boratories , etc.TransportationTransportation in Giza comprises an extensive road network , rail sys
-tem , subway system , and maritime services . Road transport is facilitated by personal vehicles , t
+ple JSON-WSP description with attachments could look like : 262413source type : jsonwsp/description 
+, version : 1.0 , url : http : 362441TOOLONG , servicename : TransferService , types : File : data :
+ attachment , name : string , methods : upload : retinfo : doclines : , type : number , doclines : ,
+ params : incoming : deforder : 1 , doclines : , type : File , optional : false Attachment service r
+equest exampleA request to the method upload described above could look like this : 262479source Con
+tent-Type : multipart/related boundary= 322507TOOLONG 342541TOOLONG Content-Type : application/json 
+, charset=UTF-8 Content-ID : body type : jsonwsp/request , version : 1.0 , methodname : upload , arg
+s : incoming : data : cid:img2354.png , name : face.png , data : cid:cv.pdf , name : cv.pdf 342577TO
+OLONG Content-Type : application/octet-stream Content-ID : img2354.png 232613png-image 342638TOOLONG
+ Content-Type : application/octet-stream Content-ID : cv.pdf 232674pdf-image 362699TOOLONG Server Im

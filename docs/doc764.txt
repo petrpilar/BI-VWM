@@ -1,0 +1,10 @@
+, bishops and rooks can become more active simply because the loss of pawns often gives rise to open
+ file ( chess ) Generation of positional weaknesses : Finally , accepting a gambit may lead to a com
+promised pawn structure , holes or other positional deficiencies . A good example of e5 2 . Nf3 Nc6 
+3. d4 exd4 4 . Bc4 . Here Black can force White to sacrifice a pawn speculatively with 4 ... Bb4+ , 
+but White gets very good compensation for one pawn after 5. c3 dxc3 6. bxc3 , or for two pawns after
+ 6.0-0 inviting 6 ... cxb2 7 . Bxb2 , due to the development advantage and attacking chances against
+ the black king . As a result , Black is often advised not to try to hold onto the extra pawn . A mo
+re dubious gambit is the so-called Halloween Gambit : 1. e4 e5 2 . Nf3 Nc6 3 . Nc3 Nf6 4 . Nxe5 ? ! 
+Nxe5 5. d4 . Here the investment ( a knight for just one pawn ) is too large for the moderate advant
+age of having a strong center .ExamplesKing 's Gambit : 1. e4 e5 2. f4 Queen 's Gambit : 1. d4 d5 2.

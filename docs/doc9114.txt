@@ -1,10 +1,10 @@
-ts ) are the smallest silica-based nanoparticles with the size 62628750910 scriptstyle x is given an
-d the cost function to be minimized , that can be any function of the data scriptstyle x and the net
-work 's output , scriptstyle f . The cost function is dependent on the task ( ' a prioriassumptions 
-( the implicit properties of our model , its parameters and the observed variables ) . As a trivial 
-example , consider the model scriptstyle f(x) = a where scriptstyle a is a constant and the cost scr
-iptstyle C=E ( x - f(x)2 . Minimizing this cost will give us a value of scriptstyle a that is equal 
-to the mean of the data . The cost function can be much more complicated . Its form depends on the a
-pplication : for example , in compression it could be related to the mutual information between scri
-ptstyle x and scriptstyle f(x) , whereas in statistical modeling , it could be related to the poster
-ior probability of the model given the data . ( Note that in both of those examples those quantities
+it get on scene quickly , get into a surf zone and extract any persons in the water , or to stabiliz
+e a situation until the slower and larger motor lifeboat can get on scene . Since 1997 and the intro
+duction of the faster 47 ' MLB and the phasing out of the 44 ' MLBs the need for a quick response ve
+ssel diminished making the 30 footers obsolete . The class of vessels underwent an overhaul in the e
+arly nineties to extend their life until the newer and faster 47 ' motor lifeboats came into service
+ and in the late 1990s most of the 30 footers were de-commissioned . One still remains on active dut
+y at Motor Lifeboat Station Depoe Bay in Depoe Bay , Oregon and is used almost daily . This station 
+was host to the last 36 ' motor lifeboat in the late 1980s . Even though the boats have many quirks 
+, including dynamic instability , where the boat becomes unstable at high speeds , many surfmen who 
+became qualified on the boats have sworn by them . Sometimes referred to as a sports car compared to

@@ -1,0 +1,10 @@
+use they have been hyped to high heaven , ( what has n't ? ) but also because you could create a suc
+cessful net without understanding how it worked : the bunch of numbers that captures its behaviour w
+ould in all probability be an opaque , unreadable table ... valueless as a scientific resource . In 
+spite of his emphatic declaration that science is not technology , Dewdney seems here to pillory neu
+ral nets as bad science when most of those devising them are just trying to be good engineers . An u
+nreadable table that a useful machine could read would still be well worth having .In response to th
+is kind of criticism , one should note that although it is true that analyzing what has been learned
+ by an artificial neural network is difficult , it is much easier to do so than to analyze what has 
+been learned by a biological neural network . Furthermore , researchers involved in exploring learni
+ng algorithms for neural networks are gradually uncovering generic principles which allow a learning

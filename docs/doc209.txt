@@ -1,0 +1,10 @@
+ry ) .Types of modelsMany models are used in the field , defined at different levels of abstraction 
+and modeling different aspects of neural systems . They range from models of the short-term behavior
+ of individual neurons , models of how the dynamics of neural circuitry arise from interactions betw
+een individual neurons and finally to models of how behavior can arise from abstract neural modules 
+that represent complete subsystems . These include models of the long-term , and short-term plastici
+ty , of neural systems and their relations to learning and memory from the individual neuron to the 
+system level .Neural network softwareNeural network software is used to simulate , research , develo
+p and apply artificial neural networks , biological neural networks and , in some Types of artificia
+l neural networksArtificial neural network types vary from those with only one or two layers of sing
+le direction logic , to complicated multiinput many directional feedback loops and layers . On the w

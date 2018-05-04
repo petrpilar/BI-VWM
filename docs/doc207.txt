@@ -1,0 +1,10 @@
+ems , games and other sequential decision making tasks .Learning algorithmsTraining a neural network
+ model essentially means selecting one model from the set of allowed models ( or , in a Bayesian fra
+mework , determining a distribution over the set of allowed models ) that minimizes the cost criteri
+on . There are numerous algorithms available for training neural network models most of them and sta
+tistical estimation . Most of the algorithms used in training artificial neural networks employ some
+ form of gradient descent . This is done by simply taking the derivative of the cost function with r
+espect to the network parameters and then changing those parameters in a gradient-related direction 
+. Evolutionary methods , These networks have also been used to diagnose prostate cancer . The diagno
+ses can be used to make specific models taken from a large group of patients compared to information
+ of one given patient . The models do not depend on assumptions about correlations of different vari
