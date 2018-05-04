@@ -12,9 +12,10 @@
 
 using namespace std;
 
-const string DOC_DIR = "../data";
+const string DOC_DIR = "../docs";
 const string DOC_COUNT_FILE = DOC_DIR + "/docsCount.txt";
 const string WORDS_FILE = "../words/words.txt";
+const string STOP_WORDS_FILE = "../stopWords/stopWords.txt";
 const string INVERTED_INDEX_FILE = "../inverted_index/inverted_index.txt";
 
 //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -119,8 +120,12 @@ class LemmaElem {
 			return os;
 		}
 };
-//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+bool compareLemmaElemsByWeight(const LemmaElem & A, const LemmaElem & B) {
+	return A.m_Weight < B.m_Weight;
+}
 //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 class Lemma {
 	public:
@@ -166,6 +171,30 @@ class Lemma {
 			m_Docs.push_back(LemmaElem(docId, weight));
 		}
 		
+		//sorts list by elements's weight
+		void SortByWeight() const {
+			m_Docs.sort(compareLemmaElemsByWeight);
+		}
+		
+		//returns 0 if doc is not in list
+		double GetWeightByDocId(int docId) const {
+			for(auto x : m_Docs) {
+				if (x.m_Id == docId)
+					return x.m_Weight;
+			}
+			return 0.0;
+		}
+		
+		//prints document ids to std::out, but only max of resCount
+		void PrintDocIds(int resCount) const {
+			int index = 0, loopMax = min(resCount, (int)m_Docs.size());
+			for(auto x : m_Docs) {
+				if (index >= loopMax) break;
+				cout << x.m_Id << endl;
+				index++;
+			}
+		}
+		
 		friend ostream & operator<< (ostream & os, const Lemma & lemma) {
 			os << lemma.m_LemmaName;
 			for(auto x : lemma.m_Docs) {
@@ -198,6 +227,15 @@ class LemmaContainer {
 			}
 		}
 		
+		//finds lemma by string in container and returns it; if not present, returns empty Lemma
+		Lemma FindLemma(string & lemma) {
+			auto it = m_Container.find(Lemma(lemma));
+			if (it == m_Container.end()) {
+				return Lemma(lemma);
+			}
+			return *it;
+		}
+		
 		//iterate through whole container and get maximum of inverse document frequencies
 		void SetMaxInverseDocumentFrequency(int docCount) {
 			for(auto x : m_Container) {
@@ -206,7 +244,16 @@ class LemmaContainer {
 		}
 		
 		void RemoveStopWords() {
-			
+			ifstream is;
+			is.open(STOP_WORDS_FILE);
+			if (is.is_open()) {
+				string stopWord;
+				while(is) {
+					is >> stopWord;
+					m_Container.erase(Lemma(stopWord)); //erase stop word from container
+				}
+				is.close();
+			}
 		}
 		
 		//iterate through whole container and compute lemma's weight

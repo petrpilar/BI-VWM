@@ -39,12 +39,13 @@ int main() {
 		else {
 			throw "Unable to open file with document: 'doc" + to_string(i) + ".txt'."; //error
 		}
+		cout << "Progress: document " << i << endl;
 	}
 	
 	lemmaContainer.RemoveStopWords();
 	lemmaContainer.ComputeWeights(documentCount);
 	lemmaContainer.WriteToFile();
-	lemmaContainer.PrintContainer();
+	//lemmaContainer.PrintContainer();
 	
 	//system("pause");
 }
