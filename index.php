@@ -17,7 +17,7 @@
         <section class="main-container">
             <div class="main-wrapper">
                 <h2>Extended boolean model</h2>
-                <form method="get" action="find.php">
+                <form method="get" action="src/find.php">
                     <ul class="form-style-1">
                         <li>
                             <label>Query <span class="required">*</span></label>

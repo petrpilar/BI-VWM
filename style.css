@@ -12,6 +12,9 @@
 .main-wrapper {
     margin: auto 0;
 }
+.main-wrapper a{
+    display: block;
+}
 
 body {
     background-color: darkgray;
