@@ -16,7 +16,7 @@
 #include <stack>
 using namespace std;
 
-#include "FillDocumentTable.h"
+#include "supportingClasses.h"
 
 static int getPriority(string term) {
     if (term == "AND") return 0;
@@ -77,25 +77,10 @@ static string InfixToPostfix(string in_infix) {
 //na zacatku main spocitat
 int documentCount = 0;
 
+//**********************************************************************************************INVERTED INDEX**********************************************************************************************
 double opNOT(double weight) {
     return 1 - weight;
 }
-
-/*static Lemma opNOT(Lemma lemma) {
-        Lemma res(lemma.m_LemmaName);
-	
-        //lemma.m_Docs ordered by docId by default, so we can use little trick
-        for(int i = 1; i <= documentCount; i++) {
-                if (i == (lemma.m_Docs.front()).m_Id) {
-                        lemma.m_Docs.pop_front(); //push nothing and pop from reference lemma 
-                }
-                else {
-                        res.m_Docs.push_back(LemmaElem(i, computeWeightForNot())); //else add to our res
-                }
-        }
-	
-        return res;
-}*/
 
 double opAND(double weightA, double weightB) {
     double termCount = 2.0,
@@ -103,100 +88,11 @@ double opAND(double weightA, double weightB) {
     return res;
 }
 
-/*static Lemma opAND(Lemma & lemma1, Lemma & lemma2) {
-        Lemma res("res");
-        auto it1 = lemma1.m_Docs.begin();
-        auto it2 = lemma2.m_Docs.begin();
-        //lists are ordered by docId
-        while(it1 != lemma1.m_Docs.end() && it2 != lemma2.m_Docs.end()) {
-                if (it1->m_Id == it2->m_Id) {
-                        res.PushBackDoc(it1->m_Id, computeWeightForAnd(it1->m_Weight, it2->m_Weight));
-                        it1++;
-                        it2++;
-                }
-                else if (it1->m_Id < it2->m_Id) {
-                        it1++;
-                }
-                else {
-                        it2++;
-                }
-        }
-        return res;
-}*/
-
 double opOR(double weightA, double weightB) {
     double termCount = 2.0,
             res = sqrt((weightA * weightA + weightB * weightB) / termCount);
     return res;
 }
-
-/*static Lemma opOR(Lemma & lemma1, Lemma & lemma2) {
-    Lemma res("res");
-        auto it1 = lemma1.m_Docs.begin();
-        auto it2 = lemma2.m_Docs.begin();
-        //lists are ordered by docId
-        while(it1 != lemma1.m_Docs.end() || it2 != lemma2.m_Docs.end()) {
-                if (it1->m_Id == it2->m_Id) {
-                        res.PushBackDoc(it1->m_Id, computeWeightForAnd(it1->m_Weight, it2->m_Weight));
-                        it1++;
-                        it2++;
-                }
-                else if (it1->m_Id < it2->m_Id) {
-                        res.PushBackDoc(it1->m_Id, computeWeightForAnd(it1->m_Weight, it2->m_Weight));
-                        it1++;
-                }
-                else {
-                        res.PushBackDoc(it2->m_Id, computeWeightForAnd(it1->m_Weight, it2->m_Weight));
-                        it2++;
-                }
-        }
-        return res;
-}*/
-
-/*static Lemma evaluate(string in_postfix, LemmaContainer & lemmaContainer, WordPairContainer & wordPairContainer) {
-    stack<Lemma> zasobnik;
-
-    stringstream ss(in_postfix);
-    string term;
-	
-    ss >> term;
-    if (isOperator(term)) {
-        cerr << "ERROR: prvni term v postfixu je operator!!" << endl;
-        exit(1);
-    }
-        string lemmaString = wordPairContainer.FindLemma(term);
-        Lemma lemma = lemmaContainer.FindLemma(term);
-    zasobnik.push(lemma);
-    while (ss >> term) {
-        if (isOperator(term)) {
-            //jedná se o operator
-            if (term == "NOT") {
-                Lemma tmp = zasobnik.top();
-                zasobnik.pop();
-                zasobnik.push(opNOT(tmp));
-            } else if (term == "AND") {
-                Lemma op1 = zasobnik.top();
-                zasobnik.pop();
-                Lemma op2 = zasobnik.top();
-                zasobnik.pop();
-                zasobnik.push(opAND(op1, op2));
-            } else if (term == "OR") {
-                Lemma op1 = zasobnik.top();
-                zasobnik.pop();
-                Lemma op2 = zasobnik.top();
-                zasobnik.pop();
-                zasobnik.push(opOR(op1, op2));
-            }
-        } else {
-            //jedná se o operand --> pouze pridame do zasobniku
-                        string lemmaString = wordPairContainer.FindLemma(term); //returns "" if not successful
-                        Lemma lemma = lemmaContainer.FindLemma(lemmaString); //returns empty Lemma (with empty list of ids) if not succesful
-            zasobnik.push(lemma);
-        }
-
-    }
-    return zasobnik.top();
-}*/
 
 static double evaluate(string in_postfix, int docId, LemmaContainer & lemmaContainer, WordPairContainer & wordPairContainer) {
     stack<double> zasobnik;
@@ -238,7 +134,132 @@ static double evaluate(string in_postfix, int docId, LemmaContainer & lemmaConta
             Lemma lemma = lemmaContainer.FindLemma(lemmaString); //returns empty Lemma (with empty list of ids) if not succesful
             zasobnik.push(lemma.GetWeightByDocId(docId));
         }
+    }
+    return zasobnik.top();
+}
 
+//**********************************************************************************************SEQUENTIAL**********************************************************************************************
+static vector<int> opNOTSequential(vector<int> & ids) {
+	vector<int> res;
+
+	//ids ordered by docId by default, so we can use little trick
+	unsigned idsIndex = 0;
+	for(int i = 1; i <= documentCount; i++) {
+		if (idsIndex < ids.size() && i == ids[idsIndex]) {
+			idsIndex++; //go to next id
+		}
+		else {
+			res.push_back(i); //else add to our res
+		}
+	}
+
+	return res;
+}
+
+static vector<int> opANDSequential(vector<int> & ids1, vector<int> & ids2) {
+	vector<int> res;
+	auto it1 = ids1.begin();
+	auto it2 = ids2.begin();
+	//lists are ordered by docId
+	while(it1 != ids1.end() && it2 != ids2.end()) {
+		if (*it1 == *it2) {
+			res.push_back(*it1);
+			it1++;
+			it2++;
+		}
+		else if (*it1 < *it2) {
+			it1++;
+		}
+		else {
+			it2++;
+		}
+	}
+	return res;
+}
+
+static vector<int> opORSequential(vector<int> & ids1, vector<int> & ids2) {
+    vector<int> res;
+	auto it1 = ids1.begin();
+	auto it2 = ids2.begin();
+	//lists are ordered by docId
+	while(it1 != ids1.end() && it2 != ids2.end()) {
+		if (*it1 == *it2) {
+			res.push_back(*it1);
+			it1++;
+			it2++;
+		}
+		else if (*it1 < *it2) {
+			res.push_back(*it1);
+			it1++;
+		}
+		else {
+			res.push_back(*it2);
+			it2++;
+		}
+	}
+	return res;
+}
+
+//projde celou kolekci dokumentu a vrati vector cisel dokumentu, kde se dane lemmaString nachazi
+vector<int> findLemmaInDocuments(string & lemmaString, WordPairContainer & wordPairContainer) {
+	vector<int> res;
+	string word, lemma;
+	for(int i = 1; i <= documentCount; i++) {
+		ifstream is;	
+		is.open(DOC_DIR + "/doc" + to_string(i) + ".txt");
+		if(is.is_open()) {
+			while(is >> word) { //read file word by word, operator >> skips white spaces
+				normalizeString(word);
+				lemma = wordPairContainer.FindLemma(word); //get lemma, returns empty string, if cannot find
+				if (lemma == lemmaString) { res.push_back(i); break; } //push back docId and we can finish this document
+			}
+			is.close(); //in the end of file, close it properly
+		}
+		else {
+			throw "Unable to open file with document: 'doc" + to_string(i) + ".txt'."; //error
+		}
+	}
+	return res;
+}
+
+static vector<int> evaluateSequential(string in_postfix, WordPairContainer & wordPairContainer) {
+    stack<vector<int> > zasobnik; //vector of ids
+
+    stringstream ss(in_postfix);
+    string term;
+	
+    ss >> term;
+    if (isOperator(term)) {
+        cerr << "ERROR: prvni term v postfixu je operator!!" << endl;
+        exit(1);
+    }
+	string lemmaString = wordPairContainer.FindLemma(term);
+    zasobnik.push(findLemmaInDocuments(lemmaString, wordPairContainer));
+    while (ss >> term) {
+        if (isOperator(term)) {
+            //jedná se o operator
+            if (term == "NOT") {
+                vector<int> tmp = zasobnik.top();
+                zasobnik.pop();
+                zasobnik.push(opNOTSequential(tmp));
+            } else if (term == "AND") {
+                vector<int> op1 = zasobnik.top();
+                zasobnik.pop();
+                vector<int> op2 = zasobnik.top();
+                zasobnik.pop();
+                zasobnik.push(opANDSequential(op1, op2));
+            } else if (term == "OR") {
+                vector<int> op1 = zasobnik.top();
+                zasobnik.pop();
+                vector<int> op2 = zasobnik.top();
+                zasobnik.pop();
+                zasobnik.push(opORSequential(op1, op2));
+            }
+        } else {
+            //jedná se o operand --> pouze pridame do zasobniku
+			string lemmaString = wordPairContainer.FindLemma(term);
+			zasobnik.push(findLemmaInDocuments(lemmaString, wordPairContainer));
+        }
     }
     return zasobnik.top();
 }
@@ -247,6 +268,7 @@ bool orderPairIntDoubleByDouble(const pair<int, double> & A, const pair<int, dou
     return A.second > B.second;
 }
 
+//**********************************************************************************************MAIN**********************************************************************************************
 int main(int argc, char** argv) {
     if (argc != 3) {
         cerr << "Argument count != 3. Usage: exe [resultCount] query." << endl;
@@ -278,13 +300,13 @@ int main(int argc, char** argv) {
         resList.push_back(make_pair(i, relevancy));
         //cout << i << " " << relevancy << endl;
     }
-    //cout << "**************" << endl;
 
     //order documents in result by relevancy
     resList.sort(orderPairIntDoubleByDouble);
 
     //return on std out list of document Ids
     //only docIds plus newline: 2\r\n4\r\n7...
+	//cout << "INVERTED INDEX" << endl;
     int index = 0;
     for (auto x : resList) {
         if (index >= resCount) break; //maximum of resCount
@@ -292,6 +314,14 @@ int main(int argc, char** argv) {
         //cout << x.first << " " << x.second << endl; //for debugging
         index++;
     }
+	
+	//cout << endl << "SEQUENTIAL" << endl;
+	//vector<int> resSequential = evaluateSequential(postfix, wordPairContainer);
+	//for (unsigned i = 0; i < resSequential.size(); i++) {
+    //    if (i >= resCount) break; //maximum of resCount
+    //    cout << resSequential.at(i) << endl; //for app run
+    //}
+	
 
     return 0;
 }

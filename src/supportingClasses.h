@@ -5,7 +5,6 @@
 #include <algorithm>
 #include <iostream>
 #include <fstream>
-#include <ctime>
 #include <iomanip>
 #include <sstream>
 #include <math.h>
@@ -111,8 +110,8 @@ class LemmaElem {
 		
 		void IncrementDocCount() { m_DocCount++; }
 		
-		void SetWeight(double inverseDocumentFrequency, double maxInverseDocumentFrequency) {
-			m_Weight = ((double)m_DocCount * inverseDocumentFrequency) / maxInverseDocumentFrequency;
+		void SetWeight(double inverseDocumentFrequency, double maxDocumentFrequency) {
+			m_Weight = ((double)m_DocCount * inverseDocumentFrequency) / maxDocumentFrequency;
 		}
 		
 		friend ostream & operator<< (ostream & os, const LemmaElem & lemmaElem) {
@@ -131,11 +130,12 @@ class Lemma {
 	public:
 		string m_LemmaName;
 		mutable list<LemmaElem> m_Docs;
+		mutable unsigned m_MaxDocumentFrequency;
 		
 		//constructor
-		Lemma() { }
-		Lemma(string name):m_LemmaName(name) { }
-		Lemma(string name, int docId):m_LemmaName(name) { m_Docs.push_back(LemmaElem(docId)); }
+		Lemma():m_MaxDocumentFrequency(0) { }
+		Lemma(string name):m_LemmaName(name), m_MaxDocumentFrequency(0) { }
+		Lemma(string name, int docId):m_LemmaName(name), m_MaxDocumentFrequency(0) { m_Docs.push_back(LemmaElem(docId)); }
 		
 		bool operator== (const Lemma & lemma) const { 
 			return m_LemmaName == lemma.m_LemmaName;
@@ -148,11 +148,19 @@ class Lemma {
 		}
 		
 		//number of documents, where lemma has been found - df, document frequency
-		unsigned GetDocumentFrequency() const { return m_Docs.size(); }
+		unsigned GetDocumentsCount() const { return m_Docs.size(); }
+		
+		void SetMaxDocumentFrequency() const { 
+			for(auto x : m_Docs) {
+				m_MaxDocumentFrequency = max(m_MaxDocumentFrequency, x.m_DocCount);
+			}
+		}
+		
+		unsigned GetMaxDocumentFrequency() const { return m_MaxDocumentFrequency; }
 		
 		//inverse document frequency - idf
 		double GetInverseDocumentFrequency(int docCount) const {
-			return log2((double)docCount / (double)GetDocumentFrequency());
+			return log2((double)docCount / (double)GetDocumentsCount());
 		}
 		
 		//adds document id to lemma, only if it does not contain it already
@@ -212,9 +220,7 @@ class LemmaContainer {
 	public:
 		set<Lemma> m_Container;
 		
-		double m_MaxInverseDocumentFrequency; //max idf
-		
-		LemmaContainer():m_MaxInverseDocumentFrequency(0) { }
+		LemmaContainer() { }
 		
 		//inserts string lemma (cat) and document Id to set
 		void Insert(string lemma, int docId) {
@@ -236,13 +242,7 @@ class LemmaContainer {
 			return *it;
 		}
 		
-		//iterate through whole container and get maximum of inverse document frequencies
-		void SetMaxInverseDocumentFrequency(int docCount) {
-			for(auto x : m_Container) {
-				m_MaxInverseDocumentFrequency = max(m_MaxInverseDocumentFrequency, x.GetInverseDocumentFrequency(docCount));
-			}
-		}
-		
+		//iterate through container and remove stop words (most frequent)
 		void RemoveStopWords() {
 			ifstream is;
 			is.open(STOP_WORDS_FILE);
@@ -258,11 +258,10 @@ class LemmaContainer {
 		
 		//iterate through whole container and compute lemma's weight
 		void ComputeWeights(int docCount) {
-			SetMaxInverseDocumentFrequency(docCount);
 			for(auto &lemma : m_Container) {
-				double inverseDocumentFrequency = lemma.GetInverseDocumentFrequency(docCount);
+				lemma.SetMaxDocumentFrequency(); //first compute max docs frequency for each lemma
 				for(auto &lemmaElem : lemma.m_Docs) {
-					lemmaElem.SetWeight(inverseDocumentFrequency, m_MaxInverseDocumentFrequency);
+					lemmaElem.SetWeight(lemma.GetInverseDocumentFrequency(docCount), (double)lemma.GetMaxDocumentFrequency());
 				}
 			}
 		}

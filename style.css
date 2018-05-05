@@ -78,6 +78,15 @@ dt::before {
     counter-increment: section;
     content: "" counter(section) ". ";
 }
+h1 {
+	padding: 2em;
+}
+ol {
+	padding: 3em;
+}
+ol li {
+	padding: 0.5em;
+}
 
 .form-style-1 {
     margin:10px auto;

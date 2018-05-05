@@ -9,7 +9,7 @@
             <nav>
                 <div class="main-wrapper">
                     <ul>
-                        <li><a href="index.php">Home</a></li>
+                        <li><a href="../index.php">Home</a></li>
                     </ul>
                 </div>
             </nav>
@@ -23,11 +23,14 @@
                     $file = 'infix_to_postfix_and_evaluate.exe';
                     $input = $_GET["number"] . ' "' . $_GET["query"] . '"';
 
-                    if (file_exists($file)) {
+                    /*if (file_exists($file)) {
                         echo "<p>file " . $file . " exists</p>";
                     } else {
                         echo "<p>file " . $file . " does NOT exists</p>";
-                    }
+                    }*/
+					
+					echo '<p>Query: ' . $_GET["query"] . '<br/>';
+					echo 'Results count: ' . $_GET["number"] . '<br/></p>';
 
                     $return = 5;
                     $toexec = $file . " " . $input;
@@ -41,10 +44,11 @@
                       var_dump($return);
                       echo "<br>";
                      */
-
+					echo '<ol>';
                     foreach ($lines as $item) {
-                        echo '<a href="../docs/doc' . $item . '.txt">' . 'doc' . $item . '.txt' . "</a><br>";
+                        echo '<li><a href="../docs/doc' . $item . '.txt">' . 'doc' . $item . '.txt' . "</a></li>";
                     }
+					echo '</ol>';
                 } else {
                     echo "<p>its working but sadly not now (=_=)</p>";
                 }
